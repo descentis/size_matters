@@ -1,0 +1,5241 @@
+ 7630 0 0 8 Autism
+ 13479 0 0 36 Amphibian
+ 15052 0 0 36 Apollo 11
+ 9688 0 0 19 Apollo 8
+ 6713 0 0 5 Aries (constellation)
+ 13745 0 0 43 Ancient Egypt
+ 5912 0 0 6 Astatine
+ 9131 0 0 12 Atom
+ 9098 0 0 17 Albert Speer
+ 16546 0 0 34 Augustus
+ 6134 0 0 22 Apatosaurus
+ 8799 0 0 32 Allosaurus
+ 4659 0 0 14 Albertosaurus
+ 8420 0 0 6 Amazing Grace
+ 13322 0 0 20 Alfred Russel Wallace
+ 6898 0 0 6 Alboin
+ 4784 0 0 3 Ealdred (archbishop of York)
+ 20754 0 0 32 Andrew Jackson
+ 16061 0 0 18 Andrew Johnson
+ 11038 0 0 34 Apollo 13
+ 6392 0 0 18 Apollo 9
+ 6281 0 0 12 Archimedes
+ 5866 0 0 11 American Airlines Flight 77
+ 2137 0 0 3 Antlia
+ 1872 0 0 2 Apus
+ 7973 0 0 21 Apollo 14
+ 9729 0 0 33 Apollo 15
+ 7837 0 0 9 Ann Arbor, Michigan
+ 2059 0 0 1 Ælfheah of Canterbury
+ 10924 0 0 6 Aaliyah
+ 9757 0 0 23 Arsenal F.C.
+ 2704 0 0 4 Ælle of Sussex
+ 5919 0 0 14 Anton Chekhov
+ 8981 0 0 14 Amphetamine
+ 9158 0 0 31 Ant
+ 6252 0 0 6 A Vindication of the Rights of Woman
+ 5243 0 0 4 Augustine of Canterbury
+ 6901 0 0 2 A Wizard of Earthsea
+ 7357 0 0 22 Archaeopteryx
+ 13239 0 0 66 Bird
+ 10316 0 0 29 Bulgaria
+ 10340 0 0 30 Belarus
+ 8645 0 0 7 Blade Runner
+ 11778 0 0 33 Battle of Bosworth Field
+ 10826 0 0 15 Baseball
+ 20167 0 0 36 Benjamin Disraeli
+ 5942 0 0 12 Buckingham Palace
+ 8541 0 0 18 Battle of Blenheim
+ 7105 0 0 13 Battle of Ramillies
+ 9611 0 0 24 Battleship
+ 9912 0 0 29 Boeing 767
+ 18002 0 0 28 Babe Ruth
+ 3143 0 0 8 Barnard's Star
+ 10728 0 0 12 Baháʼí Faith
+ 7237 0 0 10 Binary search algorithm
+ 5715 0 0 17 Beagle
+ 9405 0 0 21 Bald eagle
+ 8780 0 0 10 Blackbeard
+ 13478 0 0 18 Battle of the Nile
+ 12669 0 0 32 Boeing 747
+ 14329 0 0 29 British Empire
+ 27333 0 0 19 Balfour Declaration
+ 9252 0 0 10 Blue whale
+ 8693 0 0 20 Brabham
+ 13402 0 0 25 Chess
+ 16052 0 0 27 Charlie Chaplin
+ 14381 0 0 29 Columbia River
+ 8624 0 0 24 Cameroon
+ 8232 0 0 17 Chad
+ 6713 0 0 29 Caspar David Friedrich
+ 11902 0 0 13 Courtney Love
+ 3967 0 0 2 Californium
+ 6164 0 0 12 Caesium
+ 16044 0 0 55 Cleveland
+ 10460 0 0 20 Calvin Coolidge
+ 10907 0 0 16 Claudio Monteverdi
+ 6882 0 0 14 Cell nucleus
+ 12509 0 0 12 Claude Debussy
+ 4490 0 0 7 Canis Major
+ 3241 0 0 4 Canis Minor
+ 3524 0 0 3 Corona Borealis
+ 6868 0 0 3 Corona Australis
+ 1548 0 0 3 Caelum
+ 7283 0 0 14 Carolina Panthers
+ 8481 0 0 4 Chrono Trigger
+ 11630 0 0 7 Candide
+ 7544 0 0 9 Cane toad
+ 3885 0 0 9 Cottingley Fairies
+ 3882 0 0 4 Ceawlin of Wessex
+ 3672 0 0 8 Comet Shoemaker–Levy 9
+ 5208 0 0 10 Chagas disease
+ 14436 0 0 34 Cannon
+ 3142 0 0 8 Comet Hale–Bopp
+ 5603 0 0 5 Constantine II of Scotland
+ 5733 0 0 12 Cricket World Cup
+ 12706 0 0 28 Charles I of England
+ 8664 0 0 15 Chelsea F.C.
+ 5868 0 0 5 Chrono Cross
+ 9165 0 0 4 Dungeons & Dragons
+ 10006 0 0 29 DNA
+ 10200 0 0 20 Diamond
+ 13021 0 0 34 Dinosaur
+ 9898 0 0 9 Major depressive disorder
+ 8729 0 0 30 Dartmouth College
+ 16964 0 0 39 Dodo
+ 4189 0 0 7 Dubnium
+ 9438 0 0 8 Dmitri Shostakovich
+ 13829 0 0 21 Diocletian
+ 11521 0 0 22 Domitian
+ 9746 0 0 18 Taiko
+ 16829 0 0 23 David Bowie
+ 12264 0 0 13 D. B. Cooper
+ 9799 0 0 29 Earth
+ 13712 0 0 20 Evolution
+ 6817 0 0 13 Enzyme
+ 12234 0 0 54 Elephant
+ 24702 0 0 23 Elvis Presley
+ 11666 0 0 25 Ernest Hemingway
+ 9511 0 0 18 Electron
+ 7223 0 0 10 Edgar Allan Poe
+ 12402 0 0 18 European Parliament
+ 11865 0 0 21 Emma Goldman
+ 5309 0 0 8 Æthelberht of Kent
+ 6002 0 0 8 European Commission
+ 12666 0 0 20 Edward Elgar
+ 11927 0 0 23 Elizabeth I
+ 10334 0 0 19 Edward VI of England
+ 9927 0 0 6 Enid Blyton
+ 9059 0 0 15 Enrico Fermi
+ 10937 0 0 9 Euclidean algorithm
+ 7534 0 0 17 Association football
+ 13753 0 0 12 Frank Zappa
+ 2459 0 0 3 Francium
+ 11914 0 0 20 Frédéric Chopin
+ 18977 0 0 12 Franz Kafka
+ 8280 0 0 6 Final Fantasy
+ 4945 0 0 3 Final Fantasy: The Spirits Within
+ 11532 0 0 6 Premier League
+ 8263 0 0 15 FIFA World Cup
+ 15191 0 0 20 Female genital mutilation
+ 7703 0 0 11 First Punic War
+ 11520 0 0 29 McDonnell Douglas F-4 Phantom II
+ 15363 0 0 52 Finnish Civil War
+ 10918 0 0 23 Fridtjof Nansen
+ 10192 0 0 31 Germany
+ 13789 0 0 16 General relativity
+ 7878 0 0 6 Georg Cantor
+ 4020 0 0 7 Germanium
+ 6890 0 0 19 Genetics
+ 8060 0 0 23 Gettysburg Address
+ 12781 0 0 18 Gioachino Rossini
+ 12635 0 0 25 Gough Whitlam
+ 12847 0 0 28 Grover Cleveland
+ 6149 0 0 17 Great auk
+ 7782 0 0 23 Galaxy
+ 2549 0 0 3 Grus (constellation)
+ 4293 0 0 8 Guy Fawkes
+ 8121 0 0 34 Giraffe
+ 13673 0 0 16 George Harrison
+ 18972 0 0 15 George Bernard Shaw
+ 6384 0 0 13 Globular cluster
+ 6191 0 0 8 George Fox
+ 12941 0 0 20 Gunpowder Plot
+ 6597 0 0 10 Hydrogen
+ 9045 0 0 13 Helium
+ 4584 0 0 12 Hippocrates
+ 19478 0 0 19 Hamlet
+ 9096 0 0 12 Huldrych Zwingli
+ 8083 0 0 31 Holden
+ 7295 0 0 7 Hassium
+ 2077 0 0 2 Hydrus
+ 14292 0 0 21 Heavy metal music
+ 13234 0 0 16 Henry I of England
+ 5888 0 0 11 Elagabalus
+ 7847 0 0 15 Hamilton, Ontario
+ 9688 0 0 24 Hoover Dam
+ 18170 0 0 110 India
+ 4856 0 0 9 Iridium
+ 8462 0 0 8 Immune system
+ 11782 0 0 17 I. M. Pei
+ 11432 0 0 4 Intelligent design
+ 11315 0 0 32 Japan
+ 7415 0 0 11 James Joyce
+ 10498 0 0 25 Johannes Kepler
+ 16203 0 0 26 John Lennon
+ 13671 0 0 17 J. R. R. Tolkien
+ 11624 0 0 17 John A. Macdonald
+ 14529 0 0 16 John Diefenbaker
+ 11034 0 0 20 John Calvin
+ 17884 0 0 28 James K. Polk
+ 9776 0 0 9 J. K. Rowling
+ 15631 0 0 14 Jimi Hendrix
+ 13589 0 0 19 Jefferson Davis
+ 11522 0 0 22 Jackie Robinson
+ 11375 0 0 14 James G. Blaine
+ 5286 0 0 18 Jaguar
+ 2437 0 0 3 Justus
+ 9381 0 0 19 Joan of Arc
+ 16128 0 0 26 John, King of England
+ 13525 0 0 18 John Hay
+ 4733 0 0 1 Joy Division
+ 8223 0 0 20 Kuiper belt
+ 9371 0 0 13 King Arthur
+ 12681 0 0 22 Kenesaw Mountain Landis
+ 4075 0 0 3 Khalid al-Mihdhar
+ 10442 0 0 7 Kurt Vonnegut
+ 6441 0 0 8 Knights Templar
+ 9994 0 0 36 Karnataka
+ 11017 0 0 13 Kylie Minogue
+ 10290 0 0 24 Killer whale
+ 8283 0 0 23 Koala
+ 5221 0 0 13 Komodo dragon
+ 5284 0 0 7 Kirsten Dunst
+ 16091 0 0 23 Lead
+ 8392 0 0 21 Logarithm
+ 6140 0 0 11 Leonhard Euler
+ 14488 0 0 19 League of Nations
+ 7007 0 0 5 Bodyline
+ 7170 0 0 13 Liverpool F.C.
+ 4174 0 0 5 Lindow Man
+ 6505 0 0 14 Luton Town F.C.
+ 7421 0 0 24 Lung cancer
+ 2093 0 0 4 Laurence of Canterbury
+ 9410 0 0 13 Louis Riel
+ 2587 0 0 5 Laika
+ 4843 0 0 2 Master of Puppets
+ 4442 0 0 3 Ride the Lightning
+ 10579 0 0 18 Metallica
+ 19288 0 0 36 Middle Ages
+ 8386 0 0 18 Manitoba
+ 14790 0 0 32 Madagascar
+ 13190 0 0 31 Marilyn Monroe
+ 13289 0 0 54 Moon
+ 11448 0 0 21 Group (mathematics)
+ 15034 0 0 15 Mariah Carey
+ 11030 0 0 33 Minnesota
+ 21576 0 0 38 Manhattan Project
+ 5046 0 0 9 Main sequence
+ 5416 0 0 12 Maniac Mansion
+ 15110 0 0 28 Mary Rose
+ 9048 0 0 38 Mercury (planet)
+ 9973 0 0 12 Mary Wollstonecraft
+ 5062 0 0 11 Maple syrup
+ 1719 0 0 2 Microscopium
+ 9995 0 0 13 Manchester United F.C.
+ 4957 0 0 2 Morihei Ueshiba
+ 12501 0 0 32 Manchester
+ 12144 0 0 11 Margaret Murray
+ 7226 0 0 16 Metabolism
+ 7372 0 0 9 M-theory
+ 11962 0 0 14 Michael Jordan
+ 8806 0 0 17 Mary, Queen of Scots
+ 10820 0 0 14 Megadeth
+ 4707 0 0 9 Mary II of England
+ 2774 0 0 2 Mellitus
+ 11863 0 0 17 Malcolm X
+ 2567 0 0 28 Noble gas
+ 9631 0 0 22 Nancy Reagan
+ 8229 0 0 14 Niels Bohr
+ 4851 0 0 4 Nights into Dreams
+ 6244 0 0 10 Nirvana (band)
+ 13824 0 0 26 Neil Armstrong
+ 4840 0 0 9 Niobium
+ 6220 0 0 17 Nauru
+ 15911 0 0 14 Neville Chamberlain
+ 5676 0 0 14 Nostradamus
+ 4304 0 0 4 NeXT
+ 8338 0 0 22 Oxygen
+ 3247 0 0 5 Oort cloud
+ 6516 0 0 17 Orangutan
+ 11720 0 0 19 Oklahoma City bombing
+ 13292 0 0 51 Oklahoma
+ 14954 0 0 23 Olympic Games
+ 6057 0 0 7 Oxidative phosphorylation
+ 7693 0 0 33 Octopus
+ 6096 0 0 3 Ozzie Smith
+ 10470 0 0 71 Planet
+ 9347 0 0 35 Primate
+ 19189 0 0 22 Punk rock
+ 11911 0 0 26 Periodic table
+ 12408 0 0 35 Pi
+ 4728 0 0 4 Pixies (band)
+ 5150 0 0 17 Platypus
+ 6301 0 0 7 Planets beyond Neptune
+ 14209 0 0 34 Passenger pigeon
+ 2394 0 0 5 Pyxis
+ 6088 0 0 5 Privy Council of the United Kingdom
+ 9765 0 0 20 Pyotr Ilyich Tchaikovsky
+ 13053 0 0 11 Peter Sellers
+ 6904 0 0 11 Proteasome
+ 4790 0 0 2 Press Gang
+ 7050 0 0 12 Polio
+ 4375 0 0 19 Polar coordinate system
+ 5494 0 0 11 Quark
+ 3521 0 0 13 Quagga
+ 4302 0 0 4 Rugby World Cup
+ 19056 0 0 39 Ronald Reagan
+ 13024 0 0 20 Richard Wagner
+ 21792 0 0 50 Richard Nixon
+ 11301 0 0 9 Richard Feynman
+ 16580 0 0 22 Rwanda
+ 7219 0 0 15 Robert Falcon Scott
+ 15568 0 0 31 Romeo and Juliet
+ 11341 0 0 12 Ringo Starr
+ 2562 0 0 2 Radical Dreamers
+ 11301 0 0 8 Radiocarbon dating
+ 6141 0 0 7 Redshift
+ 8941 0 0 12 Rosetta Stone
+ 4487 0 0 6 Rigel
+ 5006 0 0 8 Rhys ap Gruffydd
+ 12715 0 0 38 Sun
+ 10798 0 0 25 Star
+ 9181 0 0 28 Solar System
+ 11552 0 0 4 Star Trek: First Contact
+ 8606 0 0 6 Star Trek II: The Wrath of Khan
+ 10710 0 0 25 Supernova
+ 10342 0 0 8 Schizophrenia
+ 6551 0 0 17 Scouting
+ 6360 0 0 14 Sirius
+ 5471 0 0 8 Serpens
+ 10263 0 0 22 Space Shuttle
+ 10596 0 0 8 Steve Biko
+ 7685 0 0 4 Starship Troopers
+ 3696 0 0 13 Springbok
+ 11342 0 0 31 Statue of Liberty
+ 10104 0 0 12 Speed of light
+ 10105 0 0 11 Sir Gawain and the Green Knight
+ 3064 0 0 9 Surtsey
+ 14228 0 0 17 Stephen, King of England
+ 4332 0 0 5 32X
+ 3951 0 0 13 Sega CD
+ 7835 0 0 19 Sega Saturn
+ 5105 0 0 1 System Shock
+ 13365 0 0 11 Stonewall riots
+ 9431 0 0 11 Stephen I of Hungary
+ 19094 0 0 20 The Beatles
+ 12463 0 0 10 The Simpsons
+ 7017 0 0 16 Tamil language
+ 9805 0 0 20 Texas A&M University
+ 16428 0 0 14 On the Origin of Species
+ 5552 0 0 14 Titanium
+ 4621 0 0 6 Technetium
+ 10817 0 0 13 Thorium
+ 13732 0 0 12 Sex Pistols
+ 6916 0 0 26 Thylacine
+ 11502 0 0 42 Tyrannosaurus
+ 11031 0 0 15 Thomas Cranmer
+ 9470 0 0 10 The Shawshank Redemption
+ 1888 0 0 3 Triangulum
+ 2414 0 0 7 Tucana
+ 4327 0 0 2 Triangulum Australe
+ 5155 0 0 6 Telescopium
+ 5570 0 0 19 Toledo War
+ 3173 0 0 5 Jupiter trojan
+ 5950 0 0 7 Tool (band)
+ 11625 0 0 19 Tower of London
+ 8052 0 0 7 The Age of Reason
+ 3774 0 0 4 Tau Ceti
+ 8645 0 0 12 Thomas R. Marshall
+ 12188 0 0 18 Tasmanian devil
+ 7790 0 0 13 The Smashing Pumpkins
+ 10192 0 0 6 University of Michigan
+ 8327 0 0 30 Uranium
+ 22807 0 0 52 Ulysses S. Grant
+ 3100 0 0 4 Ursa Minor
+ 7392 0 0 12 United Airlines Flight 93
+ 10158 0 0 6 Ursula K. Le Guin
+ 2925 0 0 5 Umbriel (moon)
+ 11158 0 0 60 United States Military Academy
+ 10515 0 0 19 Vampire
+ 10909 0 0 14 Vidkun Quisling
+ 15374 0 0 43 Virginia
+ 4205 0 0 26 Velociraptor
+ 15276 0 0 84 Vincent van Gogh
+ 5364 0 0 10 Vega
+ 8830 0 0 29 Venus
+ 8958 0 0 8 Vannevar Bush
+ 7272 0 0 9 Vivien Leigh
+ 13207 0 0 15 William Shakespeare
+ 9151 0 0 13 Walt Disney
+ 17089 0 0 30 Warren G. Harding
+ 8628 0 0 11 William Gibson
+ 8986 0 0 18 William Henry Harrison
+ 13650 0 0 11 Wayne Gretzky
+ 6694 0 0 7 Wolfenstein 3D
+ 9607 0 0 7 White dwarf
+ 15425 0 0 29 William McKinley
+ 16790 0 0 27 William Howard Taft
+ 7092 0 0 12 W. B. Yeats
+ 12324 0 0 37 Wolf
+ 10854 0 0 9 Watchmen
+ 13168 0 0 19 William the Conqueror
+ 14731 0 0 26 Winter War
+ 12001 0 0 14 Wendell Willkie
+ 5501 0 0 9 Xenon
+ 10508 0 0 14 Yasser Arafat
+ 11928 0 0 31 Yellowstone National Park
+ 9205 0 0 20 Zinc
+ 6507 0 0 32 Zebra
+ 9512 0 0 15 Zhang Heng
+ 4214 0 0 10 Roger B. Chaffee
+ 5876 0 0 26 Mount St. Helens
+ 13640 0 0 42 Bristol
+ 10226 0 0 12 Magic Johnson
+ 10515 0 0 12 Pericles
+ 9544 0 0 30 Lion
+ 9502 0 0 15 Alain Prost
+ 10222 0 0 13 Harriet Tubman
+ 7967 0 0 10 John Knox
+ 8316 0 0 16 Josiah Willard Gibbs
+ 4577 0 0 14 Hoysala architecture
+ 4231 0 0 10 Hoysala Empire
+ 8386 0 0 28 Tornado
+ 10150 0 0 23 Hyderabad
+ 8133 0 0 20 Dorset
+ 15102 0 0 20 Isis
+ 5305 0 0 24 Hippopotamus
+ 9393 0 0 13 Edward Teller
+ 8005 0 0 13 Carmen
+ 8840 0 0 14 Tosca
+ 8595 0 0 11 Radiohead
+ 8183 0 0 16 Mary Anning
+ 9091 0 0 16 Psilocybin
+ 13854 0 0 37 Frog
+ 12152 0 0 14 Texas Revolution
+ 8507 0 0 9 Cross of Gold speech
+ 8607 0 0 28 Jupiter
+ 2465 0 0 4 Harry R. Truman
+ 9325 0 0 12 Rolls-Royce Merlin
+ 14161 0 0 17 J. Robert Oppenheimer
+ 6746 0 0 25 Hanford Site
+ 11528 0 0 11 Spiro Agnew
+ 4761 0 0 8 Ice dance
+ 6288 0 0 13 Dengue fever
+ 12024 0 0 29 Joseph Priestley
+ 13419 0 0 38 Hubble Space Telescope
+ 13709 0 0 29 James A. Garfield
+ 3442 0 0 3 Jean Baptiste Point du Sable
+ 8243 0 0 30 1880 United States presidential election
+ 2968 0 0 6 American goldfinch
+ 10487 0 0 25 Bath, Somerset
+ 9882 0 0 7 Bix Beiderbecke
+ 18999 0 0 61 Macedonia (ancient kingdom)
+ 14780 0 0 22 George S. Patton
+ 14672 0 0 21 Rastafari
+ 6493 0 0 13 Aston Villa F.C.
+ 6935 0 0 15 Honoré de Balzac
+ 19457 0 0 21 Nikita Khrushchev
+ 5514 0 0 13 Władysław II Jagiełło
+ 9409 0 0 8 The Dark Side of the Moon
+ 7324 0 0 23 Murasaki Shikibu
+ 5001 0 0 12 Callisto (moon)
+ 6284 0 0 28 Europa (moon)
+ 12792 0 0 22 Katharine Hepburn
+ 12597 0 0 58 Ukiyo-e
+ 12161 0 0 20 Zenobia
+ 6054 0 0 3 Actuary
+ 16274 0 0 38 Ming dynasty
+ 18927 0 0 53 Tang dynasty
+ 20949 0 0 52 Han dynasty
+ 4403 0 0 10 Georg Forster
+ 14640 0 0 15 Laurence Olivier
+ 18124 0 0 36 John McCain
+ 9992 0 0 19 Catherine de' Medici
+ 20065 0 0 26 Ezra Pound
+ 14397 0 0 27 Gary Cooper
+ 4961 0 0 21 Triton (moon)
+ 8890 0 0 36 Pluto
+ 5619 0 0 27 Saturn
+ 8547 0 0 27 Uranus
+ 9045 0 0 10 Thomas F. Bayard
+ 7585 0 0 21 Battle of Hastings
+ 6902 0 0 5 William of Tyre
+ 11411 0 0 15 Manuel I Komnenos
+ 16801 0 0 21 Edward II of England
+ 6741 0 0 9 Brad Pitt
+ 8067 0 0 13 Welding
+ 3469 0 0 2 Ryan White
+ 4323 0 0 8 Oil shale
+ 9192 0 0 13 North Cascades National Park
+ 15435 0 0 19 Arthur Sullivan
+ 7430 0 0 11 Jochen Rindt
+ 10874 0 0 21 Grand Teton National Park
+ 5318 0 0 5 Opeth
+ 7065 0 0 25 Halley's Comet
+ 7950 0 0 11 Edward III of England
+ 6690 0 0 16 George II of Great Britain
+ 7146 0 0 16 Richard II of England
+ 16634 0 0 22 Henry III of England
+ 12512 0 0 25 Demosthenes
+ 5988 0 0 6 Xenu
+ 9417 0 0 15 Anne, Queen of Great Britain
+ 8311 0 0 16 Charles II of England
+ 6128 0 0 17 Fort Ticonderoga
+ 13169 0 0 48 William Tecumseh Sherman
+ 9686 0 0 27 Edward VII
+ 7177 0 0 16 Queen Elizabeth The Queen Mother
+ 6124 0 0 17 George VI
+ 7161 0 0 18 Death Valley National Park
+ 9062 0 0 20 George V
+ 6779 0 0 16 George I of Great Britain
+ 5573 0 0 8 Wallis Simpson
+ 7690 0 0 11 Manzanar
+ 4285 0 0 11 Bryce Canyon National Park
+ 7672 0 0 13 Offa of Mercia
+ 9787 0 0 16 Monarchy of the United Kingdom
+ 8810 0 0 10 Orpheus in the Underworld
+ 4643 0 0 13 243 Ida
+ 5198 0 0 16 Asteroid belt
+ 5216 0 0 6 Æthelred I, King of Wessex
+ 9199 0 0 25 William III of England
+ 6427 0 0 6 Æthelflæd
+ 9672 0 0 51 Titan (moon)
+ 4069 0 0 14 Cirrus cloud
+ 8541 0 0 12 Daylight saving time
+ 13339 0 0 19 H.M.S. Pinafore
+ 10567 0 0 27 Queen Victoria
+ 6882 0 0 9 Sesame Street
+ 12350 0 0 12 Maurice Ravel
+ 5756 0 0 6 Sesame Workshop
+ 1887 0 0 4 Caesar cipher
+ 4695 0 0 9 Mary of Teck
+ 4137 0 0 6 Ecgberht, King of Wessex
+ 9433 0 0 7 Æthelwulf, King of Wessex
+ 3908 0 0 4 Æthelbald, King of Wessex
+ 3128 0 0 4 Æthelberht, King of Wessex
+ 12639 0 0 21 Samuel Johnson
+ 21556 0 0 25 Douglas MacArthur
+ 6521 0 0 13 1896 Summer Olympics
+ 8570 0 0 28 Yosemite National Park
+ 10551 0 0 10 Gamma-ray burst
+ 5560 0 0 15 Alexandra of Denmark
+ 11670 0 0 14 Camille Saint-Saëns
+ 12685 0 0 14 Empress Matilda
+ 2322 0 0 3 Phoenix (constellation)
+ 10677 0 0 12 Gustav Holst
+ 8017 0 0 5 Osiris myth
+ 13001 0 0 30 Castle
+ 15826 0 0 48 San Francisco
+ 6543 0 0 17 Battle of Barnet
+ 11526 0 0 12 Alice in Chains
+ 9710 0 0 10 William Wilberforce
+ 6708 0 0 32 Battle of Towton
+ 8853 0 0 17 Cerebellum
+ 5265 0 0 10 Caroline of Ansbach
+ 7464 0 0 14 Multiple sclerosis
+ 13139 0 0 15 Mortimer Wheeler
+ 4008 0 0 12 Manta ray
+ 5042 0 0 4 Francis Walsingham
+ 5730 0 0 4 Kenneth Horne
+ 15113 0 0 20 Grunge
+ 9486 0 0 1 Round the Horne
+ 9368 0 0 19 Somerset
+ 11882 0 0 32 Canberra
+ 15729 0 0 14 John C. Calhoun
+ 8634 0 0 13 Kate Winslet
+ 4515 0 0 3 Final Fantasy Tactics
+ 6399 0 0 3 Final Fantasy VI
+ 12154 0 0 8 Final Fantasy VII
+ 6047 0 0 4 Final Fantasy VIII
+ 4944 0 0 4 Final Fantasy IX
+ 6454 0 0 5 Final Fantasy X
+ 14753 0 0 27 U2
+ 5710 0 0 4 Tom Swift
+ 10018 0 0 7 1975 Australian constitutional crisis
+ 11660 0 0 24 Duke University
+ 13302 0 0 16 Hector Berlioz
+ 6797 0 0 4 Marcian
+ 14489 0 0 16 Taiwanese indigenous peoples
+ 6729 0 0 12 Jim Thorpe
+ 11139 0 0 24 Betelgeuse
+ 8761 0 0 13 Night of the Long Knives
+ 13921 0 0 13 Hippocampus
+ 5961 0 0 19 Ganymede (moon)
+ 6784 0 0 22 Triceratops
+ 14808 0 0 3 Nancy Drew
+ 7317 0 0 5 Josquin des Prez
+ 4507 0 0 9 Cabbage
+ 8448 0 0 9 Barbara McClintock
+ 12642 0 0 5 Voting Rights Act of 1965
+ 12217 0 0 67 Belgrade
+ 8363 0 0 6 Tourette syndrome
+ 8673 0 0 28 Dhaka
+ 14199 0 0 43 Song dynasty
+ 4317 0 0 10 Lettuce
+ 6944 0 0 14 Anne of Denmark
+ 13504 0 0 14 Peasants' Revolt
+ 11458 0 0 11 Stephen Crane
+ 8929 0 0 9 Ian Fleming
+ 8144 0 0 18 California Gold Rush
+ 4323 0 0 7 École Polytechnique massacre
+ 11565 0 0 11 Æthelstan
+ 10919 0 0 17 River Parrett
+ 11951 0 0 54 John Glenn
+ 7113 0 0 23 Battle of Crécy
+ 9080 0 0 7 Confirmation bias
+ 5670 0 0 14 Amanita muscaria
+ 4788 0 0 7 1930 FIFA World Cup
+ 5896 0 0 4 Smells Like Teen Spirit
+ 10010 0 0 16 Ernest Shackleton
+ 15939 0 0 32 Guadalcanal campaign
+ 9515 0 0 32 Trinity (nuclear test)
+ 12737 0 0 9 Janet Jackson
+ 13313 0 0 17 Battle of Midway
+ 10076 0 0 24 Omaha Beach
+ 10498 0 0 29 Pinniped
+ 6026 0 0 20 Steller's sea cow
+ 6611 0 0 20 Leslie Groves
+ 11120 0 0 20 Emmeline Pankhurst
+ 6816 0 0 10 Emily Davison
+ 17389 0 0 54 Cleopatra
+ 13029 0 0 18 The King and I
+ 3264 0 0 2 Thrasybulus
+ 7205 0 0 11 Scottish Parliament
+ 10884 0 0 14 Rod Steiger
+ 10557 0 0 15 Alcibiades
+ 3158 0 0 12 Pygmy hippopotamus
+ 2771 0 0 9 Epacris impressa
+ 5465 0 0 4 The Red Badge of Courage
+ 13672 0 0 25 Battle of the Coral Sea
+ 4476 0 0 5 Oganesson
+ 10322 0 0 7 Secretariat (horse)
+ 5643 0 0 17 Mackinac Island
+ 7805 0 0 15 Guinea pig
+ 4408 0 0 12 Bee-eater
+ 12141 0 0 12 P. G. Wodehouse
+ 10723 0 0 11 Evelyn Waugh
+ 8045 0 0 6 Coeliac disease
+ 7758 0 0 35 Alan Shepard
+ 6342 0 0 5 Homer Simpson
+ 6993 0 0 7 Bart Simpson
+ 13831 0 0 14 Benjamin Britten
+ 7153 0 0 10 Alan Bush
+ 1711 0 0 2 Troy McClure
+ 5105 0 0 5 Sideshow Bob
+ 11947 0 0 20 Gustav Mahler
+ 8669 0 0 9 Peterloo Massacre
+ 9507 0 0 20 Buzz Aldrin
+ 4640 0 0 12 Barn swallow
+ 8924 0 0 16 Battle of Dien Bien Phu
+ 5638 0 0 8 Island of stability
+ 10392 0 0 13 New Jersey Devils
+ 2692 0 0 3 Oberon (moon)
+ 12789 0 0 59 Józef Piłsudski
+ 8001 0 0 11 Stanley Cup
+ 3086 0 0 3 Tasha Yar
+ 5354 0 0 2 Fourth International
+ 12895 0 0 23 Australian Defence Force
+ 5363 0 0 6 Tennessine
+ 7827 0 0 14 Georges Bizet
+ 10569 0 0 24 John Barrymore
+ 11997 0 0 38 FC Barcelona
+ 6943 0 0 6 Bobby Robson
+ 7600 0 0 10 Norman conquest of England
+ 6961 0 0 23 Pelican
+ 9072 0 0 19 Battle of Vimy Ridge
+ 6866 0 0 36 Flag of Germany
+ 11049 0 0 15 Viking metal
+ 7786 0 0 14 Daniel Boone
+ 10798 0 0 12 Nine Inch Nails
+ 9620 0 0 20 Uncle Tom's Cabin
+ 12636 0 0 19 Toronto Raptors
+ 8586 0 0 12 Gabriel Fauré
+ 3139 0 0 12 Surface weather analysis
+ 6841 0 0 67 Order of the Garter
+ 5220 0 0 7 Abu Nidal
+ 6837 0 0 4 Last of the Summer Wine
+ 6115 0 0 5 Bride of Frankenstein
+ 10175 0 0 4 To Kill a Mockingbird
+ 7257 0 0 8 E.T. the Extra-Terrestrial
+ 8560 0 0 7 Slayer
+ 6840 0 0 14 A Christmas Carol
+ 5587 0 0 17 Gertie the Dinosaur
+ 3832 0 0 8 Hockey Hall of Fame
+ 5502 0 0 5 Space Invaders
+ 6024 0 0 13 Maximian
+ 14915 0 0 15 Casey Stengel
+ 7389 0 0 3 Hilary Putnam
+ 6408 0 0 15 Grand Duchess Anastasia Nikolaevna of Russia
+ 10674 0 0 17 Nikolai Rimsky-Korsakov
+ 10714 0 0 16 Felix Mendelssohn
+ 12941 0 0 12 Patrick Henry
+ 8463 0 0 18 Albert, Prince Consort
+ 7157 0 0 20 Emu
+ 11453 0 0 6 V. Gordon Childe
+ 5339 0 0 11 Magnavox Odyssey
+ 6667 0 0 6 Maurice Richard
+ 7141 0 0 6 Nihonium
+ 7892 0 0 15 Cougar
+ 6332 0 0 11 Damon Hill
+ 5928 0 0 6 Wilco
+ 4225 0 0 11 The Raven
+ 12139 0 0 15 Ralph Vaughan Williams
+ 8243 0 0 16 Willamette River
+ 5461 0 0 13 Interstate 96
+ 13161 0 0 41 Greater Manchester
+ 5921 0 0 2 Nick Drake
+ 4847 0 0 5 Georgette Heyer
+ 6266 0 0 9 Unas
+ 8721 0 0 16 Frank Borman
+ 5522 0 0 13 Ahmose I
+ 7556 0 0 10 Grim Fandango
+ 4212 0 0 4 Super Mario World
+ 8319 0 0 10 Rachel Carson
+ 14626 0 0 20 William H. Seward
+ 11821 0 0 25 Pedro II of Brazil
+ 13090 0 0 27 Pedro I of Brazil
+ 6789 0 0 20 Appaloosa
+ 4396 0 0 8 Proxima Centauri
+ 8020 0 0 7 Epaminondas
+ 3301 0 0 7 Æthelbald of Mercia
+ 6269 0 0 8 Demetrius III Eucaerus
+ 7382 0 0 10 Sandy Koufax
+ 11116 0 0 12 OK Computer
+ 5264 0 0 10 Dream of the Rarebit Fiend
+ 23225 0 0 14 Metalloid
+ 8141 0 0 21 Interstate 8
+ 3805 0 0 7 Cygnus X-1
+ 8662 0 0 26 Megabat
+ 5201 0 0 2 Paul Henderson
+ 5979 0 0 7 Terry Fox
+ 9547 0 0 17 September Morn
+ 12639 0 0 18 Don Bradman
+ 6144 0 0 9 Menstrual cycle
+ 4958 0 0 9 Battle of Valcour Island
+ 7323 0 0 8 Jack L. Warner
+ 8027 0 0 3 Star Trek IV: The Voyage Home
+ 6958 0 0 12 Garret Hobart
+ 8160 0 0 15 Kakapo
+ 13592 0 0 19 John C. Breckinridge
+ 10475 0 0 30 Boeing 777
+ 11209 0 0 4 Harold Pinter
+ 4020 0 0 14 Interstate 68
+ 15136 0 0 20 W. E. B. Du Bois
+ 9653 0 0 12 Hitler Diaries
+ 4033 0 0 10 Battle of Tippecanoe
+ 11109 0 0 14 Alben W. Barkley
+ 9159 0 0 19 Eta Carinae
+ 3806 0 0 2 Asser
+ 6810 0 0 7 Reese Witherspoon
+ 5010 0 0 5 Interstate 82
+ 7603 0 0 11 William Walton
+ 7278 0 0 11 Warren County, Indiana
+ 4370 0 0 25 Flag of Canada
+ 10321 0 0 13 Hathor
+ 8847 0 0 20 Michael Collins (astronaut)
+ 5764 0 0 8 Myles Standish
+ 9714 0 0 10 Carl Nielsen
+ 5281 0 0 6 Theramenes
+ 7117 0 0 13 Isaac Brock
+ 4876 0 0 5 Super Mario 64
+ 10354 0 0 11 Ahalya
+ 4974 0 0 19 Millipede
+ 7404 0 0 4 Profumo affair
+ 8234 0 0 23 Winnipeg
+ 5989 0 0 3 Phil Hartman
+ 10616 0 0 34 Georgetown University
+ 10626 0 0 10 Abd al-Malik ibn Marwan
+ 15221 0 0 19 Jack Parsons (rocket engineer)
+ 5430 0 0 5 The Philadelphia Inquirer
+ 7547 0 0 6 Peter Martyr Vermigli
+ 3274 0 0 3 Imagism
+ 3396 0 0 7 Holkham National Nature Reserve
+ 3697 0 0 20 Master System
+ 13434 0 0 11 B movie
+ 7595 0 0 40 Second Crusade
+ 5255 0 0 10 Jerome, Arizona
+ 12366 0 0 35 Washington, D.C.
+ 4723 0 0 4 Nancy Cartwright
+ 9483 0 0 4 Tender Mercies
+ 4594 0 0 4 Stereolab
+ 7925 0 0 8 Nancy Mitford
+ 13405 0 0 32 Briarcliff Manor, New York
+ 2162 0 0 2 Macintosh Classic
+ 8123 0 0 20 Oriel College, Oxford
+ 5912 0 0 12 Grand Forks, North Dakota
+ 6716 0 0 8 Hillsboro, Oregon
+ 6994 0 0 15 Lock Haven, Pennsylvania
+ 6863 0 0 37 Erie, Pennsylvania
+ 18590 0 0 33 Paul Kruger
+ 2725 0 0 3 Maximus the Confessor
+ 4003 0 0 2 Stephens City, Virginia
+ 6656 0 0 9 Arlington, Washington
+ 8941 0 0 17 Tadeusz Kościuszko
+ 8614 0 0 16 Bedřich Smetana
+ 10147 0 0 18 El Greco
+ 7377 0 0 14 Calgary Stampede
+ 4433 0 0 9 Rotavirus
+ 2274 0 0 7 Comet Hyakutake
+ 13143 0 0 30 John Churchill, 1st Duke of Marlborough
+ 6385 0 0 4 The Notorious B.I.G.
+ 7997 0 0 16 Sarah Churchill, Duchess of Marlborough
+ 4921 0 0 9 1952 Winter Olympics
+ 5795 0 0 6 The Fifth Element
+ 10955 0 0 14 Battle of Shiloh
+ 10797 0 0 13 Francis Poulenc
+ 6015 0 0 20 Cucurbita
+ 2914 0 0 5 Basiliscus
+ 8159 0 0 34 Flag of Japan
+ 7017 0 0 13 Parallel computing
+ 11769 0 0 9 Wilfrid
+ 3184 0 0 3 Æthelred of Mercia
+ 4119 0 0 5 Wulfhere of Mercia
+ 5888 0 0 3 Penda of Mercia
+ 8068 0 0 4 Star Trek V: The Final Frontier
+ 7405 0 0 18 Liberty Bell
+ 6126 0 0 17 Belton House
+ 4470 0 0 6 Coenwulf of Mercia
+ 3726 0 0 4 Ine of Wessex
+ 5903 0 0 4 Stigand
+ 7395 0 0 10 Olivier Messiaen
+ 5551 0 0 12 Seabird
+ 7600 0 0 7 Arnold Bax
+ 10748 0 0 9 Michael Tippett
+ 11582 0 0 5 Ian Thorpe
+ 6739 0 0 10 Adrian Boult
+ 5937 0 0 3 The Supremes
+ 2708 0 0 7 Super Mario Bros.: The Lost Levels
+ 9186 0 0 16 David I of Scotland
+ 5755 0 0 5 Big Star
+ 9019 0 0 15 Thomas Beecham
+ 4574 0 0 9 Emma Watson
+ 7418 0 0 14 James B. Weaver
+ 3550 0 0 8 Titchwell Marsh
+ 6467 0 0 10 John Barbirolli
+ 13822 0 0 16 Emmy Noether
+ 8311 0 0 22 Youngstown, Ohio
+ 14056 0 0 32 Tulsa, Oklahoma
+ 5771 0 0 9 Catherine Zeta-Jones
+ 10897 0 0 36 Frederick III, German Emperor
+ 9159 0 0 12 Frederick Delius
+ 8645 0 0 20 Rongorongo
+ 6557 0 0 5 Ian Chappell
+ 7895 0 0 24 Kennet and Avon Canal
+ 9659 0 0 4 Galaxy Science Fiction
+ 11070 0 0 24 St Kilda, Scotland
+ 7441 0 0 30 Manchester Bolton & Bury Canal
+ 9481 0 0 25 Boeing 757
+ 9159 0 0 4 Royal assent
+ 6224 0 0 9 Andromeda (constellation)
+ 4285 0 0 5 Donkey Kong 64
+ 9423 0 0 10 Martin Bucer
+ 6616 0 0 4 Theobald of Bec
+ 3866 0 0 3 Robert of Jumièges
+ 6311 0 0 3 Hubert Walter
+ 3367 0 0 1 Robert Burnell
+ 11702 0 0 24 New Zealand national rugby union team
+ 8483 0 0 7 Hey Jude
+ 3010 0 0 2 William de Corbeil
+ 3314 0 0 1 John de Gray
+ 14068 0 0 35 Gilbert du Motier, Marquis de Lafayette
+ 4779 0 0 4 Black Francis
+ 4233 0 0 9 Geography of Ireland
+ 6011 0 0 3 Planescape: Torment
+ 6667 0 0 9 Ranavalona I
+ 8008 0 0 37 Book of Kells
+ 4626 0 0 8 Maiden Castle, Dorset
+ 2921 0 0 3 Marble Madness
+ 7917 0 0 16 Peregrine falcon
+ 4868 0 0 4 William de St-Calais
+ 2476 0 0 4 Roland TR-808
+ 7744 0 0 15 Mauna Loa
+ 5721 0 0 7 Stanley Holloway
+ 7252 0 0 7 Hattie Jacques
+ 9908 0 0 12 Emily Dickinson
+ 9826 0 0 11 Ben Affleck
+ 4820 0 0 13 Order of Canada
+ 5239 0 0 9 Alexander of Greece
+ 6616 0 0 10 Timor Leste Defence Force
+ 12678 0 0 8 Star Trek VI: The Undiscovered Country
+ 4216 0 0 4 Ico
+ 8578 0 0 17 Alexander II Zabinas
+ 5582 0 0 13 Covent Garden
+ 15676 0 0 23 Mark Hanna
+ 3544 0 0 6 Samantha Smith
+ 10667 0 0 10 Ralph Richardson
+ 6303 0 0 7 John Le Mesurier
+ 9598 0 0 10 The Rite of Spring
+ 9653 0 0 11 Pierre Monteux
+ 9883 0 0 7 Court of Chancery
+ 6993 0 0 6 Georg Solti
+ 5393 0 0 6 Orion (mythology)
+ 7633 0 0 6 Ethan Hawke
+ 10785 0 0 12 Michael Hordern
+ 4393 0 0 11 Gillingham F.C.
+ 7347 0 0 14 Baron Munchausen
+ 5838 0 0 5 The Legend of Zelda: Ocarina of Time
+ 9407 0 0 10 Manchester City F.C.
+ 5684 0 0 4 The Legend of Zelda: Majora's Mask
+ 3618 0 0 9 Godsmack
+ 6186 0 0 11 Prince Albert Victor, Duke of Clarence and Avondale
+ 11392 0 0 10 Antonin Scalia
+ 12067 0 0 6 Captain Scarlet and the Mysterons
+ 9661 0 0 14 George Lansbury
+ 7100 0 0 8 Epsilon Eridani
+ 5786 0 0 6 Antiochus XII Dionysus
+ 5648 0 0 7 Gwen Stefani
+ 14962 0 0 26 Stanley Bruce
+ 5391 0 0 4 Jacques Plante
+ 11629 0 0 14 John Gielgud
+ 5961 0 0 7 Antiochus X Eusebes
+ 4422 0 0 7 Philip I Philadelphus
+ 3685 0 0 7 Antiochus XI Epiphanes
+ 4427 0 0 8 Seleucus VI Epiphanes
+ 3495 0 0 3 H.D.
+ 6415 0 0 25 Smilodon
+ 6507 0 0 5 Regents of the Univ. of Cal. v. Bakke
+ 6251 0 0 3 Bids for the 2012 Summer Olympics
+ 17244 0 0 20 Jomo Kenyatta
+ 9129 0 0 9 Horace Greeley
+ 6150 0 0 15 Winfield Scott Hancock
+ 8070 0 0 9 Harold Larwood
+ 4876 0 0 13 Bobcat
+ 7740 0 0 19 Talyllyn Railway
+ 10640 0 0 14 Ayumi Hamasaki
+ 14126 0 0 9 The Cabinet of Dr. Caligari
+ 7981 0 0 11 Roger Waters
+ 7147 0 0 10 Anna Laetitia Barbauld
+ 7077 0 0 8 James Chadwick
+ 5554 0 0 6 Chicxulub crater
+ 14497 0 0 12 Alec Douglas-Home
+ 8166 0 0 15 Quiriguá
+ 8867 0 0 19 George Herriman
+ 8630 0 0 19 Biscayne National Park
+ 9975 0 0 15 Glorious First of June
+ 3518 0 0 5 Eric Bana
+ 7113 0 0 10 Harold Innis
+ 5101 0 0 12 Anfield
+ 5608 0 0 2 The Phantom Tollbooth
+ 10147 0 0 20 Oldham
+ 7638 0 0 16 Natalie Clifford Barney
+ 11804 0 0 10 Battle of Milne Bay
+ 4739 0 0 7 Isabella Beeton
+ 7652 0 0 6 The Fountainhead
+ 8388 0 0 14 Henry Wood
+ 2091 0 0 2 Paulinus of York
+ 7228 0 0 11 Coinage Act of 1873
+ 15958 0 0 33 Colorado River
+ 3704 0 0 6 Eadbald of Kent
+ 8117 0 0 15 Mayan languages
+ 5882 0 0 24 Warwick Castle
+ 4505 0 0 10 Frigatebird
+ 8498 0 0 2 John Frusciante
+ 2992 0 0 4 Black-throated loon
+ 4018 0 0 11 Red-throated loon
+ 7363 0 0 15 Halifax Explosion
+ 7975 0 0 16 Sunderland A.F.C.
+ 3392 0 0 6 Amanita phalloides
+ 4192 0 0 17 Common blackbird
+ 2937 0 0 10 Song thrush
+ 4007 0 0 8 Mistle thrush
+ 9136 0 0 21 Everglades National Park
+ 2237 0 0 3 Norma (constellation)
+ 9524 0 0 23 Tiruchirappalli
+ 6509 0 0 16 Darjeeling
+ 9101 0 0 12 Mutual Broadcasting System
+ 5781 0 0 16 George I of Greece
+ 5152 0 0 6 Ninety-five Theses
+ 6224 0 0 17 Angkor Wat
+ 6221 0 0 7 Symphony No. 8 (Mahler)
+ 7667 0 0 17 Somerset Levels
+ 7403 0 0 19 Stegosaurus
+ 2860 0 0 2 Áedán mac Gabráin
+ 7718 0 0 18 Manchester Ship Canal
+ 2756 0 0 4 Lynx (constellation)
+ 6546 0 0 12 Princess Charlotte of Wales
+ 3181 0 0 9 Turkey vulture
+ 3062 0 0 11 Black vulture
+ 5493 0 0 2 Enter the Wu-Tang (36 Chambers)
+ 7193 0 0 12 Battle of Rossbach
+ 12299 0 0 12 Harvey Milk
+ 5381 0 0 5 Audioslave
+ 3286 0 0 3 Dookie
+ 4037 0 0 16 Tarbosaurus
+ 3787 0 0 22 Daspletosaurus
+ 4406 0 0 9 European nightjar
+ 3441 0 0 11 Red-billed chough
+ 2700 0 0 9 Alpine chough
+ 5587 0 0 17 Australian magpie
+ 10877 0 0 34 Crocodilia
+ 4363 0 0 13 Eurasian tree sparrow
+ 5432 0 0 2 Blood Sugar Sex Magik
+ 2760 0 0 12 Common house martin
+ 5574 0 0 5 Isidor Isaac Rabi
+ 2993 0 0 7 Great spotted woodpecker
+ 3668 0 0 4 Reign in Blood
+ 6246 0 0 10 Royal Maundy
+ 6241 0 0 4 Perfect Dark
+ 5208 0 0 7 Panzer I
+ 5495 0 0 23 Paul Tibbets
+ 7461 0 0 5 Helicobacter pylori
+ 3371 0 0 3 Kelpie
+ 4978 0 0 7 Robert Catesby
+ 8759 0 0 1 Blonde on Blonde
+ 7946 0 0 8 BAE Systems
+ 8882 0 0 2 The Adventures of Brisco County, Jr.
+ 13577 0 0 15 Benjamin Tillman
+ 6856 0 0 15 Cockatoo
+ 5141 0 0 11 White-bellied sea eagle
+ 11007 0 0 21 Bivalvia
+ 7301 0 0 17 Atlantic puffin
+ 3706 0 0 10 Bohemian waxwing
+ 5184 0 0 9 Tulip mania
+ 3716 0 0 35 Nuthatch
+ 3224 0 0 8 Red-necked grebe
+ 3606 0 0 6 Black-necked grebe
+ 7828 0 0 8 Shergar
+ 3350 0 0 10 Eurasian nuthatch
+ 9701 0 0 16 Battle of Villers-Bocage
+ 4087 0 0 10 Secretarybird
+ 4020 0 0 7 George Moore (novelist)
+ 6119 0 0 4 Sonic Adventure
+ 7525 0 0 5 Aaron Sorkin
+ 9063 0 0 12 CenturyLink Field
+ 9859 0 0 5 Star Trek III: The Search for Spock
+ 3135 0 0 11 H II region
+ 10302 0 0 27 Nashville Sounds
+ 6866 0 0 9 Gray's Inn
+ 7810 0 0 10 Dick Turpin
+ 8120 0 0 46 Enceladus
+ 4355 0 0 6 History of the British penny (1714–1901)
+ 3886 0 0 4 History of the British penny (1901–1970)
+ 14138 0 0 17 Weird Tales
+ 2448 0 0 2 South of Heaven
+ 3255 0 0 4 Florin (British coin)
+ 10541 0 0 14 Achtung Baby
+ 7697 0 0 27 Banff National Park
+ 5204 0 0 3 Kill 'Em All
+ 10936 0 0 15 New wave of British heavy metal
+ 4985 0 0 15 Catopsbaatar
+ 3348 0 0 3 Perseus (constellation)
+ 11953 0 0 11 Auriga (constellation)
+ 5361 0 0 15 Tern
+ 2323 0 0 2 Crater (constellation)
+ 5151 0 0 7 Australian raven
+ 3713 0 0 12 Aldwych tube station
+ 2017 0 0 4 Circinus
+ 4124 0 0 3 Pictor
+ 2800 0 0 3 Musca
+ 4982 0 0 3 Leo Minor
+ 1733 0 0 3 Horologium (constellation)
+ 5586 0 0 13 1956 Winter Olympics
+ 3322 0 0 2 Forest raven
+ 6167 0 0 9 Nebular hypothesis
+ 5604 0 0 17 Western jackdaw
+ 3403 0 0 3 Corvus (constellation)
+ 8479 0 0 10 Charles Villiers Stanford
+ 4662 0 0 11 Messier 87
+ 2293 0 0 4 Pavo (constellation)
+ 3085 0 0 6 Willie wagtail
+ 3002 0 0 2 God Hates Us All
+ 4881 0 0 9 The Country Wife
+ 5142 0 0 6 Hobey Baker
+ 12529 0 0 7 Judah P. Benjamin
+ 3490 0 0 11 Hubble Deep Field
+ 7226 0 0 11 Colley Cibber
+ 6674 0 0 0 Ferugliotherium
+ 4031 0 0 5 The Relapse
+ 3130 0 0 4 Leo Ornstein
+ 11900 0 0 22 Borscht
+ 1532 0 0 0 Lavanify
+ 13766 0 0 18 Plymouth Colony
+ 2293 0 0 12 Northern pintail
+ 10604 0 0 18 Derek Jeter
+ 9645 0 0 6 John Bingham, 7th Earl of Lucan
+ 3994 0 0 7 Titania (moon)
+ 6478 0 0 6 Myst
+ 10126 0 0 16 Thierry Henry
+ 3584 0 0 3 Grey currawong
+ 2410 0 0 6 Black currawong
+ 3276 0 0 8 Pied currawong
+ 5565 0 0 4 Augusta, Lady Gregory
+ 10425 0 0 8 Tim Duncan
+ 8321 0 0 16 Las Meninas
+ 6861 0 0 7 Toru Takemitsu
+ 4344 0 0 10 Battle of Sluys
+ 5216 0 0 12 Emperor penguin
+ 12958 0 0 12 George Mason
+ 5912 0 0 12 Procellariidae
+ 7471 0 0 24 Glacier National Park (U.S.)
+ 9898 0 0 6 Dementia with Lewy bodies
+ 2943 0 0 1 Sadruddin Aga Khan
+ 12499 0 0 29 Operation Crossroads
+ 9939 0 0 8 Jeremy Thorpe
+ 7602 0 0 27 Starfish
+ 7273 0 0 22 Iguanodon
+ 7574 0 0 8 Grey Cup
+ 6465 0 0 10 University of California, Riverside
+ 7870 0 0 25 Fin whale
+ 6747 0 0 14 Kinetoscope
+ 9000 0 0 40 Baleen whale
+ 10014 0 0 5 Holy Wood (In the Shadow of the Valley of Death)
+ 5327 0 0 5 Aspasia
+ 6738 0 0 30 Humpback whale
+ 8634 0 0 2 Naruto
+ 4980 0 0 10 Reginald Heber
+ 3121 0 0 8 Common chiffchaff
+ 9313 0 0 52 Borobudur
+ 4517 0 0 7 Richard Gavin Reid
+ 5215 0 0 5 Herbert Greenfield
+ 4983 0 0 9 Charles Stewart (premier)
+ 7568 0 0 7 Arthur Sifton
+ 7051 0 0 13 Alexander Cameron Rutherford
+ 4883 0 0 10 European storm petrel
+ 2150 0 0 4 Pallas's leaf warbler
+ 2531 0 0 4 Francis Nash
+ 8547 0 0 6 Mother India
+ 5114 0 0 5 To Autumn
+ 4321 0 0 4 Rhabdomyolysis
+ 5463 0 0 15 Deinonychus
+ 5439 0 0 12 American white ibis
+ 6241 0 0 17 Northern bald ibis
+ 4510 0 0 11 Kitsune
+ 7549 0 0 21 White stork
+ 3620 0 0 8 Black stork
+ 3218 0 0 2 Surfer Rosa
+ 5772 0 0 5 Anna Anderson
+ 5783 0 0 11 Shimer College
+ 3318 0 0 4 Shielded metal arc welding
+ 3162 0 0 5 Execution by elephant
+ 2489 0 0 11 Arctic tern
+ 7423 0 0 16 Common tern
+ 3633 0 0 6 Sieges of Taunton
+ 5711 0 0 11 Yao Ming
+ 10416 0 0 26 Michigan State University
+ 10194 0 0 11 Terry-Thomas
+ 9500 0 0 15 Complete blood count
+ 5382 0 0 8 The Diary of a Nobody
+ 7296 0 0 6 Arthur Gould (rugby union)
+ 5684 0 0 9 Albert Pierrepoint
+ 7318 0 0 10 Jarrow March
+ 8250 0 0 10 Julianne Moore
+ 7870 0 0 22 Barn owl
+ 9503 0 0 9 Humphrey Stafford, 1st Duke of Buckingham
+ 5225 0 0 14 Mayfly
+ 8766 0 0 14 Pedro Álvares Cabral
+ 6756 0 0 15 Norwich City F.C.
+ 12923 0 0 13 Red Skelton
+ 5642 0 0 8 Laura Secord
+ 5409 0 0 15 Isle of Portland
+ 14001 0 0 15 London Necropolis Company
+ 9636 0 0 21 Common starling
+ 1488 0 0 5 My Belarusy
+ 9074 0 0 8 Wesley Clark
+ 8412 0 0 14 Matthew Boulton
+ 3184 0 0 4 Cat's Eye Nebula
+ 9803 0 0 26 Ironclad warship
+ 7299 0 0 13 Qibla
+ 6895 0 0 14 Northern gannet
+ 8927 0 0 12 Operation Epsom
+ 6308 0 0 6 Vespro della Beata Vergine
+ 7044 0 0 7 Governor of Kentucky
+ 6413 0 0 7 James Russell Lowell
+ 8610 0 0 15 Percy Grainger
+ 10398 0 0 6 Amazing Stories
+ 4116 0 0 18 Green Park tube station
+ 9027 0 0 7 Sherman Minton
+ 4842 0 0 12 Bodiam Castle
+ 5107 0 0 9 Battle of the Eastern Solomons
+ 5861 0 0 7 Operation Uranus
+ 2874 0 0 8 Black-shouldered kite
+ 5814 0 0 5 Nixon in China
+ 11955 0 0 12 Chinua Achebe
+ 12837 0 0 9 Kim Clijsters
+ 7462 0 0 15 Tichborne case
+ 10775 0 0 19 Shunzhi Emperor
+ 4000 0 0 11 Richard Hakluyt
+ 4457 0 0 13 Pitta
+ 6887 0 0 6 Rogers Hornsby
+ 6563 0 0 22 Craters of the Moon National Monument and Preserve
+ 5964 0 0 11 Chariot racing
+ 7805 0 0 4 O. G. S. Crawford
+ 6912 0 0 13 Sovereign (British coin)
+ 4568 0 0 9 Benedetto Pistrucci
+ 2408 0 0 2 Niandra LaDes and Usually Just a T-Shirt
+ 8922 0 0 13 Ernest Augustus, King of Hanover
+ 11636 0 0 26 MTR
+ 7112 0 0 13 Mauna Kea
+ 6541 0 0 6 Octopus card
+ 11648 0 0 14 Donner Party
+ 10762 0 0 22 James VI and I
+ 17368 0 0 43 Empire of Brazil
+ 4023 0 0 6 American paddlefish
+ 2359 0 0 7 Oceanic whitetip shark
+ 7568 0 0 11 Zelda Fitzgerald
+ 5609 0 0 13 Ranavalona III
+ 4229 0 0 5 Aylesbury duck
+ 8471 0 0 18 Texas Tech University
+ 5491 0 0 13 Exmoor
+ 6996 0 0 3 Death on the Rock
+ 6878 0 0 4 Dilwale Dulhania Le Jayenge
+ 2545 0 0 3 Rebecca Clarke (composer)
+ 3254 0 0 8 Tammar wallaby
+ 3926 0 0 7 Sasha (DJ)
+ 5257 0 0 12 Canada lynx
+ 7940 0 0 11 English National Opera
+ 2971 0 0 9 Killdeer
+ 6481 0 0 17 Petrified Forest National Park
+ 16224 0 0 10 Star Trek: The Motion Picture
+ 5369 0 0 12 Mendip Hills
+ 7908 0 0 14 Charles Holden
+ 4320 0 0 4 Moe Berg
+ 9094 0 0 4 Stan Musial
+ 6091 0 0 6 James Bowie
+ 5346 0 0 5 National anthem of Russia
+ 10562 0 0 41 Bernard Hinault
+ 5867 0 0 10 Altrincham
+ 4749 0 0 4 Leg before wicket
+ 15818 0 0 12 Billy Martin
+ 6726 0 0 4 Marjory Stoneman Douglas
+ 8014 0 0 7 Maya Angelou
+ 11681 0 0 84 Tom Thomson
+ 4386 0 0 10 Javan rhinoceros
+ 3387 0 0 5 Gumbo
+ 14250 0 0 34 Ontario Highway 401
+ 4321 0 0 1 Bernard Quatermass
+ 4194 0 0 4 Metroid Prime
+ 4491 0 0 3 Computer Space
+ 4241 0 0 7 Nevado del Ruiz
+ 4443 0 0 8 Thomas C. Hindman
+ 4171 0 0 7 Princess Alice of Battenberg
+ 5513 0 0 19 Lethbridge
+ 7574 0 0 16 Princess Louise, Duchess of Argyll
+ 4304 0 0 5 Vagrant Story
+ 6614 0 0 8 Peter Warlock
+ 3382 0 0 12 Impala
+ 3162 0 0 11 Wood Badge
+ 5895 0 0 12 Prince Louis of Battenberg
+ 8275 0 0 36 The Cloisters
+ 5829 0 0 9 Trafford
+ 5850 0 0 15 Right whale
+ 2911 0 0 5 Gyromitra esculenta
+ 12066 0 0 9 Jack Hobbs
+ 5487 0 0 8 Princess Helena of the United Kingdom
+ 3229 0 0 4 Gwoyeu Romatzyh
+ 11149 0 0 11 Happy Chandler
+ 7452 0 0 22 Midshipman
+ 7431 0 0 10 Chinese classifier
+ 4585 0 0 3 Ed, Edd n Eddy
+ 4656 0 0 9 Secret of Mana
+ 4896 0 0 9 Operation Bernhard
+ 4540 0 0 17 California condor
+ 3943 0 0 28 Andean condor
+ 3282 0 0 6 McDonnell XF-85 Goblin
+ 2885 0 0 8 Ocean sunfish
+ 5683 0 0 6 Hoodening
+ 7387 0 0 19 Ashton-under-Lyne
+ 4328 0 0 3 Disco Demolition Night
+ 5906 0 0 4 Irakli Tsereteli
+ 5024 0 0 4 Remain in Light
+ 5848 0 0 5 Harmon Killebrew
+ 6130 0 0 5 Margaret Fuller
+ 4197 0 0 9 Water rail
+ 7897 0 0 50 Order of the Bath
+ 6420 0 0 19 Queen Elizabeth Way
+ 4795 0 0 14 7 World Trade Center
+ 7953 0 0 12 William Sterndale Bennett
+ 6192 0 0 15 Princess Beatrice of the United Kingdom
+ 6455 0 0 8 Simon Bolivar Buckner
+ 7109 0 0 19 Dire wolf
+ 5854 0 0 8 Meshuggah
+ 6453 0 0 12 Mark Oliphant
+ 2506 0 0 5 Goblin shark
+ 12879 0 0 15 Anne Hutchinson
+ 4027 0 0 10 Hurricane Isabel
+ 13490 0 0 17 George W. Romney
+ 6164 0 0 15 Burning of Parliament
+ 8438 0 0 26 Tripura
+ 2894 0 0 11 Cattle egret
+ 5022 0 0 10 Corn crake
+ 10948 0 0 12 Barton Fink
+ 5767 0 0 11 Henry (bishop of Finland)
+ 3185 0 0 11 Pigeon guillemot
+ 9264 0 0 7 Bill O'Reilly (cricketer)
+ 4898 0 0 9 Prince George of Denmark
+ 4307 0 0 14 European hare
+ 9394 0 0 10 Battle of Quebec (1775)
+ 4859 0 0 15 Mono–Inyo Craters
+ 8874 0 0 16 History of biology
+ 7817 0 0 8 Margaret Bondfield
+ 9593 0 0 6 John Tyndall (politician)
+ 4634 0 0 5 Mike Jackson (British Army officer)
+ 10387 0 0 22 Stockton and Darlington Railway
+ 7663 0 0 55 Teleost
+ 4895 0 0 4 A Momentary Lapse of Reason
+ 5913 0 0 17 David Scott
+ 6861 0 0 13 Charles Duke
+ 10413 0 0 5 Jason Voorhees
+ 3136 0 0 9 Inaccessible Island rail
+ 3811 0 0 1 Sydney Newman
+ 3439 0 0 7 Red-billed tropicbird
+ 5270 0 0 8 Du Fu
+ 5236 0 0 7 Melodifestivalen
+ 8613 0 0 15 St Cuthbert Gospel
+ 2446 0 0 8 Eurasian treecreeper
+ 7667 0 0 11 Martin Brodeur
+ 5629 0 0 2 Jack Sparrow
+ 3912 0 0 13 Order of St Patrick
+ 4185 0 0 8 Tropical Storm Allison
+ 5624 0 0 17 Goldcrest
+ 3595 0 0 8 Common firecrest
+ 3474 0 0 3 Riven
+ 4121 0 0 4 The Long and Winding Road
+ 8252 0 0 14 1999 FIFA Women's World Cup
+ 7289 0 0 7 Peter Jennings
+ 6128 0 0 10 Kathleen Ferrier
+ 5642 0 0 9 Herne Bay
+ 4668 0 0 7 Capture of Fort Ticonderoga
+ 2195 0 0 6 Eurasian rock pipit
+ 2351 0 0 6 Water pipit
+ 6200 0 0 10 Netley Abbey
+ 1869 0 0 2 Pathways into Darkness
+ 5220 0 0 12 Simeon I of Bulgaria
+ 3628 0 0 10 Giant anteater
+ 2849 0 0 9 Ficus macrophylla
+ 3378 0 0 8 Yellowhammer
+ 4259 0 0 3 Music of the Lesser Antilles
+ 3435 0 0 10 Vauxhall Bridge
+ 2505 0 0 3 StarCraft: Ghost
+ 13532 0 0 22 Mariano Rivera
+ 9774 0 0 10 Al-Mu'tasim
+ 3122 0 0 5 Hurricane Connie
+ 6352 0 0 10 Cragside
+ 7284 0 0 8 Lynn Hill
+ 4989 0 0 11 Eurasian blackcap
+ 4256 0 0 7 Garden warbler
+ 5392 0 0 10 Tree swallow
+ 8816 0 0 15 Cosmo Gordon Lang
+ 4529 0 0 17 Geology of the Lassen volcanic area
+ 4464 0 0 16 Flag of Singapore
+ 4427 0 0 5 Referendum Party
+ 6247 0 0 11 Huia
+ 11010 0 0 9 Maus
+ 3330 0 0 4 John Millington Synge
+ 5745 0 0 14 Ruff (bird)
+ 8497 0 0 16 Keswick, Cumbria
+ 12939 0 0 18 Skegness
+ 7739 0 0 2 The Hardy Boys
+ 7814 0 0 20 Burke and Hare murders
+ 3547 0 0 7 Battersea Bridge
+ 12564 0 0 16 Hungarian Revolution of 1956
+ 8207 0 0 11 Shah Rukh Khan
+ 5946 0 0 11 Ipswich Town F.C.
+ 7134 0 0 14 Grand Coulee Dam
+ 5979 0 0 9 Rani Mukerji
+ 7232 0 0 10 Quainton Road railway station
+ 4279 0 0 11 Silky shark
+ 7735 0 0 6 James B. Conant
+ 7987 0 0 13 Jules Massenet
+ 3942 0 0 15 Order of the Thistle
+ 3726 0 0 4 The Legend of Zelda: Link's Awakening
+ 2479 0 0 7 Eurasian crag martin
+ 7573 0 0 14 Nickel (United States coin)
+ 7824 0 0 8 The Sun Also Rises
+ 5395 0 0 8 André Kertész
+ 4393 0 0 9 Canada jay
+ 4632 0 0 2 One Hot Minute
+ 2881 0 0 6 Ficus rubiginosa
+ 5482 0 0 12 Francis Willughby
+ 6531 0 0 34 Audie Murphy
+ 8004 0 0 24 Pancreatic cancer
+ 5848 0 0 8 Bradley Cooper
+ 4288 0 0 11 Nicotinamide adenine dinucleotide
+ 13656 0 0 11 Thaddeus Stevens
+ 6641 0 0 22 Don Valley Parkway
+ 8050 0 0 5 Atlantis: The Lost Empire
+ 6534 0 0 10 Sale, Greater Manchester
+ 3068 0 0 9 Newton's parakeet
+ 5843 0 0 16 Rodrigues solitaire
+ 5565 0 0 3 Sonic X
+ 5758 0 0 4 Mother's Milk
+ 9138 0 0 5 The Wiggles
+ 3416 0 0 10 Battle of Neville's Cross
+ 7238 0 0 11 Burnley F.C.
+ 2632 0 0 4 Pacific swift
+ 5424 0 0 12 Sei whale
+ 4574 0 0 6 Bupropion
+ 3971 0 0 37 Flag of Hong Kong
+ 17051 0 0 45 William Etty
+ 7455 0 0 3 Marshall Applewhite
+ 3949 0 0 2 Tragic Kingdom
+ 5675 0 0 15 Common raven
+ 4429 0 0 20 Tower Hill Memorial
+ 8625 0 0 3 The Freewheelin' Bob Dylan
+ 3167 0 0 6 Battle of Rennell Island
+ 3033 0 0 2 Uru: Ages Beyond Myst
+ 2313 0 0 2 Joey Santiago
+ 4905 0 0 14 Pulaski Skyway
+ 12686 0 0 3 George F. Kennan
+ 2712 0 0 3 Zino's petrel
+ 8450 0 0 17 Marie Lloyd
+ 3881 0 0 10 Priestley Riots
+ 5608 0 0 9 Silesian Wars
+ 5441 0 0 4 Silverchair
+ 10110 0 0 9 George Formby
+ 11756 0 0 15 Learned Hand
+ 5427 0 0 4 Neal Dow
+ 3355 0 0 9 Mourning dove
+ 5582 0 0 7 Alsos Mission
+ 16326 0 0 14 Paul Kagame
+ 9475 0 0 4 David Lewis (politician)
+ 5879 0 0 4 Marquee Moon
+ 6434 0 0 7 Newberry Volcano
+ 2388 0 0 3 Brill railway station
+ 4309 0 0 2 Sebastian Shaw (actor)
+ 14499 0 0 6 Russell T Davies
+ 4423 0 0 2 Final Fantasy X-2
+ 3903 0 0 2 Friedrich Wilhelm von Seydlitz
+ 5491 0 0 5 Maggie Gyllenhaal
+ 7751 0 0 17 Pat Nixon
+ 10218 0 0 13 Coronation of the British monarch
+ 2595 0 0 4 Battle of Ticonderoga (1759)
+ 5048 0 0 6 Père Goriot
+ 9326 0 0 20 Naval Battle of Guadalcanal
+ 3554 0 0 9 Ariel (moon)
+ 9915 0 0 5 The Magazine of Fantasy & Science Fiction
+ 2596 0 0 3 Blast Corps
+ 2413 0 0 7 White-breasted nuthatch
+ 3770 0 0 5 Interstate 805
+ 5883 0 0 13 Yagan
+ 4974 0 0 2 Otto Graham
+ 3448 0 0 10 Elias Ashmole
+ 7398 0 0 45 Boshin War
+ 7142 0 0 12 Mary Celeste
+ 4204 0 0 11 Réunion ibis
+ 3273 0 0 11 King vulture
+ 5139 0 0 3 System Shock 2
+ 6027 0 0 4 Stella Gibbons
+ 5230 0 0 7 Witold Lutosławski
+ 13979 0 0 16 Avery Brundage
+ 12858 0 0 12 Bill Russell
+ 7189 0 0 15 Endometrial cancer
+ 4636 0 0 3 Space Seed
+ 12634 0 0 12 Alf Ramsey
+ 6557 0 0 3 Anachronox
+ 8687 0 0 7 Edward Drinker Cope
+ 6387 0 0 5 Jo Stafford
+ 7990 0 0 11 Preity Zinta
+ 3825 0 0 6 Biddenden Maids
+ 1941 0 0 19 Flag of Armenia
+ 8957 0 0 6 Macfarlane Burnet
+ 3166 0 0 25 Flag of Belarus
+ 6628 0 0 9 Stuyvesant High School
+ 5233 0 0 7 Mary Toft
+ 5642 0 0 10 The Turk
+ 5376 0 0 13 Battle of Svolder
+ 7295 0 0 10 Final Fantasy XI
+ 5535 0 0 5 Daniel Lambert
+ 7869 0 0 9 Ernie Fletcher
+ 8477 0 0 9 Hastings Ismay, 1st Baron Ismay
+ 9762 0 0 16 Wii
+ 8849 0 0 5 Operation Flavius
+ 3959 0 0 5 Æthelred, Lord of the Mercians
+ 1876 0 0 2 Coenred of Mercia
+ 4784 0 0 12 Two-cent piece (United States)
+ 4043 0 0 10 Yellow-tailed black cockatoo
+ 7634 0 0 4 Dominik Hašek
+ 7157 0 0 6 Iranian Embassy siege
+ 5861 0 0 7 Linezolid
+ 5419 0 0 6 Sydney Roosters
+ 4343 0 0 3 Uncle Tupelo
+ 3616 0 0 3 Duncan Edwards
+ 8098 0 0 25 Gyeongju
+ 19174 0 0 25 Mitt Romney
+ 8359 0 0 14 Ice core
+ 9545 0 0 11 C. D. Howe
+ 8331 0 0 12 Kareena Kapoor
+ 5687 0 0 14 Boletus edulis
+ 7876 0 0 12 Harry Chauvel
+ 3378 0 0 7 Liberty Head nickel
+ 3706 0 0 2 Paranoid Android
+ 7260 0 0 4 Crusaders (rugby union)
+ 5153 0 0 7 Gilwell Park
+ 3228 0 0 4 Representative peer
+ 6538 0 0 5 Joe Sakic
+ 5548 0 0 4 Marwan I
+ 7033 0 0 14 CFM International CFM56
+ 7561 0 0 9 Pontiac's War
+ 4933 0 0 7 Jack Sheppard
+ 10669 0 0 27 St. Johns River
+ 5802 0 0 6 Shelton Benjamin
+ 9030 0 0 14 Charles-Valentin Alkan
+ 6532 0 0 4 Jarome Iginla
+ 10940 0 0 8 Roberto Luongo
+ 2570 0 0 4 Knuckles' Chaotix
+ 8509 0 0 14 Chadderton
+ 5763 0 0 15 Phagocyte
+ 11502 0 0 13 Gottlob Berger
+ 11166 0 0 17 Dilophosaurus
+ 6609 0 0 11 Ernst Lindemann
+ 2275 0 0 2 Pokémon Channel
+ 3260 0 0 5 13th Airborne Division (United States)
+ 6095 0 0 11 Australian Cattle Dog
+ 5039 0 0 12 Battle of Leuthen
+ 4080 0 0 11 Battle of Hochkirch
+ 7828 0 0 8 Battle of Kunersdorf
+ 4696 0 0 17 Brownhills
+ 5210 0 0 22 Arthur W. Radford
+ 6319 0 0 14 Dan Leno
+ 5512 0 0 12 York City F.C.
+ 3318 0 0 8 Margate F.C.
+ 4140 0 0 7 Sheerness
+ 6897 0 0 77 Flag of Portugal
+ 8332 0 0 8 Flower Drum Song
+ 10320 0 0 5 Cold Feet
+ 1834 0 0 26 National emblem of Belarus
+ 3166 0 0 14 Flag of Lithuania
+ 6566 0 0 18 Castell Coch
+ 6739 0 0 11 Kate Sheppard
+ 4524 0 0 4 Symphony No. 8 (Sibelius)
+ 5900 0 0 5 Our Friends in the North
+ 6783 0 0 10 Powderfinger
+ 3168 0 0 8 Superb fairywren
+ 2106 0 0 7 California State Route 57
+ 6827 0 0 9 Oxygen toxicity
+ 3141 0 0 7 Fredonian Rebellion
+ 10106 0 0 11 Strepsirrhini
+ 9050 0 0 10 1957 Canadian federal election
+ 9291 0 0 8 Mount Mazama
+ 4287 0 0 6 Battle of Cape Ecnomus
+ 11601 0 0 19 Territorial Force
+ 4303 0 0 8 Hurricane Hazel
+ 4071 0 0 8 Battle of Drepana
+ 4933 0 0 9 Battle of the Aegates
+ 3337 0 0 3 Metroid Prime 2: Echoes
+ 9542 0 0 22 Rogue River (Oregon)
+ 6957 0 0 8 Ode on a Grecian Urn
+ 9632 0 0 12 Mark Satin
+ 5764 0 0 13 IFK Göteborg
+ 6924 0 0 10 Bob Feller
+ 5185 0 0 5 Branded to Kill
+ 4797 0 0 6 Steve Lukather
+ 5717 0 0 3 Halo 2
+ 16706 0 0 21 Lemur
+ 7430 0 0 16 Vijayanagara Empire
+ 6165 0 0 10 Jordan River (Utah)
+ 5104 0 0 5 Cillian Murphy
+ 5800 0 0 9 Operation Cobra
+ 3835 0 0 12 Shapinsay
+ 6520 0 0 6 Norman Birkett, 1st Baron Birkett
+ 7687 0 0 10 Battle of Savo Island
+ 7474 0 0 7 L'Orfeo
+ 3383 0 0 4 Astrophysics Data System
+ 6935 0 0 9 Kansas Turnpike
+ 4872 0 0 19 M-1 (Michigan highway)
+ 8801 0 0 15 Juan Manuel de Rosas
+ 5732 0 0 9 Giovanni Villani
+ 12346 0 0 18 Sissinghurst Castle Garden
+ 6004 0 0 11 Ratanakiri Province
+ 7840 0 0 12 Operation Infinite Reach
+ 6316 0 0 11 Gallimimus
+ 2910 0 0 2 Ode on Indolence
+ 5730 0 0 9 Synthetic diamond
+ 2898 0 0 8 U.S. Route 491
+ 4008 0 0 7 Interstate 355
+ 3183 0 0 4 Flame robin
+ 8319 0 0 14 Battle of the Alamo
+ 2895 0 0 4 Battle of Gonzales
+ 2825 0 0 4 Wiglaf of Mercia
+ 8165 0 0 11 War of the Bavarian Succession
+ 8019 0 0 16 Ring-tailed lemur
+ 3621 0 0 8 Aggie Bonfire
+ 3483 0 0 2 Georges Vézina
+ 3367 0 0 5 Louis Slotin
+ 4394 0 0 6 Jake Gyllenhaal
+ 5968 0 0 20 Sumatran rhinoceros
+ 5099 0 0 5 Tintin in Tibet
+ 6420 0 0 4 Cannibal Holocaust
+ 7933 0 0 14 Battle of the Santa Cruz Islands
+ 7931 0 0 14 Oliver Wendell Holmes Sr.
+ 8081 0 0 4 Mughal-e-Azam
+ 2077 0 0 1 Expedition to the Barrier Peaks
+ 4967 0 0 10 Villa Park
+ 2612 0 0 3 Cædwalla of Wessex
+ 7303 0 0 5 Hunky Dory
+ 5909 0 0 6 Murder of Yvonne Fletcher
+ 4488 0 0 3 Tintin in the Land of the Soviets
+ 4292 0 0 6 90377 Sedna
+ 6849 0 0 3 Blue's Clues
+ 5857 0 0 11 Herne Hill railway station
+ 9661 0 0 127 Megalodon
+ 5472 0 0 5 Carnivàle
+ 2765 0 0 3 Vesna Vulović
+ 4303 0 0 15 Horseshoe bat
+ 3604 0 0 8 Manchester Baby
+ 10952 0 0 9 John J. Crittenden
+ 11232 0 0 8 FairTax
+ 17699 0 0 42 Barack Obama
+ 7744 0 0 4 Smiley Smile
+ 3096 0 0 7 Dover Athletic F.C.
+ 6014 0 0 5 Carlos Castillo Armas
+ 5381 0 0 5 Trevor Linden
+ 11985 0 0 10 Len Hutton
+ 5235 0 0 2 Tintin in the Congo
+ 5189 0 0 12 Battle of Tassafaronga
+ 8842 0 0 7 John Sherman Cooper
+ 11221 0 0 9 Don Dunstan
+ 4182 0 0 6 Anna of East Anglia
+ 2539 0 0 8 Northrop YF-23
+ 7744 0 0 16 City of Manchester Stadium
+ 2801 0 0 9 Macaroni penguin
+ 8165 0 0 6 Daniel Sedin
+ 7648 0 0 8 Henrik Sedin
+ 4743 0 0 7 Bernard Williams
+ 3360 0 0 4 Madman Muntz
+ 2868 0 0 6 Hurricane Juan
+ 5913 0 0 8 George Calvert, 1st Baron Baltimore
+ 3921 0 0 7 Aldfrith of Northumbria
+ 7605 0 0 8 Angus Lewis Macdonald
+ 3523 0 0 4 Stan Coveleski
+ 8390 0 0 10 Guy Burgess
+ 3384 0 0 1 Jean-Joseph Rabearivelo
+ 3825 0 0 13 Psilocybe semilanceata
+ 6832 0 0 19 The Raft of the Medusa
+ 5294 0 0 6 United States Academic Decathlon
+ 4310 0 0 5 Richard Cantillon
+ 8002 0 0 9 Philip Seymour Hoffman
+ 5957 0 0 10 Serpin
+ 2856 0 0 7 Icelandic horse
+ 9108 0 0 15 Sea otter
+ 6158 0 0 3 Fighting in ice hockey
+ 9504 0 0 4 Are You Experienced
+ 4080 0 0 7 Hurricane Lenny
+ 3386 0 0 7 Washington State Route 520
+ 1852 0 0 3 Wihtred of Kent
+ 3043 0 0 3 Mischief Makers
+ 2380 0 0 8 Compsognathus
+ 7365 0 0 14 Scotland national football team
+ 3170 0 0 8 Wood stork
+ 4266 0 0 3 Strapping Young Lad
+ 2067 0 0 2 Midtown Madness
+ 7184 0 0 15 Clements Markham
+ 5153 0 0 4 Wendell Ford
+ 6386 0 0 18 Lake Burley Griffin
+ 3658 0 0 10 Argentinosaurus
+ 10263 0 0 7 Wally Hammond
+ 8472 0 0 9 Naruto Uzumaki
+ 4742 0 0 5 Barren Island, Brooklyn
+ 12180 0 0 35 Wells Cathedral
+ 12527 0 0 11 Qatna
+ 6276 0 0 14 William Sterling Parsons
+ 2731 0 0 3 Ostend Manifesto
+ 2006 0 0 1 Deusdedit of Canterbury
+ 9636 0 0 11 Rosewood massacre
+ 4881 0 0 12 Palladian architecture
+ 5711 0 0 6 Kal Ho Naa Ho
+ 6980 0 0 2 United Kingdom corporation tax
+ 3331 0 0 3 F-Zero GX
+ 7903 0 0 5 Miriam Makeba
+ 4358 0 0 5 Valley Parade
+ 6475 0 0 13 Siege of Sidney Street
+ 10798 0 0 15 Sahure
+ 4544 0 0 7 Chelsea Bridge
+ 7935 0 0 3 Degrassi: The Next Generation
+ 7329 0 0 8 Anne Hathaway
+ 7363 0 0 2 The Judd School
+ 5056 0 0 4 Bert Trautmann
+ 6612 0 0 5 Steve Bruce
+ 7652 0 0 13 Irish phonology
+ 11653 0 0 12 1954 Guatemalan coup d'état
+ 6242 0 0 5 Metal Gear Solid 3: Snake Eater
+ 3085 0 0 13 Greater crested tern
+ 2436 0 0 4 Masked shrike
+ 5764 0 0 10 Andrew Cunningham, 1st Viscount Cunningham of Hyndhope
+ 8676 0 0 16 Peking opera
+ 12940 0 0 12 Ghostbusters II
+ 8623 0 0 7 Battle of Albuera
+ 5165 0 0 4 A Handful of Dust
+ 6166 0 0 17 Geology of the Grand Canyon area
+ 11884 0 0 21 Tom Simpson
+ 3155 0 0 1 Privilege of peerage
+ 2970 0 0 2 Gerard (archbishop of York)
+ 3018 0 0 12 Webley Revolver
+ 8333 0 0 15 Cosima Wagner
+ 6249 0 0 4 Lanny McDonald
+ 9763 0 0 11 Aberfan disaster
+ 4362 0 0 19 Geology of the Zion and Kolob canyons area
+ 4206 0 0 3 Dungeon Siege
+ 4795 0 0 5 Howie Morenz
+ 2195 0 0 5 North Ronaldsay sheep
+ 5989 0 0 15 Transit of Venus
+ 2996 0 0 8 Washington State Route 522
+ 8538 0 0 19 Hannah Primrose, Countess of Rosebery
+ 4227 0 0 2 Tokyo Mew Mew
+ 7875 0 0 18 Segnosaurus
+ 8306 0 0 17 United States v. Wong Kim Ark
+ 2603 0 0 5 Hooded pitohui
+ 7889 0 0 10 Rudolf Caracciola
+ 3218 0 0 6 Geology of the Bryce Canyon area
+ 6138 0 0 9 AdS/CFT correspondence
+ 4781 0 0 5 Mirror symmetry (string theory)
+ 2363 0 0 8 Horseshoe Curve (Pennsylvania)
+ 5225 0 0 8 William D. Boyce
+ 4592 0 0 2 Dragon: The Bruce Lee Story
+ 7374 0 0 3 Sholay
+ 4181 0 0 8 New York State Route 28
+ 2590 0 0 6 Interstate 696
+ 6538 0 0 16 New York State Route 32
+ 2818 0 0 3 Sabre Wulf
+ 4475 0 0 12 West Wycombe Park
+ 6345 0 0 3 Geoffrey (archbishop of York)
+ 3278 0 0 2 William de Longchamp
+ 3266 0 0 3 Myst III: Exile
+ 3192 0 0 3 Turok: Dinosaur Hunter
+ 3454 0 0 3 Freak Out!
+ 5805 0 0 9 RAF Northolt
+ 4356 0 0 10 Eastern Suburbs & Illawarra Line
+ 3895 0 0 9 Olm
+ 4771 0 0 1 National Football League Players Association
+ 3630 0 0 6 Percheron
+ 7768 0 0 18 Old Trafford
+ 8507 0 0 10 Germany women's national football team
+ 2912 0 0 2 Myst IV: Revelation
+ 5402 0 0 5 Gray mouse lemur
+ 5130 0 0 8 Falaise Pocket
+ 4145 0 0 6 Compulsory figures
+ 2755 0 0 2 The Simpsons: Hit & Run
+ 8484 0 0 15 Coldrum Long Barrow
+ 3631 0 0 7 Tuck School of Business
+ 6805 0 0 5 Pather Panchali
+ 4476 0 0 7 Lōʻihi Seamount
+ 5233 0 0 11 Hamersley, Western Australia
+ 6885 0 0 13 Trump International Hotel and Tower (Chicago)
+ 7103 0 0 21 1980 eruption of Mount St. Helens
+ 9159 0 0 15 Hugh Walpole
+ 5942 0 0 0 Nigel Kneale
+ 6310 0 0 12 Alfred Worden
+ 4311 0 0 0 Quatermass and the Pit
+ 9290 0 0 16 Belgium national football team
+ 2914 0 0 7 Vol. 3: (The Subliminal Verses)
+ 8011 0 0 9 Lawrence Sullivan Ross
+ 5099 0 0 8 Dawson Creek
+ 7216 0 0 8 Horatio Bottomley
+ 3528 0 0 10 Horse-fly
+ 8269 0 0 11 We Are the World
+ 9590 0 0 12 History of Minnesota
+ 3079 0 0 7 U.S. Route 141
+ 2521 0 0 4 M-185 (Michigan highway)
+ 8431 0 0 9 England national rugby union team
+ 7208 0 0 6 Robert Howe (Continental Army officer)
+ 7171 0 0 33 Malmö FF
+ 2872 0 0 2 Beorhtwulf of Mercia
+ 4904 0 0 2 Æthelwold ætheling
+ 2609 0 0 3 Sonic Spinball
+ 4349 0 0 6 Thích Quảng Đức
+ 5241 0 0 5 The Bartered Bride
+ 3551 0 0 12 Interstate 196
+ 9299 0 0 11 Tube Alloys
+ 12318 0 0 14 Joseph B. Foraker
+ 10275 0 0 10 Ramón Emeterio Betances
+ 10602 0 0 7 William Borah
+ 13042 0 0 16 Gregor MacGregor
+ 2768 0 0 5 4X
+ 15616 0 0 20 Metropolitan Railway
+ 10048 0 0 12 Randall Davidson
+ 4347 0 0 8 Chetco River
+ 3039 0 0 5 Bart King
+ 5406 0 0 10 Cheadle Hulme
+ 7205 0 0 9 Satoru Iwata
+ 4285 0 0 9 Oregon Caves National Monument and Preserve
+ 15292 0 0 8 Todd Manning
+ 7183 0 0 12 Baltimore City College
+ 15815 0 0 48 Northern England
+ 5893 0 0 5 James Whiteside McCay
+ 2059 0 0 5 Interstate 496
+ 5320 0 0 4 Subarachnoid hemorrhage
+ 6062 0 0 9 Laplace–Runge–Lenz vector
+ 6732 0 0 12 Redback spider
+ 2813 0 0 7 Isopoda
+ 5971 0 0 12 Mercury Seven
+ 6492 0 0 12 Jim Thome
+ 2711 0 0 6 Fulvous whistling duck
+ 3782 0 0 6 Red wattlebird
+ 6296 0 0 6 Albert Ketèlbey
+ 3762 0 0 3 Tony Hawk's Underground
+ 6959 0 0 44 2003 Atlantic hurricane season
+ 6757 0 0 13 Panic of 1907
+ 3878 0 0 31 2002 Atlantic hurricane season
+ 3888 0 0 4 Knight Lore
+ 4581 0 0 10 PNC Park
+ 6861 0 0 12 Noisy miner
+ 3381 0 0 7 Franklin half dollar
+ 2791 0 0 4 Francis Tresham
+ 12356 0 0 8 Douglas Jardine
+ 6669 0 0 1 Reactive attachment disorder
+ 9152 0 0 8 Robin Friday
+ 3450 0 0 9 Hurricane Fabian
+ 1132 0 0 3 Interstate 296
+ 5350 0 0 12 Corinthian War
+ 3997 0 0 11 M-28 (Michigan highway)
+ 3554 0 0 5 Treaty of Devol
+ 2854 0 0 4 Battle of Dyrrhachium (1081)
+ 7911 0 0 41 Walter Krueger
+ 6048 0 0 6 Frank Klepacki
+ 9612 0 0 9 Port Chicago disaster
+ 15992 0 0 30 Takalik Abaj
+ 4984 0 0 10 Redwood National and State Parks
+ 5290 0 0 9 Gerard K. O'Neill
+ 1659 0 0 2 David Lovering
+ 5677 0 0 2 Waisale Serevi
+ 2176 0 0 4 Raptor Red
+ 7401 0 0 14 Operation Mincemeat
+ 4118 0 0 9 Battle of Red Cliffs
+ 6762 0 0 11 Water fluoridation
+ 6910 0 0 9 Operation Varsity
+ 3130 0 0 2 Spaghetti House siege
+ 4532 0 0 4 William Hayden English
+ 7053 0 0 5 The Elder Scrolls III: Morrowind
+ 3413 0 0 6 Street newspaper
+ 4938 0 0 6 Tom Pryce
+ 12787 0 0 10 Juwan Howard
+ 4195 0 0 3 But I'm a Cheerleader
+ 8069 0 0 13 Wales national rugby union team
+ 3501 0 0 3 Castlevania: Aria of Sorrow
+ 4698 0 0 12 U.S. Route 16 in Michigan
+ 1827 0 0 5 Trocaz pigeon
+ 2178 0 0 2 Michael Francis Egan
+ 3247 0 0 14 Caroline Island
+ 8043 0 0 14 Anna May Wong
+ 2549 0 0 4 Talbot Tagora
+ 8229 0 0 9 Ketogenic diet
+ 4415 0 0 7 Carsten Borchgrevink
+ 7696 0 0 2 Theoren Fleury
+ 10131 0 0 31 Climate of India
+ 4064 0 0 4 Resident Evil: Apocalypse
+ 2672 0 0 22 1983 Atlantic hurricane season
+ 3778 0 0 11 RSPB Minsmere
+ 15727 0 0 43 Early Netherlandish painting
+ 4644 0 0 26 La Coupole
+ 5528 0 0 97 1988 Atlantic hurricane season
+ 7411 0 0 3 Palsgraf v. Long Island Railroad Co.
+ 11319 0 0 15 Anne Frank
+ 5881 0 0 85 1991 Atlantic hurricane season
+ 4529 0 0 3 Lee Smith (baseball)
+ 3573 0 0 10 Ridge Route
+ 5354 0 0 9 Spiderland
+ 3142 0 0 7 Coffin Stone
+ 3900 0 0 7 Smythe's Megalith
+ 7657 0 0 6 Master Juba
+ 6139 0 0 9 William Speirs Bruce
+ 8430 0 0 25 Homer Davenport
+ 9251 0 0 20 Millennium Park
+ 4584 0 0 8 Chestnuts Long Barrow
+ 4379 0 0 8 United States Bicentennial coinage
+ 3923 0 0 7 1981 Irish hunger strike
+ 8201 0 0 16 Eisenhower dollar
+ 9790 0 0 12 Priyanka Chopra
+ 2272 0 0 2 Slay Tracks: 1933–1969
+ 6586 0 0 15 Jacob van Ruisdael
+ 3644 0 0 4 Barthélemy Boganda
+ 3331 0 0 1 Louie Nunn
+ 2717 0 0 2 Ormulum
+ 5135 0 0 4 Peter Badcoe
+ 15803 0 0 54 Inner German border
+ 9232 0 0 25 Ludwigsburg Palace
+ 5100 0 0 2 Eric Brewer
+ 3466 0 0 14 Russulaceae
+ 2395 0 0 1 Wail al-Shehri
+ 4263 0 0 5 Salvia yangii
+ 3186 0 0 2 Jørgen Jensen (soldier)
+ 3615 0 0 8 York Park
+ 3597 0 0 0 The Quatermass Experiment
+ 7221 0 0 18 War of the Fifth Coalition
+ 4394 0 0 0 Quatermass II
+ 4231 0 0 2 Mercenary War
+ 7876 0 0 4 Downtown Seattle Transit Tunnel
+ 7544 0 0 8 Marcus Trescothick
+ 7564 0 0 7 Death of Blair Peach
+ 3834 0 0 0 Rudolph Cartier
+ 8232 0 0 9 Chartwell
+ 1792 0 0 6 England expects that every man will do his duty
+ 6019 0 0 11 Florida Atlantic University
+ 2824 0 0 2 Icos
+ 5575 0 0 4 Bob McEwen
+ 6042 0 0 6 Final Fantasy XII
+ 3440 0 0 5 U.S. Route 8
+ 5823 0 0 9 Franklin Knight Lane
+ 4142 0 0 3 Katamari Damacy
+ 4275 0 0 13 War of the League of Cambrai
+ 7549 0 0 28 Irritator
+ 6428 0 0 8 Michelle Williams (actress)
+ 10450 0 0 7 Adam Gilchrist
+ 3305 0 0 1 William Hanna
+ 7235 0 0 19 Definition of planet
+ 1644 0 0 4 Tropical Storm Bonnie (2004)
+ 11906 0 0 18 U.S. Route 113
+ 2544 0 0 7 Hurricane Iniki
+ 7413 0 0 9 Battle of the Bismarck Sea
+ 2564 0 0 8 Amchitka
+ 2217 0 0 3 Damageplan
+ 2789 0 0 6 Alexis Bachelot
+ 6817 0 0 7 LaRouche criminal trials
+ 4107 0 0 3 Giants: Citizen Kabuto
+ 10755 0 0 10 William M. Branham
+ 2002 0 0 1 Odwalla
+ 4642 0 0 3 By the Way
+ 5223 0 0 7 Maynard James Keenan
+ 2820 0 0 2 California State Route 56
+ 2393 0 0 4 California State Route 67
+ 7592 0 0 25 Chaco Culture National Historical Park
+ 9846 0 0 9 Olivia Manning
+ 2591 0 0 3 Ace Books
+ 1865 0 0 5 Suffolk Punch
+ 2104 0 0 17 Hurricane Carmen
+ 3507 0 0 8 Giant eland
+ 6578 0 0 19 Alanya
+ 8591 0 0 13 Peru national football team
+ 8954 0 0 21 Kingdom of Mysore
+ 6663 0 0 5 Resident Evil 2
+ 5320 0 0 18 Hartebeest
+ 4784 0 0 8 Giganotosaurus
+ 7641 0 0 7 Vampire: The Masquerade – Bloodlines
+ 6294 0 0 19 Rainbow trout
+ 10308 0 0 12 Canadian Indian residential school system
+ 4734 0 0 10 The Catlins
+ 9709 0 0 16 Canadian National Vimy Memorial
+ 8110 0 0 24 Isabeau of Bavaria
+ 6735 0 0 5 France national rugby union team
+ 6208 0 0 8 AirTrain JFK
+ 3924 0 0 7 Australasian gannet
+ 2870 0 0 8 Cholangiocarcinoma
+ 5260 0 0 12 Superliner (railcar)
+ 6427 0 0 13 Christopher C. Kraft Jr.
+ 4498 0 0 15 Common toad
+ 3765 0 0 22 Douglas Albert Munro
+ 7761 0 0 8 Norodom Ranariddh
+ 3163 0 0 3 Hurricane Iris
+ 8203 0 0 19 Hurricane Elena
+ 5059 0 0 5 Cut the Crap
+ 8629 0 0 9 Sandringham House
+ 6071 0 0 16 Flag of India
+ 5217 0 0 8 Guy Fawkes Night
+ 4129 0 0 11 Rings of Jupiter
+ 4932 0 0 9 Rings of Uranus
+ 2841 0 0 4 Rings of Neptune
+ 4235 0 0 13 Hurricane Gloria
+ 6493 0 0 11 Grand Duchess Olga Alexandrovna of Russia
+ 5409 0 0 11 David A. Johnston
+ 2265 0 0 2 Harry Glicken
+ 6392 0 0 22 Ankylosaurus
+ 5061 0 0 8 Hurricane Diane
+ 2734 0 0 4 Hurricane Hattie
+ 3584 0 0 8 Hurricane Eloise
+ 4675 0 0 7 H. C. McNeile
+ 4537 0 0 6 Brunette Coleman
+ 9893 0 0 14 Battle of Arras (1917)
+ 5618 0 0 13 RAF Uxbridge
+ 4591 0 0 8 Operation Brevity
+ 4803 0 0 5 Roy of the Rovers
+ 10711 0 0 58 Thomas Blamey
+ 4947 0 0 10 Richard Williams (RAAF officer)
+ 7892 0 0 13 Scottish Parliament Building
+ 1646 0 0 3 Arena (countermeasure)
+ 3750 0 0 9 M-6 (Michigan highway)
+ 3580 0 0 2 The Beautician and the Beast
+ 8335 0 0 4 Fight Club
+ 5424 0 0 8 Gateshead International Stadium
+ 5434 0 0 4 Love. Angel. Music. Baby.
+ 3897 0 0 3 California State Route 52
+ 4904 0 0 30 Grasshopper
+ 5439 0 0 16 Shrine of Remembrance
+ 5390 0 0 7 Zong massacre
+ 5821 0 0 4 The Man Trap
+ 5222 0 0 12 Coalhouse Fort
+ 3459 0 0 8 New Forest pony
+ 1919 0 0 4 Typhoon Tip
+ 5482 0 0 24 Pre-dreadnought battleship
+ 6874 0 0 5 Jonathan Strange & Mr Norrell
+ 5523 0 0 3 The Elder Scrolls IV: Oblivion
+ 4162 0 0 13 Rhyolite, Nevada
+ 5241 0 0 7 E. W. Hornung
+ 6361 0 0 15 Riverina
+ 3800 0 0 11 Yarralumla, Australian Capital Territory
+ 4351 0 0 6 Battle of Öland
+ 2864 0 0 0 Ralph Neville
+ 4022 0 0 9 Forest Park (Portland, Oregon)
+ 8163 0 0 16 Io (moon)
+ 2381 0 0 7 Typhoon Paka
+ 2231 0 0 7 Johnstown Inclined Plane
+ 3037 0 0 4 Latter Days
+ 8458 0 0 19 Battle of Dunbar (1650)
+ 5504 0 0 8 City and South London Railway
+ 6734 0 0 16 Her Majesty's Theatre
+ 11648 0 0 19 May Revolution
+ 14874 0 0 21 Unification of Germany
+ 3298 0 0 14 Gorgosaurus
+ 6616 0 0 14 Stretford
+ 4137 0 0 37 Palazzo Pitti
+ 3299 0 0 4 Sonic X-treme
+ 5940 0 0 1 School Rumble
+ 4262 0 0 7 Quneitra
+ 6117 0 0 12 Porbeagle
+ 8304 0 0 7 2004 World Series
+ 8291 0 0 14 Muhammad al-Durrah incident
+ 7295 0 0 6 Al-Mu'tadid
+ 7966 0 0 22 Baryonyx
+ 7430 0 0 60 Cretoxyrhina
+ 5991 0 0 7 Isaac Shelby
+ 6650 0 0 5 Ursula Franklin
+ 5937 0 0 9 Battle of Cape Esperance
+ 17692 0 0 29 Jesus
+ 8929 0 0 7 William de Ros, 6th Baron Ros
+ 4908 0 0 4 Jill Valentine
+ 4346 0 0 4 Kingdom Hearts: Chain of Memories
+ 11653 0 0 20 Shen Kuo
+ 5506 0 0 11 Ninian Park
+ 7633 0 0 16 Ceratosaurus
+ 3196 0 0 5 Chew Valley Lake
+ 2992 0 0 2 Ambrose Rookwood
+ 3560 0 0 13 Acrocanthosaurus
+ 2314 0 0 2 Mario Power Tennis
+ 7805 0 0 16 AMX-30
+ 2780 0 0 5 Rogers Locomotive and Machine Works
+ 3457 0 0 7 Operation Ten-Go
+ 3338 0 0 2 Tanque Argentino Mediano
+ 9484 0 0 8 Neville Cardus
+ 3429 0 0 3 Chew Stoke
+ 6887 0 0 12 Chicago Pile-1
+ 8978 0 0 10 Samuel J. Randall
+ 4691 0 0 0 Walter de Coutances
+ 3525 0 0 8 Westgate-on-Sea
+ 4131 0 0 14 1995 Pacific Grand Prix
+ 3583 0 0 13 1995 Japanese Grand Prix
+ 2867 0 0 7 Herbig–Haro object
+ 3611 0 0 1 Joseph Barbera
+ 6571 0 0 9 Operation Hurricane
+ 6781 0 0 8 William T. Anderson
+ 5190 0 0 4 Not One Less
+ 3679 0 0 6 Albert Bridge, London
+ 4084 0 0 10 Bengali language movement
+ 4064 0 0 3 The Power of Nightmares
+ 6502 0 0 12 Geology of the Death Valley area
+ 1623 0 0 3 Operation Copperhead
+ 2033 0 0 8 Hurricane Ginger
+ 1767 0 0 8 Hurricane John (1994)
+ 2363 0 0 5 Sweet Track
+ 3005 0 0 8 Wonderbra
+ 6608 0 0 11 James Tod
+ 13076 0 0 21 38th (Welsh) Infantry Division
+ 6871 0 0 8 St Donat's Castle
+ 4449 0 0 5 Pisco sour
+ 11142 0 0 64 2005 Atlantic hurricane season
+ 3137 0 0 5 Solomon P. Sharp
+ 3883 0 0 10 O-Bahn Busway
+ 11857 0 0 19 Great North of Scotland Railway
+ 2058 0 0 4 Battle of Goliad
+ 4403 0 0 3 Killer7
+ 7373 0 0 9 Imogen Holst
+ 9212 0 0 9 Checkers speech
+ 3280 0 0 5 Planet Stories
+ 7892 0 0 5 The General in His Labyrinth
+ 9679 0 0 7 Hedley Verity
+ 6977 0 0 6 Night of January 16th
+ 7901 0 0 15 Central London Railway
+ 3245 0 0 3 Other Worlds, Universe Science Fiction, and Science Stories
+ 1699 0 0 2 1080° Snowboarding
+ 3820 0 0 5 Jean-François-Marie de Surville
+ 5925 0 0 7 Luke P. Blackburn
+ 3497 0 0 8 Frank McNamara (RAAF officer)
+ 8268 0 0 10 Albert Ball
+ 1933 0 0 2 Cyril Bassett
+ 5521 0 0 3 Halo 3
+ 7093 0 0 17 History of the Yosemite area
+ 11640 0 0 14 Arthur Blackburn
+ 7764 0 0 12 Cousin Bette
+ 6110 0 0 5 Vampire: The Masquerade – Redemption
+ 2436 0 0 3 Blair Wark
+ 3117 0 0 12 Ford Piquette Avenue Plant
+ 2191 0 0 3 Lawrence Weathers
+ 2801 0 0 0 John Whittle
+ 3260 0 0 1 What'd I Say
+ 10968 0 0 23 Stanford Memorial Church
+ 2825 0 0 4 James Park Woods
+ 1799 0 0 3 Populous: The Beginning
+ 2571 0 0 0 Edgar Towner
+ 11946 0 0 11 Anarky
+ 2585 0 0 3 William Edward Sanders
+ 3785 0 0 6 Alfred Shout
+ 2845 0 0 4 William McGregor (football)
+ 4931 0 0 16 Ontario Highway 403
+ 3621 0 0 5 Walter Peeler
+ 5133 0 0 8 Robert Garran
+ 4725 0 0 6 Woodes Rogers
+ 7110 0 0 30 Hasekura Tsunenaga
+ 2060 0 0 2 Issy Smith
+ 9077 0 0 40 Painted turtle
+ 5179 0 0 9 Mercury dime
+ 7570 0 0 28 Volubilis
+ 2213 0 0 4 Typhoon Gay (1989)
+ 8173 0 0 2 Tommy Amaker
+ 7396 0 0 12 Ruffed lemur
+ 6254 0 0 8 Calutron
+ 9962 0 0 9 Elizabeth Canning
+ 1649 0 0 1 Donald Forrester Brown
+ 3774 0 0 8 Maserati MC12
+ 5101 0 0 4 Flight Unlimited
+ 5185 0 0 7 Rufus Wilmot Griswold
+ 4722 0 0 8 Nathaniel Parker Willis
+ 5691 0 0 1 Like a Rolling Stone
+ 13954 0 0 18 Elizabeth David
+ 13878 0 0 20 Jane Grigson
+ 2565 0 0 3 Phillip Davey
+ 3224 0 0 3 John Leak
+ 3031 0 0 3 Operation PBFortune
+ 2777 0 0 3 Bill Kibby
+ 4889 0 0 5 Tom Derrick
+ 3821 0 0 5 Roy Inwood
+ 2236 0 0 6 Thomas Crisp
+ 7921 0 0 7 I Know Why the Caged Bird Sings
+ 2642 0 0 1 James Newland
+ 5021 0 0 6 Smyth Report
+ 3215 0 0 4 Bill Newton
+ 3804 0 0 3 Harry Murray
+ 5089 0 0 5 United States v. Washington
+ 2493 0 0 4 Bruce Kingsbury
+ 6417 0 0 9 Cincinnati, Lebanon and Northern Railway
+ 4367 0 0 3 John Wark
+ 6352 0 0 9 Battle of Khafji
+ 4426 0 0 6 Joseph Szigeti
+ 7136 0 0 8 Ramesses VI
+ 6053 0 0 5 Mary Martha Sherwood
+ 2632 0 0 6 Ontario Highway 402
+ 3619 0 0 7 Charlotte Stuart, Duchess of Albany
+ 3709 0 0 5 Jack the Ripper: The Final Solution
+ 4788 0 0 2 Ultima Underworld: The Stygian Abyss
+ 17939 0 0 65 Lesley J. McNair
+ 6485 0 0 7 Il ritorno d'Ulisse in patria
+ 3788 0 0 21 Carnotaurus
+ 3661 0 0 9 Red-tailed tropicbird
+ 7499 0 0 13 Yukon Quest
+ 3054 0 0 5 Battle of the Cedars
+ 4127 0 0 3 Central Coast Mariners FC
+ 2814 0 0 5 Ontario Highway 416
+ 14319 0 0 14 Battle of Greece
+ 4566 0 0 14 Cutthroat trout
+ 11466 0 0 10 Slow loris
+ 4853 0 0 7 Capella
+ 9260 0 0 27 Elasmosaurus
+ 3504 0 0 3 Nafaanra
+ 4592 0 0 33 1950 Atlantic hurricane season
+ 4945 0 0 13 Fightin' Texas Aggie Band
+ 6335 0 0 6 George Tucker (politician)
+ 2221 0 0 5 Ontario Highway 420
+ 7467 0 0 9 Westminster Assembly
+ 4042 0 0 2 Arthur (Or the Decline and Fall of the British Empire)
+ 4558 0 0 9 Stede Bonnet
+ 6995 0 0 5 21st Waffen Mountain Division of the SS Skanderbeg
+ 4325 0 0 4 Joking Apart
+ 7485 0 0 10 Quebec Agreement
+ 4791 0 0 4 Clarence 13X
+ 2169 0 0 3 Jumping Flash!
+ 7536 0 0 3 Paul E. Patton
+ 2921 0 0 6 Princess Victoria of Hesse and by Rhine
+ 2896 0 0 4 Cleveland Bay
+ 4090 0 0 23 2006 Atlantic hurricane season
+ 2954 0 0 10 Deinosuchus
+ 6182 0 0 3 LSWR N15 class
+ 6017 0 0 5 Jonathan Agnew
+ 8100 0 0 16 Joseph Grimaldi
+ 8284 0 0 4 Liberal Movement (Australia)
+ 7816 0 0 8 1926 World Series
+ 2415 0 0 4 Homer's Enemy
+ 2456 0 0 2 Homer's Phobia
+ 2775 0 0 6 Sea mink
+ 10080 0 0 5 Archie MacLaren
+ 2587 0 0 18 Portman Road
+ 5217 0 0 7 Brie Larson
+ 1889 0 0 4 Hurricane Kenna
+ 4323 0 0 0 British National (Overseas)
+ 4468 0 0 20 Gangtok
+ 2250 0 0 3 Flight Unlimited II
+ 6410 0 0 6 Arthur Gilligan
+ 8792 0 0 10 Percy Chapman
+ 10842 0 0 5 Gubby Allen
+ 7213 0 0 14 K-25
+ 6087 0 0 4 Art Ross
+ 3630 0 0 4 Castlevania: Dawn of Sorrow
+ 2435 0 0 9 Nathu La
+ 4691 0 0 5 Montague Druitt
+ 3438 0 0 3 William Henry Bury
+ 3358 0 0 3 Mount Takahe
+ 4074 0 0 7 Battle of the Bagradas River (255 BC)
+ 2663 0 0 4 John Day (printer)
+ 12800 0 0 16 British nuclear tests at Maralinga
+ 6167 0 0 12 La Peau de chagrin
+ 12577 0 0 17 Odaenathus
+ 4016 0 0 2 Yesterday's Enterprise
+ 3782 0 0 2 Terra Nova: Strike Force Centauri
+ 2263 0 0 1 The Joy of Sect
+ 2794 0 0 1 Myst V: End of Ages
+ 6529 0 0 7 Operation Barras
+ 2258 0 0 5 Carolwood Pacific Railroad
+ 3650 0 0 0 Ferugliotheriidae
+ 6973 0 0 6 Belle Vue Zoological Gardens
+ 3312 0 0 3 Burning Rangers
+ 3867 0 0 9 Siege of Calais (1346–1347)
+ 2768 0 0 7 Icelandic Phallological Museum
+ 6546 0 0 12 WAVES
+ 2088 0 0 12 1941 Atlantic hurricane season
+ 5463 0 0 27 1933 Atlantic hurricane season
+ 5328 0 0 7 Sydney Riot of 1879
+ 8562 0 0 11 Introduction to general relativity
+ 8804 0 0 23 Alodia
+ 9145 0 0 8 Ellen Wilkinson
+ 2475 0 0 2 The City of New York vs. Homer Simpson
+ 4377 0 0 3 Silent Alarm
+ 5386 0 0 7 Battle of Schellenberg
+ 6796 0 0 11 Thomas C. Kinkaid
+ 7791 0 0 6 The Simpsons Movie
+ 7051 0 0 5 Sergo Ordzhonikidze
+ 5301 0 0 14 Olga Constantinovna of Russia
+ 9364 0 0 7 John Mowbray, 3rd Duke of Norfolk
+ 10753 0 0 15 André Messager
+ 4228 0 0 11 Red-billed quelea
+ 4848 0 0 8 Monnow Bridge
+ 2025 0 0 4 A. E. J. Collins
+ 3346 0 0 8 Verbascum thapsus
+ 1531 0 0 4 Hurricane Linda (1997)
+ 4943 0 0 8 Gas tungsten arc welding
+ 4470 0 0 5 True at First Light
+ 3520 0 0 3 Thomas Percy (Gunpowder Plot)
+ 4335 0 0 7 Second Silesian War
+ 3924 0 0 6 Startling Stories
+ 3229 0 0 27 Great Lakes Storm of 1913
+ 1669 0 0 3 Still Reigning
+ 3552 0 0 1 Legacy of Kain: Soul Reaver
+ 3015 0 0 7 Knowle West
+ 5817 0 0 12 Great Eastern Highway
+ 2118 0 0 2 You Only Move Twice
+ 6892 0 0 17 Disneyland Railroad
+ 2209 0 0 1 Shojo Beat
+ 4267 0 0 2 Isabelle Eberhardt
+ 6705 0 0 6 Paul Collingwood
+ 2834 0 0 7 Millennium Force
+ 2071 0 0 5 Make Way for Ducklings
+ 5006 0 0 7 Payún Matrú
+ 4703 0 0 10 Saint Fin Barre's Cathedral
+ 6896 0 0 13 Theatre Royal, Drury Lane
+ 5210 0 0 4 Under the Bridge
+ 5102 0 0 8 Numerical weather prediction
+ 4823 0 0 5 Kenora Thistles
+ 6130 0 0 8 Calgary Hitmen
+ 6509 0 0 3 Wonder Stories
+ 10371 0 0 2 Gospel of the Ebionites
+ 9659 0 0 5 BioShock
+ 3648 0 0 4 Hare coursing
+ 8165 0 0 13 Royal baccarat scandal
+ 2928 0 0 3 Cape Feare
+ 4773 0 0 11 Pioneer Zephyr
+ 5747 0 0 8 Kwinana Freeway
+ 6084 0 0 4 Brian Booth
+ 8772 0 0 36 Golden jackal
+ 3222 0 0 6 Prince William, Duke of Gloucester
+ 5858 0 0 15 Plateosaurus
+ 1855 0 0 2 Empires: Dawn of the Modern World
+ 4935 0 0 5 Trials of Mana
+ 5862 0 0 8 John Adair
+ 4727 0 0 5 Battle of Barrosa
+ 7788 0 0 23 Edmontosaurus
+ 8036 0 0 12 Userkaf
+ 7090 0 0 13 Neferirkare Kakai
+ 3068 0 0 5 Hurricane Carol
+ 4728 0 0 7 Menkauhor Kaiu
+ 7953 0 0 11 Djedkare Isesi
+ 3714 0 0 4 G. Ledyard Stebbins
+ 6201 0 0 14 Alpha Kappa Alpha
+ 5101 0 0 5 California State Route 78
+ 6276 0 0 6 The Royal Opera
+ 8511 0 0 22 The Garden of Earthly Delights
+ 3847 0 0 4 Óengus I
+ 7168 0 0 5 Bobby Peel
+ 4251 0 0 6 Retiarius
+ 4502 0 0 6 Arthur Mold
+ 5961 0 0 9 Moorgate tube crash
+ 4189 0 0 3 First Battle of Newtonia
+ 5787 0 0 6 Martha Layne Collins
+ 11718 0 0 25 Sino-Roman relations
+ 3735 0 0 12 Bluebuck
+ 4241 0 0 14 Rokeby Venus
+ 3024 0 0 5 Interstate 275 (Michigan)
+ 883 0 0 3 Interstate 675 (Michigan)
+ 7100 0 0 5 Final Fantasy XIII
+ 3224 0 0 3 Kreutz sungrazer
+ 5404 0 0 26 Stefan Lochner
+ 5035 0 0 6 Eduard Streltsov
+ 8159 0 0 12 Raid at Cabanatuan
+ 11201 0 0 17 CM Punk
+ 15377 0 0 20 House of Plantagenet
+ 21701 0 0 24 History of Poland (1945–1989)
+ 5589 0 0 13 Great Stink
+ 3908 0 0 3 Panavision
+ 3726 0 0 7 Carrow Road
+ 6683 0 0 11 Sid Barnes
+ 2964 0 0 2 These Are the Voyages...
+ 2944 0 0 8 Birchington-on-Sea
+ 3542 0 0 1 GRB 970228
+ 12599 0 0 18 Gloucestershire Regiment
+ 5608 0 0 9 Ailanthus altissima
+ 3430 0 0 2 Cartman Gets an Anal Probe
+ 11926 0 0 22 St James' Church, Sydney
+ 1976 0 0 4 Lisa del Giocondo
+ 3956 0 0 3 Arular
+ 2422 0 0 2 Bob Meusel
+ 9464 0 0 8 Wilfred Rhodes
+ 1974 0 0 2 Lisa the Skeptic
+ 3841 0 0 8 Crazy Taxi
+ 4304 0 0 2 Fijación Oral, Vol. 1
+ 2349 0 0 4 Banded stilt
+ 3378 0 0 6 Twenty-cent piece (United States coin)
+ 5095 0 0 5 Giant mouse lemur
+ 2719 0 0 3 Lisa the Vegetarian
+ 10125 0 0 11 Learie Constantine
+ 9352 0 0 20 Radcliffe, Greater Manchester
+ 3462 0 0 3 Weight Gain 4000
+ 3059 0 0 2 Starvin' Marvin
+ 4471 0 0 11 Anglo-Zanzibar War
+ 8785 0 0 9 Cock Lane ghost
+ 2613 0 0 21 Acid2
+ 5336 0 0 4 Kingdom Hearts II
+ 4177 0 0 5 MAX Red Line
+ 7143 0 0 20 Hastings line
+ 5032 0 0 4 Mayabazar
+ 3060 0 0 4 Cerro Azul (Chile volcano)
+ 2821 0 0 19 Walt Disney World Railroad
+ 4592 0 0 8 Tom Crean (explorer)
+ 9600 0 0 26 Ezra Meeker
+ 2278 0 0 2 Half-Life 2: Episode One
+ 19434 0 0 56 Military history of Puerto Rico
+ 1367 0 0 4 Ontario Highway 61
+ 8933 0 0 14 Fremantle Prison
+ 6063 0 0 13 Manila Light Rail Transit System
+ 4685 0 0 7 Harry Cobby
+ 7528 0 0 15 Josephine Butler
+ 2879 0 0 13 Styracosaurus
+ 8074 0 0 32 Achelousaurus
+ 4378 0 0 8 MAX Yellow Line
+ 12602 0 0 15 Rwandan Civil War
+ 6421 0 0 10 1928 Okeechobee hurricane
+ 2858 0 0 11 Shoe polish
+ 3493 0 0 3 DJ AM
+ 3525 0 0 2 What You Waiting For?
+ 2549 0 0 3 California State Route 75
+ 3742 0 0 4 California State Route 76
+ 6397 0 0 13 Brian Horrocks
+ 5155 0 0 2 Shadow of the Colossus
+ 5316 0 0 6 Love It to Death
+ 4627 0 0 4 The Legend of Bhagat Singh
+ 6514 0 0 7 Short-beaked echidna
+ 2488 0 0 2 New Super Mario Bros.
+ 10012 0 0 6 0.999...
+ 3015 0 0 8 Myxobolus cerebralis
+ 5757 0 0 12 History of Sheffield
+ 4706 0 0 2 Bobby Eaton
+ 13349 0 0 17 Ice hockey at the Olympic Games
+ 7084 0 0 3 Prosperity theology
+ 6512 0 0 16 Frank Matcham
+ 9774 0 0 9 The Well of Loneliness
+ 6646 0 0 6 Bill Brown (cricketer)
+ 6043 0 0 5 Ian Craig
+ 6864 0 0 9 Ian Johnson (cricketer)
+ 8556 0 0 5 Arthur Morris
+ 6159 0 0 6 Clem Hill
+ 4892 0 0 6 Hugh Trumble
+ 5752 0 0 8 Harry Trott
+ 6181 0 0 2 J. R. Richard
+ 5996 0 0 10 Delrina
+ 5091 0 0 6 Battle of Pulo Aura
+ 1961 0 0 4 Hero of Belarus
+ 7194 0 0 6 Drapier's Letters
+ 5689 0 0 6 A Contract with God
+ 3441 0 0 11 Herrerasaurus
+ 7047 0 0 13 Loggerhead sea turtle
+ 3517 0 0 3 Metroid Prime 3: Corruption
+ 3642 0 0 3 Cave Story
+ 5348 0 0 10 Waterfall Gully, South Australia
+ 4328 0 0 10 Telopea speciosissima
+ 5896 0 0 7 Light Tank Mk VII Tetrarch
+ 3135 0 0 7 Blackburn Olympic F.C.
+ 17007 0 0 18 Spanish conquest of Guatemala
+ 3204 0 0 7 Blue-faced honeyeater
+ 3665 0 0 2 J. C. W. Beckham
+ 5487 0 0 4 Gianni Schicchi
+ 3302 0 0 6 Blue iguana
+ 4879 0 0 1 Age of Empires
+ 5689 0 0 9 Neferefre
+ 14315 0 0 16 History of American football
+ 5262 0 0 31 New Orleans Mint
+ 10708 0 0 18 Nyuserre Ini
+ 3693 0 0 3 Shepseskare
+ 3534 0 0 18 Red-tailed black cockatoo
+ 3536 0 0 6 E. Urner Goodman
+ 8506 0 0 5 Siward, Earl of Northumbria
+ 5922 0 0 8 Louise Bryant
+ 5076 0 0 8 Metallurgical Laboratory
+ 4708 0 0 10 Deinocheirus
+ 4587 0 0 9 Eliza Acton
+ 1961 0 0 13 1911 Atlantic hurricane season
+ 5919 0 0 4 Margaret Lea Houston
+ 7272 0 0 2 Pauline Fowler
+ 5310 0 0 8 Fossa (animal)
+ 2370 0 0 2 Voluntary Human Extinction Movement
+ 3407 0 0 2 Emanuel Moravec
+ 12194 0 0 10 13th Waffen Mountain Division of the SS Handschar (1st Croatian)
+ 2105 0 0 3 Battle of Concepción
+ 5784 0 0 14 Parasaurolophus
+ 3953 0 0 4 Flywheel, Shyster, and Flywheel
+ 8944 0 0 11 Herschel Greer Stadium
+ 7409 0 0 9 L'incoronazione di Poppea
+ 5761 0 0 6 Ima Hogg
+ 4232 0 0 3 Eddie Gerard
+ 7545 0 0 14 Operation Charnwood
+ 4928 0 0 4 Ray Emery
+ 2296 0 0 5 Marwari horse
+ 2462 0 0 2 Convention of 1832
+ 4511 0 0 4 Sloan–Parker House
+ 3345 0 0 1 Tiny Thompson
+ 7504 0 0 11 Peter Heywood
+ 6617 0 0 8 Cleopatra Selene of Syria
+ 2894 0 0 3 Star Wars Episode I: Battle for Naboo
+ 2988 0 0 5 Hod Stuart
+ 3498 0 0 4 The Time Traveler's Wife
+ 8743 0 0 9 Percy Fender
+ 958 0 0 2 Ashcan comic
+ 8560 0 0 7 George Hirst
+ 6730 0 0 8 Harold Davidson
+ 4556 0 0 10 Bootham Crescent
+ 6455 0 0 8 Peace dollar
+ 4047 0 0 11 Morgan dollar
+ 3231 0 0 3 North by North Quahog
+ 6291 0 0 8 Operation Ke
+ 3000 0 0 10 Lambeosaurus
+ 4913 0 0 9 2005 United States Grand Prix
+ 4919 0 0 7 Vidya Balan
+ 7153 0 0 29 SR West Country and Battle of Britain classes
+ 3321 0 0 6 M-35 (Michigan highway)
+ 3265 0 0 4 Dietrich v The Queen
+ 5163 0 0 3 Resident Evil 5
+ 5034 0 0 10 Armero tragedy
+ 3352 0 0 8 Ivan Alexander of Bulgaria
+ 5995 0 0 4 United States v. Progressive, Inc.
+ 2955 0 0 5 Victoria Cross (Canada)
+ 3305 0 0 4 On the Banks of the Wabash, Far Away
+ 5936 0 0 8 Charing Cross, Euston and Hampstead Railway
+ 1876 0 0 2 Battle of San Patricio
+ 2396 0 0 3 Battle of Agua Dulce
+ 4297 0 0 3 William S. Sadler
+ 4536 0 0 4 Symphony No. 3 (Górecki)
+ 3721 0 0 4 Spinning Around
+ 20509 0 0 16 Byzantine navy
+ 1507 0 0 3 Grass Fight
+ 1840 0 0 3 1974 White House helicopter incident
+ 7063 0 0 4 James Nesbitt
+ 2315 0 0 2 Spyro: Year of the Dragon
+ 11293 0 0 51 Ricketts Glen State Park
+ 4622 0 0 3 Kevin Beattie
+ 4242 0 0 6 Battle of Lagos
+ 7062 0 0 5 Runaway Scrape
+ 5096 0 0 3 Battle of Groix
+ 5950 0 0 7 James Garrard
+ 9591 0 0 12 Charles Scott (governor)
+ 3169 0 0 3 2nd Red Banner Army
+ 3803 0 0 5 Cleveland Street scandal
+ 7513 0 0 16 New York State Route 22
+ 9412 0 0 18 Operation Rösselsprung (1944)
+ 3665 0 0 7 The Thriving Cult of Greed and Power
+ 4069 0 0 14 History of the British farthing
+ 3482 0 0 3 Convention of 1833
+ 8148 0 0 14 Imperial Trans-Antarctic Expedition
+ 4057 0 0 7 Eastern brown snake
+ 5601 0 0 36 1998 Pacific hurricane season
+ 4176 0 0 31 1995 Pacific hurricane season
+ 4655 0 0 6 Nicholas Hoult
+ 4882 0 0 4 Sigi Schmid
+ 11702 0 0 11 Battle of Prokhorovka
+ 2741 0 0 4 Richmond Bridge, London
+ 3269 0 0 2 Thomas of Bayeux
+ 5648 0 0 4 Muhammad ibn Tughj al-Ikhshid
+ 2674 0 0 7 Acacia pycnantha
+ 4775 0 0 17 Paraceratherium
+ 3975 0 0 5 Hepatorenal syndrome
+ 4858 0 0 2 Thief II
+ 5033 0 0 22 Sacagawea dollar
+ 4517 0 0 6 Seated Liberty dollar
+ 4848 0 0 11 Battle of Corydon
+ 2620 0 0 8 Gobrecht dollar
+ 2560 0 0 5 Draped Bust dollar
+ 6227 0 0 14 Saint-Gaudens double eagle
+ 2723 0 0 5 Flowing Hair dollar
+ 8346 0 0 30 Elgin Cathedral
+ 2636 0 0 3 Joseph W. Tkach
+ 6048 0 0 10 Indian Head cent
+ 7732 0 0 5 The Real Adventures of Jonny Quest
+ 2708 0 0 4 Battle of Bicocca
+ 2483 0 0 1 Odyssey Number Five
+ 4771 0 0 5 Wormshill
+ 7138 0 0 12 Walking Liberty half dollar
+ 4019 0 0 10 Kennedy half dollar
+ 7344 0 0 5 Al-Hafiz
+ 5248 0 0 11 Restoration spectacular
+ 6271 0 0 7 Rudolf Wolters
+ 1907 0 0 2 The Last Temptation of Krust
+ 8607 0 0 15 Niagara Falls Suspension Bridge
+ 14524 0 0 15 Zoo TV Tour
+ 2128 0 0 7 Hurricane Edith (1971)
+ 3449 0 0 10 Ronald Stuart
+ 3504 0 0 6 Aiphanes
+ 6742 0 0 7 Bill Ponsford
+ 4710 0 0 10 Bramall Hall
+ 1844 0 0 5 Dr Pepper Ballpark
+ 1639 0 0 2 Nuckelavee
+ 4057 0 0 6 Puerto Rican amazon
+ 3943 0 0 7 Battle of Ceresole
+ 6038 0 0 16 Columbian mammoth
+ 2919 0 0 5 Rogožarski IK-3
+ 7636 0 0 20 Stegoceras
+ 7375 0 0 20 Psittacosaurus
+ 12011 0 0 60 1989 Tour de France
+ 2165 0 0 3 Flight Unlimited III
+ 6348 0 0 4 Fundamental Rights, Directive Principles and Fundamental Duties of India
+ 5473 0 0 6 Tumbler Ridge
+ 2748 0 0 6 Red-bellied black snake
+ 3690 0 0 1 Piano Concerto No. 24 (Mozart)
+ 2962 0 0 1 CSI effect
+ 2822 0 0 2 Bernard Fanning
+ 4498 0 0 2 Shooting of James Ashley
+ 5184 0 0 23 Line 1 (Sound Transit)
+ 4654 0 0 7 Eli Lilly
+ 2053 0 0 3 Defense of the Ancients
+ 3277 0 0 2 Rejoined
+ 4989 0 0 1 Neil Brooks
+ 5582 0 0 1 Nominative determinism
+ 4403 0 0 9 Haumea
+ 4750 0 0 15 Boise National Forest
+ 2640 0 0 9 Makemake
+ 5943 0 0 7 1958 US–UK Mutual Defence Agreement
+ 2896 0 0 4 A Streetcar Named Marge
+ 3567 0 0 5 Idlewild and Soak Zone
+ 3260 0 0 5 Black mamba
+ 8521 0 0 6 Benty Grange helmet
+ 2741 0 0 5 Drosera regia
+ 3288 0 0 6 Hex Enduction Hour
+ 6681 0 0 18 Shoshone National Forest
+ 10726 0 0 23 Sicilian Baroque
+ 1925 0 0 2 Monkey Gone to Heaven
+ 4899 0 0 14 Fort Yellowstone
+ 4900 0 0 10 Benedict Arnold's expedition to Quebec
+ 6797 0 0 5 Don Tallon
+ 3461 0 0 1 Scott Zolak
+ 13850 0 0 27 Surrender of Japan
+ 4844 0 0 9 Chetwynd, British Columbia
+ 7080 0 0 6 Ōkami
+ 4742 0 0 6 James B. McCreary
+ 4389 0 0 2 Constitution of Belarus
+ 2067 0 0 4 Gropecunt Lane
+ 3645 0 0 1 Eve Russell
+ 3533 0 0 2 Plesiorycteropus
+ 5047 0 0 7 Jersey Shore shark attacks of 1916
+ 3903 0 0 3 Archaeoindris
+ 3065 0 0 8 Alpine newt
+ 3257 0 0 4 Cotswold Olimpick Games
+ 4797 0 0 6 Haflinger
+ 2153 0 0 2 Mom and Dad
+ 3041 0 0 3 Kroger Babb
+ 6331 0 0 7 Me and Juliet
+ 4814 0 0 10 Rheinmetall Rh-120
+ 4107 0 0 3 The Lord of the Rings: The Battle for Middle-earth II
+ 4311 0 0 5 Charles Atangana
+ 15984 0 0 33 Battle of Vukovar
+ 8268 0 0 5 Jack Crawford (cricketer)
+ 2977 0 0 8 RSPB Dearne Valley Old Moor
+ 4102 0 0 8 Olympic marmot
+ 3854 0 0 9 Buildings and architecture of Bristol
+ 3016 0 0 5 Menacer
+ 12718 0 0 16 Heathenry (new religious movement)
+ 5698 0 0 34 2007 Atlantic hurricane season
+ 6696 0 0 6 Rolls-Royce R
+ 8379 0 0 6 Donnchadh, Earl of Carrick
+ 3915 0 0 4 Song of Innocence
+ 2346 0 0 3 Half-Life 2: Lost Coast
+ 4801 0 0 5 The Historian
+ 8922 0 0 7 Charlie Macartney
+ 4603 0 0 4 Homeworld
+ 4664 0 0 2 Operation Retribution (1941)
+ 4830 0 0 2 Mr. Hankey, the Christmas Poo
+ 2902 0 0 3 Charles Edward Magoon
+ 5394 0 0 10 Giant otter
+ 8278 0 0 19 Axis naval activity in Australian waters
+ 2550 0 0 3 Pied butcherbird
+ 4529 0 0 4 Title TK
+ 9793 0 0 24 Sega Genesis
+ 14086 0 0 5 Diocletianic Persecution
+ 10004 0 0 24 Problem of Apollonius
+ 8818 0 0 35 1962 Tour de France
+ 4859 0 0 5 Lionel Palairet
+ 9176 0 0 5 Australia at the Winter Olympics
+ 6262 0 0 6 Tyrone Wheatley
+ 4213 0 0 6 Old Dan Tucker
+ 8124 0 0 13 Oryzomys couesi
+ 8421 0 0 17 Echo parakeet
+ 2526 0 0 2 Luc Bourdon
+ 2967 0 0 8 Priestfield Stadium
+ 2728 0 0 3 California State Route 94
+ 10190 0 0 59 2002 Pacific typhoon season
+ 3581 0 0 11 Archie Jackson
+ 16714 0 0 24 William Burges
+ 3769 0 0 6 Capon Chapel
+ 4405 0 0 10 Masked booby
+ 2887 0 0 6 Scattered disc
+ 5637 0 0 6 Green and golden bell frog
+ 4195 0 0 3 Ruby Laffoon
+ 5017 0 0 11 Kappa Kappa Psi
+ 5724 0 0 14 Worlds End State Park
+ 3421 0 0 5 James Rowland (RAAF officer)
+ 2087 0 0 1 The Million Dollar Homepage
+ 7043 0 0 5 Ellis Paul
+ 3230 0 0 3 Aitraaz
+ 5117 0 0 7 Harris's List of Covent Garden Ladies
+ 4112 0 0 5 Battle of Osan
+ 2022 0 0 10 Lycoperdon perlatum
+ 5719 0 0 4 Roy Kilner
+ 1433 0 0 5 Hurricane Vince
+ 4527 0 0 4 Anbe Sivam
+ 9974 0 0 0 Ian Meckiff
+ 6765 0 0 4 Maurice Leyland
+ 1581 0 0 14 Maryland Route 36
+ 4285 0 0 4 Mário de Andrade
+ 4076 0 0 3 Some Thoughts Concerning Education
+ 4678 0 0 5 Emperor Norton
+ 3473 0 0 4 Aradia, or the Gospel of the Witches
+ 6053 0 0 5 MAUD Committee
+ 4017 0 0 9 Albert Stanley, 1st Baron Ashfield
+ 1672 0 0 5 Madeira firecrest
+ 7068 0 0 8 Karmichael Hunt
+ 6152 0 0 10 Ernest Emerson
+ 6477 0 0 17 Standing Liberty quarter
+ 2752 0 0 1 Stephen Trigg
+ 2956 0 0 2 Children of Mana
+ 5997 0 0 9 A Vindication of the Rights of Men
+ 7613 0 0 15 Sawtooth National Forest
+ 3282 0 0 1 Lawrence Wetherby
+ 5119 0 0 7 City of Blinding Lights
+ 2582 0 0 3 Keen Johnson
+ 2336 0 0 2 Omayra Sánchez
+ 7710 0 0 3 Anekantavada
+ 5149 0 0 13 Triturus
+ 10446 0 0 13 Monadnock Building
+ 2251 0 0 3 Boulonnais horse
+ 2202 0 0 1 Vkhutemas
+ 5389 0 0 13 Italian War of 1521–1526
+ 3629 0 0 4 John W. Johnston
+ 9514 0 0 11 Osbert Lancaster
+ 7895 0 0 4 Hoodwinked!
+ 3688 0 0 8 Sunderland Echo
+ 3219 0 0 6 Red-capped parrot
+ 2380 0 0 4 Eastern green mamba
+ 2894 0 0 5 Banksia ilicifolia
+ 3545 0 0 3 Banksia cuneata
+ 6224 0 0 11 Enzyme kinetics
+ 3687 0 0 4 Augustus Owsley Stanley
+ 5517 0 0 8 Hannah Glasse
+ 2549 0 0 6 Australian green tree frog
+ 2087 0 0 3 Wandsworth Bridge
+ 10383 0 0 14 History of the Australian Capital Territory
+ 4533 0 0 9 Massospondylus
+ 9506 0 0 14 ZETA (fusion reactor)
+ 2951 0 0 6 Chat Moss
+ 3550 0 0 5 SR Leader class
+ 3009 0 0 2 Nicolo Giraud
+ 6667 0 0 11 Rashtrakuta dynasty
+ 2864 0 0 5 Hector Waller
+ 4632 0 0 11 Little Moreton Hall
+ 2859 0 0 4 Henry Conwell
+ 5534 0 0 4 Hiram Wesley Evans
+ 3452 0 0 5 Battle of Adys
+ 7685 0 0 16 Shaw and Crompton
+ 3489 0 0 5 Battle of Panormus
+ 3490 0 0 7 Stark Raving Dad
+ 3565 0 0 12 Thescelosaurus
+ 15801 0 0 9 Ketuanan Melayu
+ 3386 0 0 6 Black Friday (1945)
+ 1374 0 0 5 U.S. Route 41 Business (Marquette, Michigan)
+ 6794 0 0 16 1st Provisional Marine Brigade
+ 1565 0 0 6 M-28 Business (Ishpeming–Negaunee, Michigan)
+ 6901 0 0 3 Noye's Fludde
+ 2392 0 0 8 Typhoon Pongsona
+ 4604 0 0 7 Virginia Eliza Clemm Poe
+ 1946 0 0 3 Hurricane Dog (1950)
+ 11514 0 0 7 The Kinks
+ 7152 0 0 4 S. O. Davies
+ 4977 0 0 7 Josh Hutcherson
+ 7635 0 0 4 Kingdom Hearts
+ 2363 0 0 6 Battle of Kalavrye
+ 3810 0 0 2 Battle of Halmyros
+ 6349 0 0 7 Andreas Palaiologos
+ 3329 0 0 16 Battle of Blanchetaque
+ 5870 0 0 15 Bull Run River (Oregon)
+ 1532 0 0 3 Tropical Storm Vamei
+ 1454 0 0 5 Hurricane Ismael
+ 7290 0 0 11 Pyramid of Unas
+ 3068 0 0 7 Hurricane Juan (1985)
+ 3208 0 0 5 Capitol Loop
+ 3060 0 0 6 Banksia coccinea
+ 4033 0 0 9 Battle of Auberoche
+ 1657 0 0 4 Hurricane Nora (1997)
+ 6277 0 0 5 United Nations Parliamentary Assembly
+ 2071 0 0 5 Typhoon Rusa
+ 2951 0 0 0 This Charming Man
+ 7939 0 0 14 Attack on Sydney Harbour
+ 3055 0 0 6 Typhoon Chataan
+ 3260 0 0 8 Rufous-crowned sparrow
+ 3612 0 0 12 Vermilion flycatcher
+ 2415 0 0 3 Typhoon Omar
+ 2264 0 0 5 2005 Qeshm earthquake
+ 4471 0 0 5 Rosetta@home
+ 8053 0 0 11 Ion Heliade Rădulescu
+ 5874 0 0 9 Operation Tungsten
+ 3893 0 0 5 Music of Athens, Georgia
+ 1090 0 0 3 Bam Thwok
+ 5638 0 0 11 1994 San Marino Grand Prix
+ 3043 0 0 7 Hurricane Irene (1999)
+ 7680 0 0 11 Frank Pick
+ 3262 0 0 7 John L. Helm
+ 1976 0 0 2 Hell Is Other Robots
+ 5083 0 0 4 Panzer Dragoon Saga
+ 3172 0 0 6 Xerochrysum bracteatum
+ 3800 0 0 7 Australian boobook
+ 2325 0 0 7 Hurricane Bret
+ 3695 0 0 9 Hurricane Danny (1997)
+ 4049 0 0 11 Flying Eagle cent
+ 2874 0 0 11 Hurricane Kate (1985)
+ 1493 0 0 5 Interstate 470 (Ohio–West Virginia)
+ 4469 0 0 14 Hurricane Gert
+ 7162 0 0 10 Monte Ne
+ 3010 0 0 39 Hurricane Emily (1993)
+ 5918 0 0 13 Jay Pritzker Pavilion
+ 18429 0 0 62 Istanbul
+ 5980 0 0 14 Pyramid of Neferirkare
+ 5206 0 0 5 Oryzomys
+ 2468 0 0 11 Hurricane Esther
+ 4785 0 0 3 Baldwin of Forde
+ 21729 0 0 28 Harry S. Truman
+ 10875 0 0 13 Political integration of India
+ 8063 0 0 15 Australasian Antarctic Expedition
+ 5226 0 0 8 Jerry Voorhis
+ 2675 0 0 13 Hurricane Charley (1986)
+ 10344 0 0 31 Roman–Persian Wars
+ 8109 0 0 10 Tom Driberg
+ 5799 0 0 14 Presque Isle State Park
+ 4648 0 0 6 Neilston
+ 4693 0 0 18 Jesse L. Brown
+ 11134 0 0 17 Luís Alves de Lima e Silva, Duke of Caxias
+ 5942 0 0 14 Western Ganga dynasty
+ 2071 0 0 6 Hurricane Claudette (2003)
+ 3627 0 0 3 Ngô Đình Cẩn
+ 3950 0 0 7 History of saffron
+ 3622 0 0 7 Bruce Castle
+ 1779 0 0 7 Meteorological history of Hurricane Katrina
+ 3257 0 0 8 Amargasaurus
+ 4754 0 0 14 Cetiosauriscus
+ 6245 0 0 11 No. 1 Squadron RAAF
+ 5669 0 0 8 Deepika Padukone
+ 5415 0 0 14 Heterodontosaurus
+ 12037 0 0 22 Underwater diving
+ 2311 0 0 0 Cynna Kydd
+ 3657 0 0 6 Opisthocoelicaudia
+ 1825 0 0 4 Leek Town F.C.
+ 4831 0 0 12 Pennsylvania State Capitol
+ 3706 0 0 0 Peter Evans (swimmer)
+ 994 0 0 3 Hurricane Irene (2005)
+ 1518 0 0 3 Hurricane Nate (2005)
+ 3331 0 0 11 Broad-billed parrot
+ 5769 0 0 6 No. 77 Squadron RAAF
+ 1604 0 0 1 Design A-150 battleship
+ 4018 0 0 6 No. 79 Squadron RAAF
+ 3139 0 0 5 No. 2 Operational Conversion Unit RAAF
+ 1667 0 0 3 Hurricane Erika (1997)
+ 3238 0 0 3 Capcom Five
+ 2130 0 0 2 Touch Me I'm Sick
+ 6050 0 0 9 Siege of Constantinople (717–718)
+ 3875 0 0 4 Ernie Toshack
+ 10034 0 0 3 Sam Loxton
+ 4508 0 0 15 Oregon State Capitol
+ 4368 0 0 6 The Heart of a Woman
+ 4319 0 0 4 The Emperor's New School
+ 2718 0 0 5 Choiseul pigeon
+ 4169 0 0 9 Edward Low
+ 7504 0 0 3 Bessie Braddock
+ 3457 0 0 4 Operation Inmate
+ 5499 0 0 9 1944 Cuba–Florida hurricane
+ 3663 0 0 2 Mark Kerry
+ 4575 0 0 1 Mark Tonelli
+ 2791 0 0 2 Sandra Morgan
+ 2457 0 0 3 Faith Leech
+ 4417 0 0 2 Abe Waddington
+ 5116 0 0 5 Maxinquaye
+ 2153 0 0 1 Hygeberht
+ 5315 0 0 2 George Macaulay
+ 8072 0 0 12 U.S. Route 131
+ 4581 0 0 3 Broken Sword: The Shadow of the Templars
+ 3196 0 0 12 St. Michael's Golden-Domed Monastery
+ 2798 0 0 4 Silent Hill 4: The Room
+ 4291 0 0 2 Truthiness
+ 2176 0 0 1 Simone Russell
+ 3031 0 0 9 Stocksbridge Park Steels F.C.
+ 5020 0 0 15 Bramshill House
+ 5335 0 0 8 S-50 (Manhattan Project)
+ 11652 0 0 10 2005 Texas Longhorns football team
+ 3522 0 0 2 The Penelopiad
+ 2750 0 0 3 Stamata Revithi
+ 3168 0 0 8 Phallus indusiatus
+ 2377 0 0 1 False potto
+ 4778 0 0 14 Italian War of 1542–1546
+ 2127 0 0 1 Operation Ironside
+ 3102 0 0 6 Henry Cornelius Burnett
+ 3963 0 0 8 Lieutenant Governor of New Jersey
+ 5493 0 0 7 Emma Stone
+ 2422 0 0 5 William Hillcourt
+ 4350 0 0 10 Osteochondritis dissecans
+ 4481 0 0 6 Cloud Gate
+ 3637 0 0 18 1991 Perfect Storm
+ 10898 0 0 15 George Robey
+ 7995 0 0 5 Sarah Trimmer
+ 3092 0 0 7 No. 36 Squadron RAAF
+ 3027 0 0 3 No. 37 Squadron RAAF
+ 5426 0 0 10 Three Sisters (Oregon)
+ 4274 0 0 3 The Coral Island
+ 6744 0 0 8 Amy Adams
+ 1915 0 0 2 Luo Yixiu
+ 4365 0 0 7 Tiridates I of Armenia
+ 9547 0 0 6 Ambohimanga
+ 2683 0 0 2 Segundo Romance
+ 2876 0 0 7 No. 33 Squadron RAAF
+ 3480 0 0 7 No. 34 Squadron RAAF
+ 3753 0 0 4 No. 38 Squadron RAAF
+ 4796 0 0 16 Senghenydd colliery disaster
+ 2430 0 0 5 CMLL World Light Heavyweight Championship
+ 3485 0 0 4 Boroughitis
+ 3365 0 0 8 Shield nickel
+ 4515 0 0 16 The Third of May 1808
+ 2819 0 0 15 Adolfo Farsari
+ 12087 0 0 12 Carl Hans Lody
+ 3237 0 0 11 Roman Catholic Archdiocese of Miami
+ 3780 0 0 2 Mercy Point
+ 3978 0 0 5 Battle of Caishi
+ 2552 0 0 4 House with Chimaeras
+ 15178 0 0 14 Nagorno-Karabakh War
+ 7612 0 0 6 Birmingham campaign
+ 3347 0 0 1 Lego Star Wars II: The Original Trilogy
+ 3570 0 0 4 Chew Valley
+ 4757 0 0 9 Buffalo nickel
+ 3638 0 0 4 Eric A. Havelock
+ 2576 0 0 5 John Brooke-Little
+ 6507 0 0 15 Barber coinage
+ 3060 0 0 1 Billy Joe Tolliver
+ 4214 0 0 7 Afroyim v. Rusk
+ 1924 0 0 3 Variegated fairywren
+ 6370 0 0 5 Rex Ryan
+ 7022 0 0 3 Sentence spacing
+ 5196 0 0 8 X-10 Graphite Reactor
+ 3942 0 0 5 MLS Cup 1996
+ 2056 0 0 5 Elfin woods warbler
+ 2193 0 0 6 Scarlet myzomela
+ 2928 0 0 6 Yellow-faced honeyeater
+ 3271 0 0 0 Akhtar Hameed Khan
+ 6653 0 0 28 George Andrew Davis Jr.
+ 1729 0 0 4 Hydnum repandum
+ 10110 0 0 10 Dave Gallaher
+ 1220 0 0 2 Chickasaw Turnpike
+ 7084 0 0 19 Andrée's Arctic balloon expedition
+ 4827 0 0 3 Operation Auca
+ 5104 0 0 5 Larrys Creek
+ 1400 0 0 2 North Road (Manchester)
+ 4877 0 0 5 Herbie Hewett
+ 1715 0 0 7 Russula emetica
+ 3014 0 0 8 Suillus luteus
+ 2392 0 0 5 Russula virescens
+ 1667 0 0 2 Iridion 3D
+ 2961 0 0 3 The Playboy
+ 3465 0 0 4 I Never Liked You
+ 3704 0 0 7 Jimmy McAleer
+ 3511 0 0 1 Rob-B-Hood
+ 3952 0 0 2 1987 (What the Fuck Is Going On?)
+ 4338 0 0 8 Scottish National Antarctic Expedition
+ 2542 0 0 8 Paranthodon
+ 6896 0 0 3 First Roumanian-American Congregation
+ 5956 0 0 20 Siamosaurus
+ 4266 0 0 9 Anthony Roll
+ 2747 0 0 9 Cape sparrow
+ 3566 0 0 5 Russet sparrow
+ 2114 0 0 4 Sind sparrow
+ 2628 0 0 6 Saxaul sparrow
+ 3396 0 0 8 Typhoon Maemi
+ 5078 0 0 4 Acute myeloid leukemia
+ 6715 0 0 13 Discovery Expedition
+ 4017 0 0 7 Thistle, Utah
+ 4070 0 0 7 Operation Tractable
+ 7209 0 0 12 Nimrod Expedition
+ 4692 0 0 4 Mukhtar al-Thaqafi
+ 4646 0 0 6 Ross Sea party
+ 4923 0 0 7 Shackleton–Rowett Expedition
+ 11672 0 0 15 Scotland in the High Middle Ages
+ 8385 0 0 13 Marian Rejewski
+ 3286 0 0 11 Banksia integrifolia
+ 3124 0 0 7 Banksia serrata
+ 3749 0 0 12 Pinguicula moranensis
+ 9000 0 0 14 Terra Nova Expedition
+ 6643 0 0 2 God of War II
+ 3085 0 0 6 Reg Saunders
+ 5048 0 0 5 White Deer Hole Creek
+ 3917 0 0 4 Star Wars: Rogue Squadron
+ 3074 0 0 4 Banksia brownii
+ 3025 0 0 4 Meerkat Manor
+ 7609 0 0 17 Vithoba
+ 11534 0 0 61 3rd Battalion, 3rd Marines
+ 9131 0 0 9 Bricker Amendment
+ 4480 0 0 6 Roderic Dallas
+ 2046 0 0 4 Edwin Taylor Pollock
+ 2744 0 0 5 Goodbyeee
+ 7122 0 0 11 70th Infantry Division (United Kingdom)
+ 5168 0 0 13 El Hatillo Municipality
+ 7308 0 0 6 18th Infantry Division (United Kingdom)
+ 5677 0 0 11 Bath School disaster
+ 11732 0 0 31 Parthian Empire
+ 1939 0 0 2 CMLL World Middleweight Championship
+ 4336 0 0 5 Richard Cordray
+ 1617 0 0 4 Tropical Storm Hanna (2002)
+ 3573 0 0 5 CMLL World Heavyweight Championship
+ 1678 0 0 5 Mangrove swallow
+ 7766 0 0 10 Helmut Lent
+ 3459 0 0 4 Alexander of Lincoln
+ 4146 0 0 2 Temperatures Rising
+ 16096 0 0 41 Military history of Australia during World War II
+ 4403 0 0 7 No. 450 Squadron RAAF
+ 2256 0 0 7 Dromaeosauroides
+ 4361 0 0 16 Majungasaurus
+ 7115 0 0 5 Ed Stelmach
+ 13974 0 0 11 Project Excalibur
+ 7449 0 0 11 Royal Gloucestershire Hussars
+ 1931 0 0 3 State Route 343 (New York−Connecticut)
+ 4404 0 0 11 Bog turtle
+ 1895 0 0 5 New York State Route 308
+ 4279 0 0 5 Ike Altgens
+ 19630 0 0 17 Bob Dylan
+ 2750 0 0 9 Eye (cyclone)
+ 1595 0 0 5 New York State Route 311
+ 8551 0 0 8 Theodore Komnenos Doukas
+ 7001 0 0 4 Mormon handcart pioneers
+ 3782 0 0 10 Hoopoe starling
+ 11791 0 0 29 Australia
+ 13718 0 0 26 Windsor Castle
+ 2786 0 0 3 Enta da Stage
+ 3196 0 0 4 Concerto delle donne
+ 1671 0 0 5 Hurricane Gustav (2002)
+ 6235 0 0 8 The Oceanides
+ 3090 0 0 5 Tropical Storm Bill (2003)
+ 2637 0 0 4 Youngstown Ohio Works
+ 9342 0 0 9 Hoxne Hoard
+ 8602 0 0 9 Disappearance of Natalee Holloway
+ 7046 0 0 13 Battle of Dürenstein
+ 11017 0 0 29 Retreat of glaciers since 1850
+ 4285 0 0 7 Muhammad I of Granada
+ 4999 0 0 12 Ramblin' Wreck
+ 3385 0 0 4 Michael Woodruff
+ 2244 0 0 2 Richard Hawes
+ 3271 0 0 5 Isabella quarter
+ 5387 0 0 7 Neil Hamilton Fairley
+ 10406 0 0 15 William T. Stearn
+ 5186 0 0 5 Artur Phleps
+ 3773 0 0 4 Attalus I
+ 6681 0 0 12 Western Chalukya Empire
+ 4199 0 0 9 Atomic line filter
+ 4232 0 0 2 1986 World Snooker Championship
+ 5549 0 0 3 1985 World Snooker Championship
+ 3416 0 0 5 Carnaby's black cockatoo
+ 3457 0 0 5 Duino Elegies
+ 5745 0 0 6 Congregation Baith Israel Anshei Emes
+ 1775 0 0 3 Sam & Max: Freelance Police
+ 5120 0 0 5 Robert Goff, Baron Goff of Chieveley
+ 3344 0 0 6 Edwin P. Morrow
+ 10924 0 0 15 British anti-invasion preparations of the Second World War
+ 1610 0 0 2 Wipeout 3
+ 6385 0 0 17 Albatross
+ 3749 0 0 2 Stephen Colbert at the 2006 White House Correspondents' Dinner
+ 3386 0 0 4 Pallid sturgeon
+ 7581 0 0 34 Solar eclipse
+ 3197 0 0 5 Alabama Centennial half dollar
+ 4597 0 0 4 John Y. Brown (politician, born 1835)
+ 2553 0 0 5 St. Croix macaw
+ 4654 0 0 8 Parachute Jump
+ 5961 0 0 10 Army of Sambre and Meuse
+ 12757 0 0 27 Canada
+ 25602 0 0 32 Climate change
+ 16669 0 0 22 Rudolf Vrba
+ 23479 0 0 40 Hillary Clinton
+ 7113 0 0 12 Joel Brand
+ 4030 0 0 4 Posting system
+ 5489 0 0 14 Thomas the Slav
+ 5923 0 0 8 Lynching of Jesse Washington
+ 3201 0 0 0 Bob Windle
+ 2074 0 0 1 Kevin O'Halloran
+ 2671 0 0 0 Ian O'Brien
+ 9155 0 0 4 Pearl Jam
+ 7054 0 0 3 Final Fantasy Type-0
+ 5126 0 0 1 Fabula Nova Crystallis Final Fantasy
+ 5825 0 0 4 Super Mario Galaxy
+ 3684 0 0 5 Wii Sports
+ 15624 0 0 13 Pink Floyd
+ 7281 0 0 9 Macedonia (terminology)
+ 5221 0 0 2 Nguyễn Ngọc Thơ
+ 11442 0 0 24 Biblioteca Marciana
+ 7734 0 0 7 Kragujevac massacre
+ 2226 0 0 2 The Halo Graphic Novel
+ 3488 0 0 7 Trade dollar (United States coin)
+ 8241 0 0 7 Gilbert Foliot
+ 2525 0 0 1 Easy Jet
+ 5382 0 0 20 Postage stamps of Ireland
+ 1482 0 0 1 Diary of a Camper
+ 4989 0 0 16 Nemegtomaia
+ 3860 0 0 4 Fuck the Millennium
+ 4029 0 0 5 Super Columbine Massacre RPG!
+ 3727 0 0 7 Banksia ericifolia
+ 2651 0 0 3 Benjamin Franklin Tilley
+ 8734 0 0 23 James II of England
+ 5622 0 0 6 Zanzibar Revolution
+ 2540 0 0 2 The Bus Uncle
+ 1957 0 0 7 Stanley Green
+ 3663 0 0 7 New Carissa
+ 6361 0 0 6 23rd (Northumbrian) Division
+ 9096 0 0 8 Erin Phillips
+ 6038 0 0 3 Bryan Gunn
+ 6496 0 0 3 Fred Keenor
+ 7513 0 0 4 Congregation Beth Elohim
+ 7953 0 0 15 Little Tich
+ 7627 0 0 10 Apollo 15 postal covers incident
+ 1638 0 0 3 Baden-Powell House
+ 5412 0 0 10 Blakeney Point
+ 8007 0 0 12 Iravan
+ 1896 0 0 1 Minnie Pwerle
+ 6602 0 0 7 Peter Jones (missionary)
+ 8561 0 0 9 59th (Staffordshire) Infantry Division
+ 5462 0 0 7 Kangana Ranaut
+ 5990 0 0 14 Thalassodromeus
+ 1927 0 0 4 Tropical Storm Barry (2001)
+ 4568 0 0 6 Treehouse of Horror
+ 4833 0 0 4 Iwan Roberts
+ 11271 0 0 12 Taylor Swift
+ 1727 0 0 5 Banksia petiolaris
+ 5811 0 0 16 Enzyme inhibitor
+ 8134 0 0 23 John/Eleanor Rykener
+ 2667 0 0 7 Maraba coffee
+ 4026 0 0 6 Spacewar!
+ 4800 0 0 3 The Ordeal of Gilbert Pinfold
+ 4588 0 0 12 Kit (association football)
+ 2363 0 0 7 Tropical Storm Alberto (2006)
+ 3697 0 0 2 Christ Illusion
+ 3030 0 0 7 North-Eastern Area Command
+ 4107 0 0 6 History of Texas A&M University
+ 4549 0 0 8 Felice Beato
+ 3135 0 0 8 Matthew Brettingham
+ 2986 0 0 10 Michigan State Capitol
+ 4681 0 0 14 El Lissitzky
+ 3363 0 0 8 Holkham Hall
+ 3079 0 0 12 Benjamin Mountfort
+ 5405 0 0 30 Henry Moore
+ 4311 0 0 11 Banksia spinulosa
+ 3299 0 0 6 1916 Texas hurricane
+ 1544 0 0 4 Tropical Storm Henri (2003)
+ 3180 0 0 6 Banksia aemula
+ 2632 0 0 9 Banksia attenuata
+ 1884 0 0 4 Ontario Highway 71
+ 5693 0 0 25 Ecclesiastical heraldry
+ 3959 0 0 4 The Log from the Sea of Cortez
+ 5233 0 0 7 Royal National College for the Blind
+ 3177 0 0 6 Jesus College Boat Club (Oxford)
+ 7430 0 0 5 Zhou Tong (archer)
+ 4664 0 0 5 Big Two-Hearted River
+ 3380 0 0 4 Nicky Barr
+ 6185 0 0 4 Borat
+ 5774 0 0 16 Banksia prionotes
+ 3353 0 0 8 Banksia menziesii
+ 1771 0 0 5 New York State Route 174
+ 1620 0 0 4 New York State Route 175
+ 2880 0 0 2 Green children of Woolpit
+ 4266 0 0 6 U.S. Route 50 in Nevada
+ 4533 0 0 4 Al-Kateb v Godwin
+ 5947 0 0 9 Cardiff City F.C.
+ 1411 0 0 6 Hurricane Erika (2003)
+ 1637 0 0 3 Banksia sceptrum
+ 2398 0 0 1 PowerBook 100
+ 4525 0 0 15 King Island emu
+ 3221 0 0 9 Cuban macaw
+ 3048 0 0 7 Rodrigues rail
+ 4173 0 0 12 Red rail
+ 3208 0 0 7 SummerSlam (2003)
+ 3509 0 0 10 Mascarene parrot
+ 2260 0 0 6 Rodrigues parrot
+ 4545 0 0 6 Cretan War (205–200 BC)
+ 1645 0 0 1 Banksia aculeata
+ 1727 0 0 3 Banksia caleyi
+ 2265 0 0 2 Banksia canei
+ 2485 0 0 3 Banksia dentata
+ 2275 0 0 4 Banksia grossa
+ 1905 0 0 4 Banksia lemanniana
+ 4173 0 0 8 Banksia marginata
+ 3025 0 0 4 Banksia oblongifolia
+ 2490 0 0 6 Banksia paludosa
+ 1604 0 0 3 Banksia scabrella
+ 2420 0 0 4 Banksia speciosa
+ 3186 0 0 2 Banksia sphaerocarpa
+ 2623 0 0 9 Banksia telmatiaea
+ 2352 0 0 2 Banksia verticillata
+ 1899 0 0 7 Banksia violacea
+ 5432 0 0 18 Banksia sessilis
+ 1581 0 0 4 Banksia blechnifolia
+ 5772 0 0 12 The Tower House
+ 5213 0 0 1 Lage Raho Munna Bhai
+ 1954 0 0 4 Tahiti rail
+ 3010 0 0 9 Mauritius blue pigeon
+ 5817 0 0 3 Problem of religious language
+ 7488 0 0 6 Việt Nam Quốc Dân Đảng
+ 5244 0 0 11 German occupation of Luxembourg during World War I
+ 11034 0 0 15 Angelina Jolie
+ 5500 0 0 8 Hrithik Roshan
+ 3262 0 0 5 Jethro Sumner
+ 3544 0 0 7 Turboliner
+ 4679 0 0 7 1906 French Grand Prix
+ 6068 0 0 9 History of Solidarity
+ 8213 0 0 26 Interstate 75 in Michigan
+ 2373 0 0 6 Brownsea Island Scout camp
+ 2779 0 0 3 Barge of the Dead
+ 3427 0 0 2 Art Houtteman
+ 2881 0 0 3 Elwyn Roy King
+ 2315 0 0 4 Rainbow pitta
+ 2988 0 0 9 Dürer's Rhinoceros
+ 6660 0 0 17 Cherry Springs State Park
+ 6745 0 0 8 Bert Combs
+ 2675 0 0 6 State Route 74 (New York–Vermont)
+ 4993 0 0 4 SECR N class
+ 3632 0 0 3 Eardwulf of Northumbria
+ 3694 0 0 9 Three Studies for Figures at the Base of a Crucifixion
+ 3538 0 0 5 Jocelin of Glasgow
+ 3095 0 0 5 Jerry Pentland
+ 4760 0 0 20 Winter service vehicle
+ 6783 0 0 6 Ann Bannon
+ 13998 0 0 43 Minneapolis
+ 5924 0 0 7 Fanny Bullock Workman
+ 4478 0 0 6 Paul Stastny
+ 1455 0 0 4 Tropical Storm Chantal (2001)
+ 8131 0 0 10 Formation and evolution of the Solar System
+ 1667 0 0 2 Infinity Science Fiction
+ 5607 0 0 2 Tiananmen Square self-immolation incident
+ 3491 0 0 4 To the People of Texas & All Americans in the World
+ 4606 0 0 8 Upper Pine Bottom State Park
+ 3470 0 0 4 King brown snake
+ 5465 0 0 8 Brougham Castle
+ 2904 0 0 7 Jefferson nickel
+ 5667 0 0 33 Blockhaus d'Éperlecques
+ 8209 0 0 14 Decipherment of ancient Egyptian scripts
+ 3448 0 0 4 Silverplate
+ 5712 0 0 4 Richard Dannatt
+ 2869 0 0 3 No Me Queda Más
+ 5204 0 0 7 Invasion of Tulagi (May 1942)
+ 3995 0 0 3 The Greencards
+ 5125 0 0 5 Fun Home
+ 6613 0 0 6 Conatus
+ 2801 0 0 10 Chrysiridia rhipheus
+ 4561 0 0 20 Palace of Queluz
+ 2735 0 0 6 Harriet Arbuthnot
+ 13396 0 0 14 Raymond Leane
+ 5297 0 0 4 A Child of Our Time
+ 2932 0 0 6 Pithole, Pennsylvania
+ 4511 0 0 3 1927 FA Cup Final
+ 2558 0 0 1 Trembling Before G-d
+ 3836 0 0 5 Glynn Lunney
+ 5639 0 0 13 Dwarf planet
+ 2114 0 0 6 Hurricane Kyle (2002)
+ 4543 0 0 12 Fauna of Puerto Rico
+ 8445 0 0 16 Postman's Park
+ 6664 0 0 8 Joseph Desha
+ 7854 0 0 12 Colton Point State Park
+ 3604 0 0 10 Eris (dwarf planet)
+ 2903 0 0 3 Halifax Gibbet
+ 3256 0 0 9 M-553 (Michigan highway)
+ 5686 0 0 7 Iven Mackay
+ 2875 0 0 8 IG Farben Building
+ 2962 0 0 5 December to Dismember (2006)
+ 2546 0 0 6 Buckton Castle
+ 4698 0 0 5 Joseph Francis Shea
+ 7569 0 0 60 1988 Giro d'Italia
+ 1944 0 0 5 Brachychiton rupestris
+ 1593 0 0 5 Banksia aquilonia
+ 2421 0 0 10 Hurricane Ioke
+ 5578 0 0 1 Bradley Joseph
+ 2442 0 0 6 Banksia epica
+ 6190 0 0 3 Irreplaceable
+ 1944 0 0 5 Hurricane John (2006)
+ 5405 0 0 13 Regulamentul Organic
+ 5333 0 0 8 Seacology
+ 2164 0 0 5 Pigeye shark
+ 5807 0 0 17 Black Moshannon State Park
+ 3218 0 0 2 Parinda
+ 14617 0 0 12 George Washington and slavery
+ 4254 0 0 9 Battle of the Tenaru
+ 5764 0 0 10 Slate industry in Wales
+ 3989 0 0 5 Sheshi
+ 7442 0 0 13 Jack the Ripper
+ 5328 0 0 8 Acra (fortress)
+ 4295 0 0 6 Cyclol
+ 4345 0 0 7 Three-dollar piece
+ 12028 0 0 2 Richie Farmer
+ 5386 0 0 11 Gold dollar
+ 1612 0 0 1 Euryoryzomys emmonsae
+ 3070 0 0 2 Lundomys
+ 3565 0 0 5 Pseudoryzomys
+ 7984 0 0 14 Oregon Trail Memorial half dollar
+ 1801 0 0 6 Isopogon anemonifolius
+ 6505 0 0 5 Crawford expedition
+ 1848 0 0 7 Hurricane Bob (1985)
+ 1907 0 0 4 Hurricane Gordon (2006)
+ 6646 0 0 9 Rock Springs massacre
+ 6813 0 0 20 Battle of Grand Port
+ 4737 0 0 4 A Weekend in the City
+ 6416 0 0 2 The World Ends with You
+ 1516 0 0 4 Hurricane Lane (2006)
+ 2105 0 0 4 Pierre Rossier
+ 1486 0 0 4 Isopogon anethifolius
+ 9546 0 0 11 Fabian Ware
+ 13475 0 0 20 Medieval cuisine
+ 5666 0 0 8 Little Miss Sunshine
+ 2986 0 0 5 Donald Hardman
+ 2360 0 0 4 Entoloma sinuatum
+ 4538 0 0 9 Talbot Baines Reed
+ 2493 0 0 9 Banded sugar ant
+ 1655 0 0 2 Victoria Cross for New Zealand
+ 3335 0 0 0 Nutrition Assistance for Puerto Rico
+ 2463 0 0 3 Thatgamecompany
+ 2178 0 0 0 Abyssinia, Henry
+ 10979 0 0 13 Brill Tramway
+ 1547 0 0 4 Caloboletus calopus
+ 4820 0 0 10 Ulm campaign
+ 6055 0 0 18 Gol Transportes Aéreos Flight 1907
+ 4866 0 0 28 Thomas J. Hudner Jr.
+ 9385 0 0 9 Henry Clifford, 10th Baron Clifford
+ 2506 0 0 7 Tylopilus felleus
+ 7391 0 0 4 West Indian cricket team in England in 1988
+ 2871 0 0 7 Paxillus involutus
+ 1063 0 0 3 Nico Ditch
+ 6251 0 0 8 Second Fitna
+ 5824 0 0 7 Maurice Wilder-Neligan
+ 4523 0 0 6 Murray Maxwell
+ 5904 0 0 4 The Orb
+ 5398 0 0 1 Pepper (Inspector of Taxes) v Hart
+ 7126 0 0 4 Fall of Kampala
+ 2009 0 0 5 Boletus aereus
+ 5603 0 0 10 Mozambican War of Independence
+ 4798 0 0 5 Lochry's Defeat
+ 4603 0 0 5 Siege of Constantinople (674–678)
+ 1866 0 0 4 Alloxylon flammeum
+ 2356 0 0 4 Ben Paschal
+ 5921 0 0 13 John Douglas (architect)
+ 7500 0 0 15 Battle of Edson's Ridge
+ 6408 0 0 13 Battle for Henderson Field
+ 2160 0 0 6 Utah State Route 128
+ 2704 0 0 5 Caspian expeditions of the Rus'
+ 2247 0 0 1 James Robert Baker
+ 1748 0 0 15 Tropical Storm Carrie (1972)
+ 1603 0 0 5 Chalciporus piperatus
+ 1593 0 0 3 Nikki and Paulo
+ 4013 0 0 9 William Bruce (architect)
+ 5003 0 0 11 Campbell's Soup Cans
+ 6833 0 0 11 Tweed Courthouse
+ 5377 0 0 19 Elk
+ 8629 0 0 12 Falkland Islands
+ 4954 0 0 9 Battle of Tulagi and Gavutu–Tanambogo
+ 5170 0 0 11 Nine Inch Nails live performances
+ 4070 0 0 6 George Formby Sr
+ 3785 0 0 6 Domenico Selvo
+ 14207 0 0 14 History of the New York Yankees
+ 2396 0 0 11 Brockway Mountain Drive
+ 6666 0 0 4 Management of multiple sclerosis
+ 7029 0 0 17 Great Fire of London
+ 4527 0 0 7 Sonam K Ahuja
+ 6221 0 0 4 Wife selling (English custom)
+ 3393 0 0 5 The Sinking of the Lusitania
+ 7702 0 0 12 Leonard Harrison State Park
+ 805 0 0 2 2005 Azores subtropical storm
+ 6069 0 0 4 Creek Turnpike
+ 1621 0 0 2 Eyes of the Insane
+ 5494 0 0 7 History of Arsenal F.C. (1886–1966)
+ 3140 0 0 7 Pope Paul III and His Grandsons
+ 5897 0 0 32 Climate of Minnesota
+ 10812 0 0 29 Benjamin Harrison
+ 5290 0 0 4 Nestor Lakoba
+ 8933 0 0 7 Murray Chotiner
+ 8115 0 0 9 Construction of the World Trade Center
+ 2987 0 0 6 Rodrigues starling
+ 3417 0 0 7 Harry McNish
+ 4901 0 0 5 Kenneth Widmerpool
+ 3423 0 0 2 John the bookmaker controversy
+ 2003 0 0 8 Hygrophoropsis aurantiaca
+ 3957 0 0 8 U.S. Route 30 in Iowa
+ 4508 0 0 11 Red Barn Murder
+ 9674 0 0 15 Galápagos tortoise
+ 2357 0 0 5 Letter-winged kite
+ 8743 0 0 6 Structural history of the Roman military
+ 6159 0 0 3 Burger's Daughter
+ 2340 0 0 8 Effects of Hurricane Isabel in North Carolina
+ 10319 0 0 17 Plutonium
+ 8939 0 0 20 W. S. Gilbert
+ 4320 0 0 8 War against Nabis
+ 2689 0 0 7 Lactarius torminosus
+ 8046 0 0 9 Battle of Arawe
+ 1837 0 0 3 Christmas 1994 nor'easter
+ 6902 0 0 6 Good Girl Gone Bad
+ 7920 0 0 10 Avery Coonley School
+ 9351 0 0 14 Norton Priory
+ 5670 0 0 13 Teresa Cristina of the Two Sicilies
+ 12129 0 0 10 Thomas Playford IV
+ 1594 0 0 4 She Shoulda Said No!
+ 6795 0 0 19 Yellowstone fires of 1988
+ 14750 0 0 20 Charles Darwin
+ 2400 0 0 5 Red warbler
+ 3925 0 0 3 Clement of Dunblane
+ 1625 0 0 3 Beyond Fantasy Fiction
+ 3588 0 0 11 Extratropical cyclone
+ 4415 0 0 7 Original Stories from Real Life
+ 1943 0 0 4 Suillus bovinus
+ 3829 0 0 4 Fantastic Adventures
+ 2840 0 0 7 Battle of Caen (1346)
+ 5524 0 0 10 Hoysala literature
+ 11040 0 0 21 Tropical cyclone
+ 6975 0 0 6 Western Chalukya literature in Kannada
+ 1543 0 0 5 Tropical Storm Edouard (2002)
+ 5302 0 0 11 Bob Marshall (wilderness activist)
+ 1352 0 0 3 Effects of Hurricane Isabel in Delaware
+ 1996 0 0 6 New York State Route 28N
+ 4185 0 0 6 Mary: A Fiction
+ 4453 0 0 5 French colonization of Texas
+ 2868 0 0 2 Eusèbe Jaojoby
+ 4791 0 0 7 Ashford v Thornton
+ 2262 0 0 2 Boogeyman 2
+ 1909 0 0 1 Fantastic Universe
+ 7713 0 0 16 Magnetosphere of Jupiter
+ 10618 0 0 8 Admiralty Islands campaign
+ 6815 0 0 6 Stanley Savige
+ 3956 0 0 2 Sesame Street international co-productions
+ 4665 0 0 8 Columbian half dollar
+ 3302 0 0 14 Tech Tower
+ 4377 0 0 10 Istiodactylus
+ 2940 0 0 8 Turquoise parrot
+ 2602 0 0 2 Cedric Howell
+ 2428 0 0 5 Rock parrot
+ 4557 0 0 3 Agatha Christie: Murder on the Orient Express
+ 1577 0 0 7 Tropical Storm Marco (1990)
+ 3789 0 0 4 Effects of Hurricane Isabel in Maryland and Washington, D.C.
+ 5175 0 0 13 Actions along the Matanikau
+ 6094 0 0 4 In Rainbows
+ 3225 0 0 26 Fountain of Time
+ 2885 0 0 5 766th Independent Infantry Regiment (North Korea)
+ 2583 0 0 1 Chad Harris-Crane
+ 6574 0 0 18 Interstate 94 in Michigan
+ 2397 0 0 2 Venture Science Fiction
+ 1476 0 0 3 2000 Sri Lanka cyclone
+ 2954 0 0 9 Galerina marginata
+ 5102 0 0 6 Free Association of German Trade Unions
+ 2127 0 0 4 Bone Sharps, Cowboys, and Thunder Lizards
+ 7048 0 0 5 Badnjak (Serbian)
+ 3836 0 0 5 L'Arianna
+ 2859 0 0 1 1978 FA Cup Final
+ 2357 0 0 2 Swift Justice
+ 6916 0 0 5 Taare Zameen Par
+ 4175 0 0 8 White-necked rockfowl
+ 4538 0 0 12 An Experiment on a Bird in the Air Pump
+ 4770 0 0 1 Paramount Television Network
+ 3664 0 0 8 The Four Stages of Cruelty
+ 4034 0 0 2 1956 FA Cup Final
+ 6560 0 0 44 Ivan Bagramyan
+ 3812 0 0 4 Pilgrim at Tinker Creek
+ 11285 0 0 35 Chetro Ketl
+ 2588 0 0 1 William Cragh
+ 6115 0 0 11 Restoration of the Sistine Chapel frescoes
+ 2284 0 0 1 Lord of the Universe
+ 4756 0 0 12 Four Times of the Day
+ 2994 0 0 2 Sky Blue Sky
+ 7033 0 0 16 Fauna of Scotland
+ 3294 0 0 4 IK Pegasi
+ 4407 0 0 5 Golden-crowned sifaka
+ 7443 0 0 15 Bacteria
+ 5532 0 0 12 Trafford Park
+ 2016 0 0 3 Hurricane Isis (1998)
+ 6437 0 0 19 Frederick Scherger
+ 3293 0 0 6 Socialist Soviet Republic of Abkhazia
+ 4658 0 0 5 The Post-Modern Prometheus
+ 1482 0 0 2 Sherlock Holmes Baffled
+ 7229 0 0 7 Elwood Haynes
+ 14549 0 0 93 2007 USC Trojans football team
+ 10077 0 0 9 Adventure Time
+ 4220 0 0 13 Norte Chico civilization
+ 1904 0 0 3 Fiji parrotfinch
+ 3299 0 0 23 Freedom Monument
+ 2313 0 0 4 Edmonds station (Washington)
+ 3430 0 0 9 The Story of Miss Moppet
+ 1717 0 0 4 Invisible rail
+ 1610 0 0 2 Amanita ocreata
+ 1945 0 0 5 Zapata rail
+ 1303 0 0 2 Snoring rail
+ 3709 0 0 6 Sophie Blanchard
+ 4672 0 0 10 Nothomyrmecia
+ 5976 0 0 6 Edmund Herring
+ 4675 0 0 6 Act of Independence of Lithuania
+ 4511 0 0 3 Alaska Mental Health Enabling Act
+ 2509 0 0 6 H-58 (Michigan county highway)
+ 12091 0 0 10 Ancient Egyptian deities
+ 2316 0 0 6 Meteorological history of Hurricane Wilma
+ 4083 0 0 4 All Money Is Legal
+ 12958 0 0 24 Rudd Concession
+ 3179 0 0 9 Harris Theater (Chicago)
+ 8114 0 0 8 Renewable energy in Scotland
+ 18525 0 0 26 Air raids on Japan
+ 2715 0 0 7 Exosome complex
+ 7920 0 0 4 The Basement Tapes
+ 8551 0 0 14 1994 Black Hawk shootdown incident
+ 2109 0 0 5 Megarachne
+ 2107 0 0 4 Grevillea juniperina
+ 4368 0 0 6 A Very Merry Unauthorized Children's Scientology Pageant
+ 3166 0 0 6 1 − 2 + 3 − 4 + ⋯
+ 4133 0 0 4 2001 UEFA Cup Final
+ 6982 0 0 10 Kenneth Walker
+ 6763 0 0 16 U.S. Route 31 in Michigan
+ 5540 0 0 5 Frank Berryman
+ 4414 0 0 5 South Lake Union Streetcar
+ 1784 0 0 4 Hurricane Guillermo (1997)
+ 5861 0 0 4 Nigel (bishop of Ely)
+ 2580 0 0 5 Morotai Mutiny
+ 4698 0 0 5 Family of Gediminas
+ 6559 0 0 16 Prince's Palace of Monaco
+ 1745 0 0 3 Lazare Ponticelli
+ 3196 0 0 1 Melford Stevenson
+ 2069 0 0 9 Tricholoma pardinum
+ 12186 0 0 19 History of the New York Jets
+ 3671 0 0 2 God of War: Chains of Olympus
+ 4123 0 0 4 Uriel Sebree
+ 2710 0 0 2 William Warelwast
+ 1610 0 0 9 Tropical Storm Keith (1988)
+ 6608 0 0 13 Battle of Labuan
+ 4535 0 0 10 History of Ipswich Town F.C.
+ 2492 0 0 3 Rock martin
+ 2573 0 0 5 Green rosella
+ 1916 0 0 5 Northern rosella
+ 4119 0 0 6 History of Norwich City F.C.
+ 7980 0 0 4 Edward the Elder
+ 7663 0 0 4 Beth Hamedrash Hagodol
+ 3902 0 0 6 1994 Fairchild Air Force Base B-52 crash
+ 1824 0 0 4 Tropical Storm Hermine (1998)
+ 2665 0 0 3 George Washington (inventor)
+ 4237 0 0 7 Union Station (Erie, Pennsylvania)
+ 8134 0 0 11 Polish culture during World War II
+ 3368 0 0 3 Mario & Sonic at the Olympic Games
+ 2916 0 0 2 United States v. Kagama
+ 4354 0 0 5 Brabham BT19
+ 3794 0 0 3 Nights: Journey of Dreams
+ 20318 0 0 23 John Adams
+ 2425 0 0 3 Lê Quang Tung
+ 7049 0 0 3 Tôn Thất Đính
+ 4517 0 0 2 Craig Kieswetter
+ 5077 0 0 7 History of York City F.C. (1908–1980)
+ 4144 0 0 9 Interstate 70 in Utah
+ 4458 0 0 3 Michael Brown Okinawa assault incident
+ 17917 0 0 41 Society of the Song dynasty
+ 9611 0 0 16 Science and technology of the Song dynasty
+ 5943 0 0 7 Interstate 70 in Colorado
+ 8053 0 0 5 Chrisye
+ 3124 0 0 1 WINC (AM)
+ 5502 0 0 3 1955 State of Vietnam referendum
+ 5088 0 0 6 Salih ibn Mirdas
+ 5432 0 0 23 Political history of medieval Karnataka
+ 3537 0 0 4 Susi Kentikian
+ 2817 0 0 6 Banker horse
+ 6316 0 0 10 U2 3D
+ 3315 0 0 4 Bob Mann (American football)
+ 1859 0 0 3 American Cream Draft
+ 6013 0 0 3 Coinage Act of 1965
+ 3311 0 0 6 Battle of Verrières Ridge
+ 5769 0 0 19 Ediacaran biota
+ 5501 0 0 6 1877 Wimbledon Championship
+ 3755 0 0 9 The Livestock Conservancy
+ 5538 0 0 6 Mark XIV bomb sight
+ 2705 0 0 2 Dream Days at the Hotel Existence
+ 2239 0 0 1 Bruno Maddox
+ 3911 0 0 9 History of Gillingham F.C.
+ 6892 0 0 4 1960 South Vietnamese coup attempt
+ 3221 0 0 3 1962 South Vietnamese Independence Palace bombing
+ 4245 0 0 3 Phan Đình Phùng
+ 2986 0 0 3 1964 Brinks Hotel bombing
+ 4518 0 0 9 First Silesian War
+ 7271 0 0 9 Amador Valley High School
+ 5472 0 0 6 Joe Warbrick
+ 3290 0 0 2 Trait du Nord
+ 5638 0 0 4 Call of Duty 4: Modern Warfare
+ 2932 0 0 1 Orval Grove
+ 1828 0 0 3 Subtropical Storm Andrea (2007)
+ 6740 0 0 7 Red River Trails
+ 2175 0 0 8 Siberian accentor
+ 3216 0 0 4 Treaty of Lutatius
+ 2625 0 0 5 Armillaria luteobubalina
+ 2314 0 0 4 Omphalotus nidiformis
+ 10000 0 0 13 Joseph Johnson (publisher)
+ 19885 0 0 21 Vladimir Lenin
+ 7404 0 0 4 God of War III
+ 3310 0 0 3 The Simpsons Game
+ 6205 0 0 14 Washington quarter
+ 3242 0 0 5 Heian Palace
+ 2855 0 0 4 Triptych, May–June 1973
+ 6990 0 0 5 Rainilaiarivony
+ 5092 0 0 7 History of Aston Villa F.C. (1961–present)
+ 3427 0 0 5 Rhodes blood libel
+ 4202 0 0 2 George Went Hensley
+ 2282 0 0 2 Thurman Tucker
+ 2580 0 0 4 Splendid fairywren
+ 1559 0 0 1 Halo: Contact Harvest
+ 5747 0 0 6 Maryland and Virginia Rifle Regiment
+ 6282 0 0 22 2007 Coca-Cola 600
+ 2800 0 0 2 23rd Waffen Mountain Division of the SS Kama (2nd Croatian)
+ 3852 0 0 3 John Martin Scripps
+ 1927 0 0 5 Golden swallow
+ 5186 0 0 7 Muhammad II of Granada
+ 4641 0 0 14 Flight feather
+ 3341 0 0 10 Lesser Antillean macaw
+ 5928 0 0 6 22nd Massachusetts Infantry Regiment
+ 7471 0 0 5 Phạm Ngọc Thảo
+ 3119 0 0 1 Report of 1800
+ 6194 0 0 4 Operation Paravane
+ 4068 0 0 2 Operation Obviate
+ 6018 0 0 5 Operation Catechism
+ 13938 0 0 42 Seattle
+ 2453 0 0 7 Delichon
+ 2347 0 0 4 White-eyed river martin
+ 2382 0 0 4 African river martin
+ 3810 0 0 5 Confederate government of Kentucky
+ 3275 0 0 4 Roy Dowling
+ 2730 0 0 4 African crake
+ 3534 0 0 8 Siege of Malakand
+ 5570 0 0 6 Fanny Imlay
+ 1967 0 0 6 Tropical Storm Barry (2007)
+ 8492 0 0 63 The Disasters of War
+ 2505 0 0 4 Red-capped robin
+ 8010 0 0 9 1880 Republican National Convention
+ 4755 0 0 4 Allen Walker
+ 2852 0 0 4 Cyclone Gonu
+ 6742 0 0 7 Maria: or, The Wrongs of Woman
+ 3815 0 0 7 Thoughts on the Education of Daughters
+ 4074 0 0 1 Super Science Stories
+ 4048 0 0 7 Tryon Creek
+ 4033 0 0 6 Inaugural games of the Flavian Amphitheatre
+ 5173 0 0 8 Crown Fountain
+ 9515 0 0 13 Siege of Thessalonica (1422–1430)
+ 4896 0 0 2 Ba Cụt
+ 6732 0 0 12 Joseph Priestley House
+ 4474 0 0 12 Cardinal-nephew
+ 2972 0 0 1 Go Man Go
+ 1846 0 0 2 God of War: Betrayal
+ 8007 0 0 2 Joel Selwood
+ 2968 0 0 17 William Cooley
+ 7608 0 0 10 1968 Thule Air Base B-52 crash
+ 8190 0 0 9 Tropic Thunder
+ 13113 0 0 24 Dreadnought
+ 2643 0 0 1 Chicado V
+ 3418 0 0 5 Bobby Gibbes
+ 4311 0 0 10 Carlson's patrol
+ 8617 0 0 7 Operation Passage to Freedom
+ 1750 0 0 1 Barbara L
+ 11802 0 0 21 Greece runestones
+ 6848 0 0 9 Pyotr Ilyich Tchaikovsky and The Five
+ 7911 0 0 7 Nguyễn Chánh Thi
+ 5744 0 0 4 History of Stoke City F.C.
+ 5474 0 0 12 Swedish emigration to the United States
+ 1542 0 0 2 Cryptoprocta spelea
+ 3176 0 0 3 Victoria Cross for Australia
+ 3365 0 0 2 Ordinances of 1311
+ 13774 0 0 13 Reception history of Jane Austen
+ 9809 0 0 18 Elizabeth II
+ 1503 0 0 2 I Don't Remember
+ 4367 0 0 6 Analytical Review
+ 2784 0 0 1 Akodon spegazzinii
+ 3288 0 0 7 Transandinomys bolivaris
+ 1657 0 0 2 Oryzomys dimidiatus
+ 2119 0 0 2 Oryzomys gorgasi
+ 2777 0 0 2 Mindomys
+ 8872 0 0 11 Marsh rice rat
+ 1947 0 0 2 Eremoryzomys
+ 4410 0 0 5 Transandinomys talamancae
+ 6209 0 0 9 Letters Written in Sweden, Norway, and Denmark
+ 6764 0 0 52 1987 Giro d'Italia
+ 1212 0 0 3 Hurricane Daniel (2006)
+ 5299 0 0 10 George Jones (RAAF officer)
+ 4830 0 0 13 Interstate 80 in Iowa
+ 5419 0 0 8 History of Baltimore City College
+ 5601 0 0 6 Shale oil extraction
+ 1362 0 0 1 Interstate 80 Business (West Wendover, Nevada–Wendover, Utah)
+ 3895 0 0 6 Lessons for Children
+ 4051 0 0 3 Thomas Ellison
+ 3385 0 0 4 The World Without Us
+ 5023 0 0 12 Malagasy cuisine
+ 2365 0 0 6 Guadeloupe amazon
+ 2551 0 0 5 Long-tailed ground roller
+ 2547 0 0 6 Black honeyeater
+ 1998 0 0 4 Golden white-eye
+ 2321 0 0 3 Western yellow robin
+ 2496 0 0 5 Crescent honeyeater
+ 3646 0 0 6 Pale crag martin
+ 2829 0 0 4 Red-winged fairywren
+ 3256 0 0 3 White-winged fairywren
+ 2658 0 0 4 Red-backed fairywren
+ 2220 0 0 5 Red-headed myzomela
+ 3205 0 0 6 Mascarene martin
+ 1956 0 0 3 Brazza's martin
+ 5843 0 0 7 Enthiran
+ 1580 0 0 5 White-rumped swallow
+ 1860 0 0 4 White-naped xenopsaris
+ 4155 0 0 7 William Bostock
+ 2956 0 0 6 Cyclura nubila
+ 3218 0 0 5 Small-toothed sportive lemur
+ 1228 0 0 4 Interstate 15 in Arizona
+ 3098 0 0 4 Javan slow loris
+ 2975 0 0 3 Poitevin horse
+ 2602 0 0 2 Huế chemical attacks
+ 5225 0 0 9 Camas pocket gopher
+ 4391 0 0 5 Muhammad III of Granada
+ 3976 0 0 4 Nasr of Granada
+ 5101 0 0 6 Ismail I of Granada
+ 11459 0 0 31 Hispanic Americans in World War II
+ 5785 0 0 5 Jena Six
+ 6971 0 0 6 4chan
+ 3140 0 0 3 Bezhin Meadow
+ 7468 0 0 9 2008 Orange Bowl
+ 11537 0 0 18 Government of the Han dynasty
+ 4685 0 0 7 Plunketts Creek (Loyalsock Creek tributary)
+ 3234 0 0 3 Taapaca
+ 5520 0 0 7 Jennifer Lawrence
+ 5394 0 0 4 The Slave Community
+ 2884 0 0 6 Oswald Watt
+ 6841 0 0 6 Arrest and assassination of Ngo Dinh Diem
+ 2154 0 0 3 Double Seven Day scuffle
+ 6198 0 0 13 Hurricane Dean
+ 4288 0 0 7 Whaam!
+ 7361 0 0 10 Yusuf I of Granada
+ 7393 0 0 8 Xá Lợi Pagoda raids
+ 5940 0 0 15 U.S. Route 23 in Michigan
+ 4871 0 0 6 William Garrow
+ 4020 0 0 16 Interstate 69 in Michigan
+ 4799 0 0 6 Cleomenean War
+ 1754 0 0 4 Meteorological history of Hurricane Dean
+ 2410 0 0 5 Toronto Magnetic and Meteorological Observatory
+ 5933 0 0 9 Symphonic poems (Liszt)
+ 2665 0 0 3 Tommy Phillips
+ 2513 0 0 4 A Nice Day for a Posh Wedding
+ 3075 0 0 7 William Goebel
+ 3535 0 0 1 Hilary of Chichester
+ 12229 0 0 11 Franco-Mongol alliance
+ 3899 0 0 5 Lorde
+ 5642 0 0 3 Super Smash Bros. Brawl
+ 3053 0 0 5 Second Ostend Raid
+ 3862 0 0 6 Tomb of Antipope John XXIII
+ 3855 0 0 2 Robert de Chesney
+ 5674 0 0 3 2007 Appalachian State vs. Michigan football game
+ 2073 0 0 2 Hotel Chevalier
+ 3084 0 0 4 Sinestro Corps War
+ 1512 0 0 4 Tropical Storm Gabrielle (2007)
+ 3846 0 0 2 Andrew Sledd
+ 5855 0 0 6 Dobroslav Jevđević
+ 6059 0 0 9 Parity of zero
+ 2511 0 0 4 London Beer Flood
+ 1304 0 0 4 Tropical Depression Ten (2007)
+ 5365 0 0 9 2007 United States Air Force nuclear weapons incident
+ 9284 0 0 19 Ancient Egyptian literature
+ 2900 0 0 2 Authentic Science Fiction
+ 1735 0 0 3 No Such Thing as Vampires
+ 6408 0 0 15 Navenby
+ 3265 0 0 8 Kinzua Bridge
+ 2682 0 0 8 Tukwila International Boulevard station
+ 2052 0 0 5 Hydnellum peckii
+ 2595 0 0 2 Drowned God
+ 5009 0 0 4 2006 Chick-fil-A Bowl
+ 3597 0 0 3 Super Smash Bros. Melee
+ 6977 0 0 20 1880 Democratic National Convention
+ 2471 0 0 6 Sarcoscypha coccinea
+ 8074 0 0 4 No Line on the Horizon
+ 1738 0 0 3 Halo 3 Original Soundtrack
+ 3029 0 0 5 Made in the Dark
+ 1952 0 0 5 Hellingly Hospital Railway
+ 2058 0 0 7 The Green (Dartmouth College)
+ 18188 0 0 20 Paul McCartney
+ 3536 0 0 2 Cogan House Covered Bridge
+ 5061 0 0 6 T206 Honus Wagner
+ 2663 0 0 4 The Guardian of Education
+ 2490 0 0 5 Meteorological history of Hurricane Ivan
+ 2320 0 0 3 Effects of Hurricane Ivan in the Lesser Antilles and South America
+ 3172 0 0 3 1999 Sydney hailstorm
+ 3988 0 0 9 Matanikau Offensive
+ 2872 0 0 5 Guy Bradley
+ 5114 0 0 19 Beaune Altarpiece
+ 2215 0 0 3 William Calcraft
+ 4019 0 0 10 Koli Point action
+ 6585 0 0 13 Western Chalukya architecture
+ 6293 0 0 9 Noel Park
+ 5008 0 0 14 Catherine de' Medici's building projects
+ 5843 0 0 17 Air Rhodesia Flight 825
+ 2897 0 0 5 Battle of the Gebora
+ 2326 0 0 2 George Koval
+ 4240 0 0 6 The Chaser APEC pranks
+ 3962 0 0 3 Watching the River Flow
+ 4875 0 0 8 Aeneas Mackintosh
+ 7528 0 0 13 Assassination of William McKinley
+ 1264 0 0 3 Cortinarius caperatus
+ 9119 0 0 8 Seattle Sounders FC
+ 3849 0 0 2 1981 UEFA Cup Final
+ 2865 0 0 5 Sonatas and Interludes
+ 2556 0 0 6 Francis Harvey
+ 4674 0 0 7 Ernest Joyce
+ 1656 0 0 5 Oliver Typewriter Company
+ 4176 0 0 17 2008 Monaco Grand Prix
+ 5662 0 0 17 2008 Hungarian Grand Prix
+ 3798 0 0 2 Lost: Missing Pieces
+ 4255 0 0 7 North Island (Houtman Abrolhos)
+ 2411 0 0 3 George Gosse
+ 4407 0 0 19 2008 Japanese Grand Prix
+ 4049 0 0 17 2008 Brazilian Grand Prix
+ 8387 0 0 1 Name-letter effect
+ 3919 0 0 6 1984 Rajneeshee bioterror attack
+ 3310 0 0 9 Jaekelopterus
+ 4962 0 0 4 Operation PBHistory
+ 7459 0 0 16 Brown Dog affair
+ 2969 0 0 4 Lionel Matthews
+ 3248 0 0 6 Rufus Does Judy at Carnegie Hall
+ 3784 0 0 4 Thomas White (Australian politician)
+ 11349 0 0 30 History of timekeeping devices
+ 4549 0 0 3 Keith Johnson (cricket administrator)
+ 2269 0 0 4 No Way Out (2004)
+ 4322 0 0 16 Metacomet Ridge
+ 3623 0 0 6 Stanley Goble
+ 13059 0 0 11 British logistics in the Falklands War
+ 6202 0 0 5 2007 ACC Championship Game
+ 4030 0 0 25 2001–02 South-West Indian Ocean cyclone season
+ 4828 0 0 12 Introduction to viruses
+ 2699 0 0 2 When You Get a Little Lonely
+ 3327 0 0 5 Battle of Musa Qala
+ 2633 0 0 1 Getting It: The Psychology of est
+ 3712 0 0 6 Valston Hancock
+ 12005 0 0 54 Mars
+ 2139 0 0 6 Thopha saccata
+ 2864 0 0 1 Carucage
+ 3885 0 0 5 Kosta Pećanac
+ 6083 0 0 6 2005 ACC Championship Game
+ 6192 0 0 6 2005 Sugar Bowl
+ 5421 0 0 3 4 Minutes
+ 4218 0 0 1 Jack Marsh
+ 8425 0 0 10 Aliso Creek (Orange County)
+ 3143 0 0 10 ANAK Society
+ 10252 0 0 23 Marshalsea
+ 7821 0 0 2 2000 Sugar Bowl
+ 3582 0 0 15 John Michael Wright
+ 4080 0 0 1 Nikita Filatov
+ 3906 0 0 5 Krulak–Mendenhall mission
+ 5607 0 0 15 Whitechapel murders
+ 2934 0 0 2 Paterson Clarence Hughes
+ 3881 0 0 4 James Moore (Continental Army officer)
+ 3062 0 0 3 Peter Drummond (RAF officer)
+ 15413 0 0 24 Michael Jackson
+ 10408 0 0 16 Amundsen's South Pole expedition
+ 3981 0 0 4 Over the Edge (1999)
+ 5620 0 0 5 Ross Perot 1992 presidential campaign
+ 1896 0 0 4 Cyclone Elita
+ 10161 0 0 10 Samuel Adams
+ 4379 0 0 6 Operation Camargue
+ 3137 0 0 2 Reg Pollard (general)
+ 3493 0 0 20 Robert Peake the Elder
+ 11108 0 0 13 Rova of Antananarivo
+ 4180 0 0 4 Hey Y'all
+ 3797 0 0 8 Onychopterella
+ 3215 0 0 1 Quietly Confident Quartet
+ 2887 0 0 1 Confirmed Dead
+ 9920 0 0 4 El Señor Presidente
+ 11037 0 0 15 Atheism
+ 2827 0 0 4 Wood Siding railway station
+ 1733 0 0 4 Turbinellus floccosus
+ 5395 0 0 6 Kahaani
+ 6204 0 0 6 The Ecstatic
+ 6535 0 0 11 Operation Perch
+ 7060 0 0 2 2008 ACC Championship Game
+ 5507 0 0 6 Battle of Tory Island
+ 8343 0 0 11 Edmund Sharpe
+ 8241 0 0 21 Wind
+ 5689 0 0 9 Battle of Morotai
+ 5462 0 0 10 Emery Molyneux
+ 1949 0 0 4 D-Day naval deceptions
+ 2355 0 0 4 Elderly Instruments
+ 1754 0 0 2 David Suzuki: The Autobiography
+ 3158 0 0 5 Roxy Ann Peak
+ 5242 0 0 5 Hours of service
+ 1695 0 0 4 Lambertia formosa
+ 3084 0 0 2 Literary Hall
+ 3787 0 0 4 Federal Bridge Gross Weight Formula
+ 3170 0 0 10 Suillellus luridus
+ 3367 0 0 6 Colin Hannah
+ 2054 0 0 4 Flocke
+ 4589 0 0 5 Beauchamp–Sharp Tragedy
+ 3622 0 0 2 Gather Together in My Name
+ 4506 0 0 8 Battle of Kaiapit
+ 6103 0 0 1 2006 Gator Bowl
+ 5853 0 0 21 England national football team manager
+ 6317 0 0 22 2008 UAW-Dodge 400
+ 4754 0 0 2 Meet Kevin Johnson
+ 3914 0 0 4 Verdeja
+ 3674 0 0 4 The Open Boat
+ 6348 0 0 16 Droxford railway station
+ 4904 0 0 6 History of Bradford City A.F.C.
+ 8992 0 0 11 Battle of Bardia
+ 4517 0 0 5 Lockdown (2008)
+ 7078 0 0 10 Vijayanagara literature in Kannada
+ 3642 0 0 2 Phan Xích Long
+ 2118 0 0 2 Émile Lemoine
+ 3836 0 0 3 The Good Terrorist
+ 3230 0 0 7 John McCauley
+ 9361 0 0 34 Early life and military career of John McCain
+ 4203 0 0 4 Walter de Coventre
+ 3607 0 0 2 Ghosts I–IV
+ 4261 0 0 2 The Portage to San Cristobal of A.H.
+ 1596 0 0 1 Lightning Bar
+ 3635 0 0 1 Otto Julius Zobel
+ 5347 0 0 4 2003 Insight Bowl
+ 6836 0 0 18 Farthest South
+ 4622 0 0 6 Montreal Laboratory
+ 4827 0 0 8 Choe Bu
+ 6564 0 0 20 U.S. Route 41 in Michigan
+ 5955 0 0 16 U.S. Route 2 in Michigan
+ 953 0 0 2 U.S. Route 45 in Michigan
+ 2932 0 0 3 Robert Sterling Yard
+ 7456 0 0 3 Mass Effect 2
+ 7993 0 0 3 First-move advantage in chess
+ 9029 0 0 11 Katy Perry
+ 11570 0 0 24 Funerary art
+ 1638 0 0 3 Interstate 70 in West Virginia
+ 2921 0 0 5 Broad Ripple Park Carousel
+ 5347 0 0 6 Fork-marked lemur
+ 5633 0 0 5 John Wilton (general)
+ 10340 0 0 12 Noël Coward
+ 1608 0 0 4 New York State Route 319
+ 4469 0 0 7 Funerary Monument to Sir John Hawkwood
+ 9526 0 0 98 Decipherment of rongorongo
+ 1638 0 0 2 Freedom of Worship (painting)
+ 2663 0 0 3 Freedom from Want
+ 22657 0 0 59 Byzantine Empire
+ 4272 0 0 6 Charles Inglis (engineer)
+ 6023 0 0 10 Pulmonary contusion
+ 3168 0 0 5 U.S. Route 25 in Michigan
+ 13001 0 0 25 Ming–Tibet relations
+ 1816 0 0 4 World Science Festival, 2008
+ 10162 0 0 9 The Stolen Earth
+ 5630 0 0 18 Edmund Evans
+ 7868 0 0 16 Battle of Mount Austen, the Galloping Horse, and the Sea Horse
+ 3129 0 0 6 Ram Narayan
+ 9286 0 0 22 Sheep
+ 4723 0 0 8 Baltimore Steam Packet Company
+ 6287 0 0 9 Jessica Chastain
+ 3777 0 0 6 Indigenous people of the Everglades region
+ 3108 0 0 4 Nick Adenhart
+ 4426 0 0 5 Silky sifaka
+ 3594 0 0 8 Fanno Creek
+ 6756 0 0 19 Marojejy National Park
+ 3607 0 0 6 Paul Nobuo Tatsuguchi
+ 6914 0 0 9 Geography and ecology of the Everglades
+ 3035 0 0 6 Balch Creek
+ 2774 0 0 1 Martin Keamy
+ 3202 0 0 4 Diffuse panbronchiolitis
+ 1790 0 0 12 Tropical Storm Cindy (1993)
+ 2964 0 0 4 Creatures of Impulse
+ 6253 0 0 9 History of the National Hockey League (1917–1942)
+ 11212 0 0 32 Woolly mammoth
+ 8473 0 0 14 Draining and development of the Everglades
+ 6756 0 0 9 Choral symphony
+ 9911 0 0 13 History of the Montreal Canadiens
+ 14208 0 0 32 Fluorine
+ 3748 0 0 9 Bal des Ardents
+ 5350 0 0 3 Lives of the Most Eminent Literary and Scientific Men
+ 7202 0 0 6 Victoria Cross
+ 3620 0 0 9 Spotted green pigeon
+ 4012 0 0 3 Tatsunoko vs. Capcom: Ultimate All-Stars
+ 6398 0 0 18 Weymouth, Dorset
+ 4324 0 0 3 Jürgen Ehlers
+ 3687 0 0 2 Ngo Dinh Diem presidential visit to Australia
+ 7161 0 0 10 Restoration of the Everglades
+ 8410 0 0 14 Columbia Slough
+ 3588 0 0 2 Fantasy Black Channel
+ 5706 0 0 5 SECR K and SR K1 classes
+ 3459 0 0 7 American Airlines Flight 11
+ 1277 0 0 2 New York State Route 373
+ 3222 0 0 4 Turning Point (2008 wrestling)
+ 3289 0 0 11 BP Pedestrian Bridge
+ 2931 0 0 4 Ficus aurea
+ 3593 0 0 3 Faryl Smith
+ 1811 0 0 2 Andrew Johnston (singer)
+ 4051 0 0 5 Saint-Sylvestre coup d'état
+ 6251 0 0 7 Anti-tobacco movement in Nazi Germany
+ 2213 0 0 2 1982 British Army Gazelle friendly fire incident
+ 2910 0 0 3 Lince (tank)
+ 2356 0 0 5 McCormick Tribune Plaza & Ice Rink
+ 5940 0 0 19 General aviation in the United Kingdom
+ 3162 0 0 11 Sonestown Covered Bridge
+ 2641 0 0 8 Forksville Covered Bridge
+ 3279 0 0 13 Hillsgrove Covered Bridge
+ 10664 0 0 14 Lady Gaga
+ 2610 0 0 13 Exelon Pavilions
+ 10272 0 0 13 José Paranhos, Viscount of Rio Branco
+ 3178 0 0 5 McDonald's Cycle Center
+ 4477 0 0 6 Battle of Lissa (1811)
+ 2790 0 0 5 Noronhomys
+ 5783 0 0 21 Durian
+ 1750 0 0 3 Manchester Mummy
+ 4620 0 0 1 Michael Gomez
+ 2815 0 0 3 Leopard 2E
+ 2042 0 0 3 Ben Crosby
+ 3524 0 0 4 William Wurtenburg
+ 2072 0 0 5 2002 Bou'in-Zahra earthquake
+ 2313 0 0 6 Meteorological history of Hurricane Jeanne
+ 1698 0 0 1 Meerkat Manor: The Story Begins
+ 2671 0 0 4 Oryzomys antillarum
+ 4189 0 0 7 Princess Maria Amélia of Brazil
+ 4524 0 0 6 The Sixth Extinction II: Amor Fati
+ 5525 0 0 8 History of the National Hockey League (1942–1967)
+ 3785 0 0 5 Early life of Keith Miller
+ 7885 0 0 2 Keith Miller with the Australian cricket team in England in 1948
+ 4872 0 0 4 Keith Miller in the 1946–47 Australian cricket season
+ 2124 0 0 4 Ficus obliqua
+ 5515 0 0 5 Sons of Soul
+ 4370 0 0 3 Walter Bache
+ 4771 0 0 2 House of Music
+ 5257 0 0 2 Temple Sinai (Oakland, California)
+ 12995 0 0 9 2003–04 Arsenal F.C. season
+ 1838 0 0 6 Meteorological history of Hurricane Gordon
+ 21276 0 0 47 Maya civilization
+ 2755 0 0 2 Alexandre Banza
+ 5677 0 0 1 Asylum confinement of Christopher Smart
+ 5367 0 0 6 Forrest Highway
+ 2528 0 0 4 The Great American Bash (2005)
+ 6156 0 0 6 Halo 3: ODST
+ 2660 0 0 3 Science Fiction Quarterly
+ 2708 0 0 2 Battle of Lipantitlán
+ 4268 0 0 13 Oakwood Cemetery (Troy, New York)
+ 5597 0 0 13 Caversham, New Zealand
+ 10057 0 0 10 Pavle Đurišić
+ 5317 0 0 7 Baker Street robbery
+ 6423 0 0 8 History of the National Hockey League (1967–1992)
+ 9211 0 0 35 Raccoon
+ 3741 0 0 19 Leech
+ 1125 0 0 3 Tropical Storm Kiko (2007)
+ 3174 0 0 4 Cycling at the 2008 Summer Olympics – Men's individual road race
+ 2531 0 0 3 Cycling at the 2008 Summer Olympics – Women's individual road race
+ 3990 0 0 8 Atlanersa
+ 5752 0 0 7 History of a Six Weeks' Tour
+ 2655 0 0 10 U.S. Route 40 Alternate (Keysers Ridge–Cumberland, Maryland)
+ 5149 0 0 43 2009 Giro d'Italia
+ 4039 0 0 10 Southern Cross Expedition
+ 3671 0 0 4 Toothcomb
+ 3088 0 0 3 AMX-30E
+ 7615 0 0 5 Batman: Arkham Asylum
+ 9154 0 0 24 Edward VIII
+ 6969 0 0 6 Thoroughbred
+ 13549 0 0 25 Sea
+ 4248 0 0 7 68th New York Volunteer Infantry Regiment
+ 8791 0 0 14 Alzheimer's disease
+ 1769 0 0 2 Science-Fiction Plus
+ 9602 0 0 4 Analog Science Fiction and Fact
+ 8124 0 0 11 Satyajit Ray
+ 8812 0 0 14 McDonnell Douglas AV-8B Harrier II
+ 5131 0 0 11 Cactus wren
+ 5337 0 0 11 Saguaro National Park
+ 5099 0 0 23 Zion National Park
+ 8102 0 0 18 Paleocene
+ 10072 0 0 50 Antarctica
+ 3792 0 0 37 Canadian heraldry
+ 3979 0 0 1 The Boys from Baghdad High
+ 9921 0 0 13 R.E.M.
+ 6809 0 0 24 Neptune
+ 7447 0 0 54 2006 Pacific hurricane season
+ 5818 0 0 10 Early life of Samuel Johnson
+ 4447 0 0 4 Action of 13 January 1797
+ 4254 0 0 13 The Blind Leading the Blind
+ 11428 0 0 21 Virus
+ 10528 0 0 25 Fungus
+ 7521 0 0 8 Archaea
+ 6554 0 0 4 The Way I See It
+ 5696 0 0 12 Great Northern, Piccadilly and Brompton Railway
+ 9543 0 0 19 Baker Street and Waterloo Railway
+ 2760 0 0 4 How a Mosquito Operates
+ 5452 0 0 7 Pendle witches
+ 2679 0 0 4 Afonso, Prince Imperial of Brazil
+ 3735 0 0 6 Freida Pinto
+ 5946 0 0 12 Little Thetford
+ 4511 0 0 7 Edgar Speyer
+ 9304 0 0 73 Rodent
+ 15327 0 0 20 Iraq War in Al Anbar Governorate
+ 7432 0 0 51 Providence, Rhode Island
+ 2242 0 0 3 1998 FA Charity Shield
+ 7457 0 0 16 Ganesha
+ 8446 0 0 12 2009 World Series
+ 3837 0 0 2 Andha Naal
+ 3824 0 0 7 Knut (polar bear)
+ 6196 0 0 10 Nintendo DSi
+ 10941 0 0 19 Influenza
+ 8196 0 0 6 The Lucy poems
+ 1736 0 0 1 Michael Tritter
+ 7478 0 0 3 Same-sex marriage in Spain
+ 1132 0 0 4 Tropical Storm Marco (2008)
+ 5108 0 0 6 Jabba the Hutt
+ 9007 0 0 10 Single Ladies (Put a Ring on It)
+ 3309 0 0 6 Overman Committee
+ 11968 0 0 23 Rutherford B. Hayes
+ 13087 0 0 21 Franklin Pierce
+ 12482 0 0 25 Millard Fillmore
+ 14376 0 0 17 John Tyler
+ 4336 0 0 7 Robert Hues
+ 2102 0 0 5 1997 Qayen earthquake
+ 4521 0 0 8 Rhinemaidens
+ 4296 0 0 14 Acetic acid
+ 3452 0 0 9 Hydrochloric acid
+ 6403 0 0 6 George H. D. Gossip
+ 9303 0 0 7 Mr. Dooley
+ 2747 0 0 1 Dorset Ooser
+ 3105 0 0 13 Hawksbill sea turtle
+ 6294 0 0 10 Mozart family grand tour
+ 3971 0 0 8 Rotating locomotion in living systems
+ 11522 0 0 16 Tanks in the Spanish Army
+ 2450 0 0 5 24th Waffen Mountain Division of the SS Karstjäger
+ 2687 0 0 6 Scout Moor Wind Farm
+ 1845 0 0 6 Albatrellus subrubescens
+ 3128 0 0 3 1924 Rose Bowl
+ 5042 0 0 5 Project E
+ 3585 0 0 3 Schmerber v. California
+ 6029 0 0 1 Fifth Test, 1948 Ashes series
+ 3017 0 0 2 L 20e α-class battleship
+ 3308 0 0 3 Microsoft Security Essentials
+ 3663 0 0 68 1994 Atlantic hurricane season
+ 1466 0 0 1 Sadie Harris
+ 4598 0 0 8 Yttrium
+ 5981 0 0 12 Saxbe fix
+ 2886 0 0 5 Kylfings
+ 1442 0 0 3 2006 Westchester County tornado
+ 7614 0 0 2 2009 Orange Bowl
+ 3285 0 0 5 Alister Murdoch
+ 3314 0 0 5 Plunketts Creek Bridge No. 3
+ 6587 0 0 8 2009 International Bowl
+ 6506 0 0 1 2008 Humanitarian Bowl
+ 4494 0 0 18 Diplodocus
+ 11024 0 0 28 Brachiosaurus
+ 4947 0 0 9 Fred Moosally
+ 10902 0 0 25 Quehanna Wild Area
+ 4373 0 0 4 Tidus
+ 7354 0 0 6 Toa Payoh ritual murders
+ 8783 0 0 1 Ray Lindwall with the Australian cricket team in England in 1948
+ 4442 0 0 19 The Swimming Hole
+ 7283 0 0 10 The Beatles: Rock Band
+ 3293 0 0 7 New South Greenland
+ 10439 0 0 18 First inauguration of Barack Obama
+ 2384 0 0 2 William Barley
+ 4736 0 0 3 Ernie Toshack with the Australian cricket team in England in 1948
+ 4258 0 0 3 Doug Ring with the Australian cricket team in England in 1948
+ 3787 0 0 2 Ron Hamence with the Australian cricket team in England in 1948
+ 2973 0 0 7 Typhoon Nabi
+ 2459 0 0 3 Adenanthos obovatus
+ 9550 0 0 22 Carabane
+ 1776 0 0 2 Elizabeth Needham
+ 4106 0 0 7 Battle of Sio
+ 2280 0 0 4 1941 Florida hurricane
+ 3629 0 0 1 Juan Davis Bradburn
+ 9186 0 0 68 Boydell Shakespeare Gallery
+ 7241 0 0 10 Scarlett Johansson
+ 9052 0 0 56 Political history of Mysore and Coorg (1565–1760)
+ 3730 0 0 2 Liber Eliensis
+ 3582 0 0 9 Cyathus
+ 2356 0 0 11 Clathrus ruber
+ 10458 0 0 2 Fourth Test, 1948 Ashes series
+ 7375 0 0 8 Third Test, 1948 Ashes series
+ 8912 0 0 8 Second Test, 1948 Ashes series
+ 9952 0 0 6 First Test, 1948 Ashes series
+ 6419 0 0 11 Meningitis
+ 7453 0 0 9 Landing at Nadzab
+ 5321 0 0 11 Mozart in Italy
+ 10922 0 0 8 Don Bradman with the Australian cricket team in England in 1948
+ 6969 0 0 2 Lindsay Hassett with the Australian cricket team in England in 1948
+ 5215 0 0 4 Neil Harvey with the Australian cricket team in England in 1948
+ 8030 0 0 3 Sid Barnes with the Australian cricket team in England in 1948
+ 6181 0 0 5 Sam Loxton with the Australian cricket team in England in 1948
+ 3006 0 0 5 Clare Stevenson
+ 2771 0 0 8 Lactifluus volemus
+ 2066 0 0 5 Gomphus clavatus
+ 1925 0 0 4 Myriostoma
+ 6081 0 0 6 Rampart Dam
+ 6016 0 0 5 Assassination of Robert F. Kennedy
+ 7932 0 0 17 Horses in World War I
+ 15795 0 0 38 East End of London
+ 3496 0 0 6 2009 New York's 20th congressional district special election
+ 5362 0 0 5 John Edward Brownlee sex scandal
+ 3193 0 0 5 Melbourne Castle
+ 3289 0 0 1 Gateway Protection Programme
+ 7031 0 0 9 Rambles in Germany and Italy
+ 5476 0 0 11 Tottenham Outrage
+ 6671 0 0 5 Dudley Clarke
+ 7807 0 0 7 Hanged, drawn and quartered
+ 4853 0 0 4 Urse d'Abetot
+ 7737 0 0 20 Isle of Skye
+ 1813 0 0 2 Bale Out
+ 3508 0 0 8 Doom Bar
+ 9460 0 0 23 Economy of the Han dynasty
+ 9831 0 0 8 Gregorian mission
+ 3305 0 0 3 Indian Camp
+ 1644 0 0 4 R U Professional
+ 8434 0 0 12 Fertilisation of Orchids
+ 10334 0 0 7 Ten Commandments in Catholic theology
+ 6398 0 0 9 Kalki Koechlin
+ 13791 0 0 20 Chester A. Arthur
+ 5370 0 0 14 Gliding
+ 3134 0 0 11 Nigersaurus
+ 17994 0 0 24 Nelson Mandela
+ 13922 0 0 20 History of evolutionary thought
+ 3823 0 0 6 Joe Hewitt (RAAF officer)
+ 12098 0 0 9 2012 phenomenon
+ 4222 0 0 6 Design 1047 battlecruiser
+ 2243 0 0 4 If Day
+ 1393 0 0 16 Hurricane Kiko (1989)
+ 3684 0 0 13 Oviri
+ 2668 0 0 7 Tunnel Railway
+ 5593 0 0 7 Benjamin Morrell
+ 4033 0 0 3 The Author's Farce
+ 2542 0 0 2 Jersey Act
+ 6058 0 0 5 Animaniacs
+ 2463 0 0 2 Steve Dodd
+ 3408 0 0 12 Portrait of Monsieur Bertin
+ 1557 0 0 1 Nothing to My Name
+ 4838 0 0 5 Vernon Sturdee
+ 3722 0 0 3 Deadalive
+ 5106 0 0 1 Museum of Bad Art
+ 3620 0 0 7 Temple of Eshmun
+ 4022 0 0 3 GRB 970508
+ 1177 0 0 4 Tropical Storm Faxai (2007)
+ 8681 0 0 13 Third Silesian War
+ 2722 0 0 8 Chorioactis
+ 2257 0 0 1 Faryl
+ 3302 0 0 0 Henry Wells (general)
+ 2073 0 0 4 Cortinarius violaceus
+ 3523 0 0 6 Harriet Bosse
+ 1478 0 0 2 Irish Thoroughbred
+ 3717 0 0 3 Super Meat Boy
+ 2270 0 0 4 Take Ichi convoy
+ 6268 0 0 3 Halo Wars
+ 2559 0 0 3 Nikolai Kulikovsky
+ 2831 0 0 1 Raymond Brownell
+ 1561 0 0 5 Verpa bohemica
+ 3315 0 0 6 Adrian Cole (RAAF officer)
+ 1872 0 0 4 Fragment of a Crucifixion
+ 4877 0 0 11 Battle of Warsaw (1705)
+ 2466 0 0 1 Aleeta curvicosta
+ 4683 0 0 1 Hemming's Cartulary
+ 2982 0 0 4 University of Washington station
+ 2999 0 0 5 The Covent-Garden Journal
+ 5198 0 0 14 M249 light machine gun
+ 3738 0 0 2 Simon Hatley
+ 7684 0 0 17 Death of Ian Tomlinson
+ 5530 0 0 19 John F. Bolt
+ 5052 0 0 3 George S. Patton slapping incidents
+ 3072 0 0 6 Coprinellus micaceus
+ 3537 0 0 7 Armillaria gallica
+ 1942 0 0 7 Mycena haematopus
+ 3406 0 0 2 The Green Child
+ 3164 0 0 2 Otto Becher
+ 1559 0 0 6 Effects of Hurricane Georges in Louisiana
+ 1972 0 0 2 Ambondro mahabo
+ 4076 0 0 15 Upper and Lower Table Rock
+ 4582 0 0 5 Singin' and Swingin' and Gettin' Merry Like Christmas
+ 3636 0 0 8 Trout Creek Mountains
+ 3515 0 0 4 The Political Cesspool
+ 8352 0 0 11 1946 California's 12th congressional district election
+ 6759 0 0 30 Edward Thomas Daniell
+ 2534 0 0 7 Bring Us Together
+ 3109 0 0 6 Carrington Moss
+ 3149 0 0 6 Frank Bladin
+ 2714 0 0 5 Charles Carroll the Settler
+ 13237 0 0 7 Alcohol laws of New Jersey
+ 1117 0 0 1 Miss Meyers
+ 6066 0 0 17 SR Merchant Navy class
+ 10326 0 0 19 1950 United States Senate election in California
+ 7198 0 0 28 Uruguayan War
+ 3034 0 0 6 Henry Burrell (admiral)
+ 3210 0 0 6 John Lerew
+ 5118 0 0 6 Andalusian horse
+ 5422 0 0 3 Halo: Reach
+ 6771 0 0 9 Tales of Monkey Island
+ 2908 0 0 10 Pigeon photography
+ 2891 0 0 3 Melanie Barnett
+ 3345 0 0 3 Golden Sun
+ 2294 0 0 3 Makinti Napanangka
+ 1370 0 0 2 MissingNo.
+ 8597 0 0 7 William Bonville, 1st Baron Bonville
+ 3309 0 0 6 Laevistrombus canarium
+ 2382 0 0 8 Rhodotus
+ 1890 0 0 2 Action of 1 January 1800
+ 11815 0 0 25 Buildings of Jesus College, Oxford
+ 5244 0 0 7 Hermann Detzner
+ 2835 0 0 4 Leopold Report
+ 5688 0 0 14 Limusaurus
+ 8588 0 0 12 Honório Hermeto Carneiro Leão, Marquis of Paraná
+ 3659 0 0 10 Akutan Zero
+ 2283 0 0 2 Famous Fantastic Mysteries
+ 2997 0 0 5 Nikita Zotov
+ 10083 0 0 22 Cologne War
+ 5291 0 0 5 Marjorie Cameron
+ 2909 0 0 6 Astraeus hygrometricus
+ 7750 0 0 12 Byzantine civil war of 1341–1347
+ 3053 0 0 4 Samlesbury witches
+ 4361 0 0 4 Western Australian emergency of March 1944
+ 2830 0 0 3 Louis Leblanc
+ 11071 0 0 25 Greek mythology
+ 7362 0 0 8 Nature fakers controversy
+ 7515 0 0 12 Manuel Marques de Sousa, Count of Porto Alegre
+ 7480 0 0 10 July 2009 Ürümqi riots
+ 2020 0 0 8 Polyozellus
+ 7901 0 0 15 Premiership of John Edward Brownlee
+ 9781 0 0 66 Bat
+ 4362 0 0 6 On the Mindless Menace of Violence
+ 6890 0 0 24 Michigan State Trunkline Highway System
+ 4685 0 0 9 Buildings of Nuffield College, Oxford
+ 3719 0 0 5 Of Human Feelings
+ 9611 0 0 13 Calgary Flames
+ 2372 0 0 3 Convoy GP55
+ 2676 0 0 4 Horse Protection Act of 1970
+ 4000 0 0 4 Henry Edwards (entomologist)
+ 7571 0 0 1 The Left Hand of Darkness
+ 2380 0 0 8 Geastrum triplex
+ 9875 0 0 12 Johann von Klenau
+ 1444 0 0 1 Operation Hardboiled
+ 1345 0 0 4 Calvatia sculpta
+ 2145 0 0 2 Mensa (constellation)
+ 1909 0 0 5 Exsudoporus frostii
+ 10930 0 0 15 Project Rover
+ 3231 0 0 4 Francis Marrash
+ 7922 0 0 10 Nelson's Pillar
+ 1429 0 0 3 Cyclone Orson
+ 3058 0 0 3 Manchester Mark 1
+ 3245 0 0 5 Ellis Wackett
+ 1687 0 0 1 Thomasomys ucucha
+ 2576 0 0 2 Danie Mellor
+ 3240 0 0 3 Road to the Multiverse
+ 2252 0 0 6 Lactarius indigo
+ 3467 0 0 4 Z. Marcas
+ 2766 0 0 6 Okęcie Airport incident
+ 4584 0 0 4 Alice Ayres
+ 3518 0 0 4 Operation Teardrop
+ 6404 0 0 5 Anglo-Saxon Chronicle
+ 3950 0 0 4 Khan Noonien Singh
+ 7050 0 0 18 Distributed-element filter
+ 2947 0 0 2 1993 Football League First Division play-off Final
+ 2369 0 0 3 Elias Abraham Rosenberg
+ 3543 0 0 1 The Seduction of Ingmar Bergman
+ 3300 0 0 5 Wotton railway station (Brill Tramway)
+ 1856 0 0 15 Apororhynchus
+ 1965 0 0 7 Gigantorhynchus
+ 1034 0 0 8 Hurricane Grace
+ 3963 0 0 9 Sholes and Glidden typewriter
+ 6848 0 0 13 Spinophorosaurus
+ 10287 0 0 9 Planet of the Apes
+ 5210 0 0 7 Little Butte Creek
+ 1784 0 0 5 Suillus brevipes
+ 14368 0 0 46 Boston
+ 6479 0 0 9 Free State of Galveston
+ 2138 0 0 4 Dendrocollybia
+ 3025 0 0 5 Sega v. Accolade
+ 3382 0 0 6 John Lloyd Waddy
+ 2238 0 0 7 Suillus spraguei
+ 2837 0 0 5 Hurricane Rick (2009)
+ 4083 0 0 5 United States v. Lara
+ 10540 0 0 22 Kent, Ohio
+ 2043 0 0 1 Bronwyn Bancroft
+ 1619 0 0 4 Lycoperdon echinatum
+ 5752 0 0 22 The Battle of Alexander at Issus
+ 4399 0 0 4 Karl Aloys zu Fürstenberg
+ 4263 0 0 6 1937 Social Credit backbenchers' revolt
+ 2233 0 0 7 Telopea oreades
+ 5873 0 0 4 The Human Centipede (First Sequence)
+ 2049 0 0 5 Ramaria botrytis
+ 2212 0 0 1 Accurate News and Information Act
+ 2770 0 0 3 Garnet Malley
+ 1905 0 0 2 Mary Bell (aviator)
+ 4736 0 0 13 Battle of Pontvallain
+ 6337 0 0 9 John Treloar (museum administrator)
+ 5551 0 0 5 Lad, A Dog
+ 1578 0 0 1 A Rugrats Chanukah
+ 1983 0 0 5 The Volcano (British Columbia)
+ 2492 0 0 5 Henry Petre
+ 5840 0 0 18 Siege of Godesberg
+ 2439 0 0 5 Transandinomys
+ 3006 0 0 9 Amanita bisporigera
+ 1296 0 0 2 Katsudō Shashin
+ 9971 0 0 17 Waveguide filter
+ 2019 0 0 3 1968 Illinois earthquake
+ 4600 0 0 3 John Edward Brownlee as Attorney-General of Alberta
+ 4023 0 0 5 Dutch 1913 battleship proposal
+ 9262 0 0 61 Waterfalls in Ricketts Glen State Park
+ 2399 0 0 1 Richard Barre
+ 1796 0 0 5 Telopea truncata
+ 9471 0 0 8 Rise of Neville Chamberlain
+ 8340 0 0 13 Trial by Jury
+ 2946 0 0 4 Fairfax Harrison
+ 3967 0 0 8 Noronha skink
+ 6523 0 0 15 Mechanical filter
+ 8055 0 0 17 Zaian War
+ 4153 0 0 7 The Whistleblower
+ 4157 0 0 7 Battle of Taejon
+ 6302 0 0 3 2010 PapaJohns.com Bowl
+ 2655 0 0 2 Everything Tastes Better with Bacon
+ 4756 0 0 7 Battle of Goodenough Island
+ 2648 0 0 0 Thomas Baker (aviator)
+ 22786 0 0 29 Tawny owl
+ 2013 0 0 1 Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd
+ 4943 0 0 13 Battle of Winterthur
+ 7593 0 0 13 School for Creative and Performing Arts
+ 5725 0 0 7 Pyotr Ilyich Tchaikovsky and the Belyayev circle
+ 9753 0 0 4 Batman: Arkham City
+ 1652 0 0 4 Oryzomys peninsulae
+ 1688 0 0 2 Vision in White
+ 2585 0 0 3 Yorkshire captaincy affair of 1927
+ 4189 0 0 8 Charles Eaton (RAAF officer)
+ 2185 0 0 4 1910 Cuba hurricane
+ 1842 0 0 3 Action of 1 August 1801
+ 3427 0 0 14 Prairie Avenue
+ 4426 0 0 13 Panellus stipticus
+ 877 0 0 10 Tropical Storm Brenda (1960)
+ 4291 0 0 7 St. Michael's Cathedral, Qingdao
+ 6434 0 0 3 Murder of Leigh Leigh
+ 2233 0 0 6 Marasmius rotula
+ 2309 0 0 6 Agaricus deserticola
+ 5389 0 0 6 1740 Batavia massacre
+ 5217 0 0 7 21st Massachusetts Infantry Regiment
+ 1748 0 0 4 2007–2008 Nazko earthquakes
+ 1582 0 0 2 Daisy Jugadai Napaltjarri
+ 1812 0 0 2 Wintjiya Napaltjarri
+ 2666 0 0 2 L'ange de Nisida
+ 2340 0 0 2 Smooth toadfish
+ 2560 0 0 10 Psilocybe aztecorum
+ 2939 0 0 7 Major urinary proteins
+ 6114 0 0 7 No. 1 Wing RAAF
+ 3229 0 0 5 2009 U.S. Open Cup Final
+ 7724 0 0 15 Norwich Market
+ 5245 0 0 14 History of Mars observation
+ 3008 0 0 8 Witches' Sabbath (The Great He-Goat)
+ 1431 0 0 3 Alloxylon pinnatum
+ 2684 0 0 7 Ham Wall
+ 5654 0 0 12 Ganoga Lake
+ 2435 0 0 3 Roy Phillipps
+ 5860 0 0 28 Lincoln cent
+ 3768 0 0 5 Big Butte Creek
+ 2672 0 0 6 Nodar Kumaritashvili
+ 4546 0 0 3 Masako Katsura
+ 3857 0 0 3 Thurisind
+ 2217 0 0 4 1867 Manhattan, Kansas earthquake
+ 14568 0 0 17 History of Tottenham Hotspur F.C.
+ 3372 0 0 8 Xixiasaurus
+ 1330 0 0 3 Babakotia
+ 2931 0 0 2 Mesopropithecus
+ 6348 0 0 6 The Autobiography of Malcolm X
+ 3528 0 0 4 Menominee Tribe v. United States
+ 3910 0 0 2 David Evans (RAAF officer)
+ 5461 0 0 9 Battle of Schliengen
+ 11155 0 0 10 Milos Raonic
+ 3416 0 0 9 Battle of Bergerac
+ 2328 0 0 4 Les Holden
+ 2391 0 0 3 Manchester United F.C. 9–0 Ipswich Town F.C.
+ 3324 0 0 5 Allan Walters
+ 2297 0 0 2 Muckaty Station
+ 2385 0 0 1 Nebula Science Fiction
+ 2637 0 0 6 Adenanthos cuneatus
+ 6450 0 0 35 Death of Cleopatra
+ 3260 0 0 5 James E. Boyd (scientist)
+ 2834 0 0 7 Hurricane Debbie (1961)
+ 3142 0 0 1 Section 116 of the Constitution of Australia
+ 7816 0 0 4 Evolution of lemurs
+ 2485 0 0 1 Voalavo
+ 2726 0 0 1 Northern voalavo
+ 3203 0 0 4 Lester Brain
+ 14775 0 0 6 Relief of Douglas MacArthur
+ 2302 0 0 4 Australian Air Corps
+ 6231 0 0 12 DNA nanotechnology
+ 4239 0 0 12 Clemuel Ricketts Mansion
+ 4413 0 0 20 Mantis
+ 2726 0 0 1 Ragnar Garrett
+ 1583 0 0 2 Sinistar: Unleashed
+ 2305 0 0 3 Westcott railway station
+ 3994 0 0 7 Brian Eaton
+ 4637 0 0 3 God of War: Ghost of Sparta
+ 3501 0 0 3 Ben Gascoigne
+ 2996 0 0 4 Bridgeport, Connecticut, Centennial half dollar
+ 3527 0 0 2 Bombing of Yawata (June 1944)
+ 5377 0 0 9 Rachel Chiesley, Lady Grange
+ 2101 0 0 4 Waddesdon Road railway station
+ 6499 0 0 13 Mount Cayley volcanic field
+ 5888 0 0 5 1899 Kentucky gubernatorial election
+ 1678 0 0 6 Halkett boat
+ 2497 0 0 1 William of Wrotham
+ 2997 0 0 4 1910 London to Manchester air race
+ 4611 0 0 9 Elizabeth Raffald
+ 10939 0 0 18 Divisional Cavalry Regiment (New Zealand)
+ 13848 0 0 14 Henry IV, Holy Roman Emperor
+ 2085 0 0 3 Triaenops menamena
+ 7038 0 0 7 Love the Way You Lie
+ 2420 0 0 1 Tarrare
+ 4202 0 0 16 Holy Thorn Reliquary
+ 15397 0 0 30 History of Gibraltar
+ 1476 0 0 4 Persoonia levis
+ 1936 0 0 5 Persoonia linearis
+ 1640 0 0 4 Persoonia lanceolata
+ 10776 0 0 7 Nahuatl
+ 9615 0 0 11 Subfossil lemur
+ 2486 0 0 2 The Temple at Thatch
+ 7411 0 0 6 Oppenheimer security hearing
+ 6391 0 0 18 Royal Gold Cup
+ 2058 0 0 1 Charles Domery
+ 10005 0 0 11 Temple Israel (Memphis, Tennessee)
+ 4328 0 0 6 Ronnie Lee Gardner
+ 4111 0 0 6 2003 Cricket World Cup Final
+ 4550 0 0 21 2010 Sylvania 300
+ 5425 0 0 5 Wales national football team home stadium
+ 2565 0 0 7 Battle of Settepozzi
+ 1551 0 0 1 Pipistrellus raceyi
+ 12544 0 0 15 Mary Shelley
+ 4053 0 0 8 Underground Electric Railways Company of London
+ 4207 0 0 10 Livyatan
+ 2716 0 0 5 Pedro Afonso, Prince Imperial of Brazil
+ 8107 0 0 7 Somerset County Cricket Club in 2009
+ 1401 0 0 5 Walden–Wallkill Rail Trail
+ 7776 0 0 8 William O'Connell Bradley
+ 1719 0 0 1 Seorsumuscardinus
+ 4130 0 0 3 2010 U.S. Open Cup Final
+ 9498 0 0 62 2012 Tour de France
+ 4396 0 0 4 Hill 303 massacre
+ 1524 0 0 1 Miniopterus aelleni
+ 2236 0 0 1 Lewis (baseball)
+ 6141 0 0 17 Steamtown, U.S.A.
+ 1822 0 0 2 Miniopterus griveaudi
+ 2855 0 0 1 R. V. C. Bodley
+ 7257 0 0 31 2013 Atlantic hurricane season
+ 3848 0 0 5 Illustrated Daily News
+ 3176 0 0 3 Madeline Montalban
+ 9225 0 0 13 Sega
+ 4760 0 0 15 Rhodocene
+ 1423 0 0 3 Durrell's vontsira
+ 6902 0 0 6 December 1964 South Vietnamese coup
+ 2614 0 0 8 Typhoon Sudal
+ 1584 0 0 4 1949 Ambato earthquake
+ 5831 0 0 6 September 1964 South Vietnamese coup attempt
+ 3399 0 0 4 Ex parte Crow Dog
+ 2314 0 0 8 Suillus pungens
+ 4518 0 0 3 A Journey
+ 7598 0 0 7 Pig-faced women
+ 3742 0 0 6 Bombing of Singapore (1944–1945)
+ 2528 0 0 5 1689 Boston revolt
+ 4863 0 0 5 Sack of Amorium
+ 2731 0 0 0 Bharattherium
+ 9439 0 0 13 Maya stelae
+ 2299 0 0 6 Geastrum quadrifidum
+ 6616 0 0 4 Dredd
+ 4023 0 0 5 Adelaide leak
+ 4169 0 0 2 Mothers of the Disappeared
+ 6838 0 0 15 Kosmoceratops
+ 3061 0 0 9 Tropical Storm Nicole (2010)
+ 4904 0 0 12 Armed Forces Special Weapons Project
+ 2782 0 0 2 Eastbourne manslaughter
+ 3921 0 0 5 Round Church, Preslav
+ 2826 0 0 6 Chaplain–Medic massacre
+ 7897 0 0 9 RNA interference
+ 3823 0 0 2 Ruth Norman
+ 4403 0 0 6 Jane Joseph
+ 2751 0 0 2 1955 MacArthur Airport United Airlines crash
+ 3199 0 0 9 Hemmema
+ 8512 0 0 11 2010 United States Senate Democratic primary election in Pennsylvania
+ 1773 0 0 4 Thyrotoxic periodic paralysis
+ 1551 0 0 1 Warlugulong
+ 2635 0 0 3 Hadji Ali
+ 4889 0 0 4 Pioneer Helmet
+ 3001 0 0 2 Battle of the Defile
+ 2515 0 0 5 Hudson Valley Rail Trail
+ 5426 0 0 5 Olivia Shakespear
+ 2127 0 0 1 Pennatomys
+ 3094 0 0 4 Ian Dougald McLachlan
+ 11338 0 0 18 Social history of viruses
+ 13863 0 0 18 Opening of the Liverpool and Manchester Railway
+ 2255 0 0 4 Cyclone Waka
+ 2903 0 0 9 Rosendale Trestle
+ 4160 0 0 16 The Magdalen Reading
+ 1919 0 0 2 Ancestry of the Godwins
+ 2778 0 0 6 John Francis Jackson
+ 1763 0 0 6 Mycena aurantiomarginata
+ 3040 0 0 3 Infinity Blade
+ 2921 0 0 8 The Station (New Paltz restaurant)
+ 6290 0 0 9 1907 Tiflis bank robbery
+ 2737 0 0 3 C. R. M. F. Cruttwell
+ 3663 0 0 9 Peveril Castle
+ 9220 0 0 7 Golding Bird
+ 3227 0 0 7 Joppenbergh Mountain
+ 6085 0 0 7 Murder of Joanna Yeates
+ 7924 0 0 10 Singapore strategy
+ 5505 0 0 3 Alcathoe bat
+ 2117 0 0 2 Gymnopilus maritimus
+ 7949 0 0 9 Rochester Castle
+ 5670 0 0 5 The Man in the Moone
+ 4149 0 0 1 Lady Saigō
+ 1762 0 0 1 Malagasy mountain mouse
+ 1609 0 0 2 Thomcord
+ 8763 0 0 5 Hungarian occupation of Yugoslav territories
+ 3242 0 0 8 Mantra-Rock Dance
+ 1454 0 0 1 Petter's big-footed mouse
+ 4304 0 0 6 Allied naval bombardments of Japan during World War II
+ 5497 0 0 28 Fortress of Mimoyecques
+ 5621 0 0 11 Warkworth Castle
+ 1705 0 0 3 Xeromphalina setulipes
+ 4754 0 0 6 2011 U.S. Open Cup Final
+ 2629 0 0 4 December 1969 nor'easter
+ 2484 0 0 8 Mascarene grey parakeet
+ 2678 0 0 3 Calabozos
+ 3100 0 0 14 American Arts Commemorative Series medallions
+ 2947 0 0 4 Eastern Area Command (RAAF)
+ 2575 0 0 6 Auriscalpium vulgare
+ 6277 0 0 4 Final Fantasy XIII-2
+ 3110 0 0 0 Astonishing Stories
+ 3160 0 0 5 Peter Jeffrey (RAAF officer)
+ 12615 0 0 14 Egyptian temple
+ 9344 0 0 16 Clinton Engineer Works
+ 4722 0 0 0 William Robinson Brown
+ 1904 0 0 3 Satellite Science Fiction
+ 4912 0 0 3 Future Science Fiction and Science Fiction Stories
+ 1823 0 0 1 Super-Science Fiction
+ 3971 0 0 9 Cathedral of the Immaculate Conception (Moscow)
+ 1850 0 0 1 Escalera's bat
+ 7985 0 0 24 Shangani Patrol
+ 3335 0 0 1 Say Say Say
+ 3835 0 0 5 1923 FA Cup Final
+ 2290 0 0 6 SheiKra
+ 5958 0 0 18 James B. Longacre
+ 7304 0 0 2 James T. Aubrey
+ 5985 0 0 8 Bone Wars
+ 11153 0 0 27 Atmosphere of Jupiter
+ 5646 0 0 14 Chalukya dynasty
+ 6727 0 0 6 Les pêcheurs de perles
+ 3564 0 0 7 No. 1 Flying Training School RAAF
+ 2076 0 0 4 Suillus salmonicolor
+ 7607 0 0 8 Conservation of slow lorises
+ 3336 0 0 6 Air-tractor sledge
+ 3964 0 0 4 Pain fitzJohn
+ 1656 0 0 5 1940 Brocklesby mid-air collision
+ 4581 0 0 12 Santa María de Óvila
+ 2504 0 0 2 Cyclone Rewa
+ 3585 0 0 1 1988 Football League Second Division play-off Final
+ 2860 0 0 6 John Balmer
+ 2879 0 0 11 Oxalaia
+ 1765 0 0 4 Morchella rufobrunnea
+ 3064 0 0 2 Operation Kita
+ 3729 0 0 13 Manchester Cenotaph
+ 9579 0 0 7 Taxonomy of lemurs
+ 5236 0 0 3 All God's Children Need Traveling Shoes
+ 3050 0 0 3 A Song Flung Up to Heaven
+ 1998 0 0 4 Philitas of Cos
+ 2856 0 0 8 Adam Eckfeldt
+ 4969 0 0 8 Far Eastern Party
+ 4415 0 0 7 Money in the Bank (2011)
+ 17550 0 0 15 Shakespeare authorship question
+ 3267 0 0 8 William F. Raynolds
+ 3891 0 0 3 X-Cops
+ 15316 0 0 21 South American dreadnought race
+ 7293 0 0 4 Grand Theft Auto V
+ 2561 0 0 3 Drymoreomys
+ 4391 0 0 10 Indian Head eagle
+ 5825 0 0 7 Waddesdon Bequest
+ 3853 0 0 13 St Denys' Church, Sleaford
+ 6207 0 0 2 Mucho Macho Man
+ 2945 0 0 3 Nyon Conference
+ 2849 0 0 3 Wipeout 2048
+ 5071 0 0 19 Saint Luke Drawing the Virgin
+ 1664 0 0 4 Hands Across Hawthorne
+ 3491 0 0 3 Halo: Combat Evolved Anniversary
+ 5087 0 0 14 St Nicholas, Blakeney
+ 6166 0 0 11 Murder of Julia Martha Thomas
+ 2014 0 0 2 Keechaka Vadham
+ 4359 0 0 13 Meinhard Michael Moser
+ 6376 0 0 4 Commissioner Government
+ 3168 0 0 6 Turban Head eagle
+ 8792 0 0 5 Dishonored
+ 3240 0 0 1 Dermotherium
+ 3193 0 0 7 Thaddeus McCotter 2012 presidential campaign
+ 4870 0 0 6 Canoe River train crash
+ 3861 0 0 14 Portrait Diptych of Dürer's Parents
+ 2695 0 0 2 Phellinus ellipsoideus
+ 2096 0 0 11 Kenneth R. Shadrick
+ 3635 0 0 8 St Helen's Church, Ashby-de-la-Zouch
+ 4767 0 0 10 Dresden Triptych
+ 4193 0 0 10 Indian Head gold pieces
+ 3147 0 0 2 Adiantum viridimontanum
+ 3396 0 0 2 Wage reform in the Soviet Union, 1956–1962
+ 2229 0 0 15 Black Hours, Morgan MS 493
+ 3301 0 0 9 Hours of Mary of Burgundy
+ 2587 0 0 4 Norman Cob
+ 4530 0 0 3 Augustinian theodicy
+ 3150 0 0 1 Rakoto Frah
+ 6568 0 0 7 Australian contribution to the Battle of Normandy
+ 3171 0 0 6 Old Church of St Nidan, Llanidan
+ 5256 0 0 3 Electra Heart
+ 7911 0 0 14 Birth control movement in the United States
+ 4503 0 0 4 Melville Island (Nova Scotia)
+ 5779 0 0 7 Eega
+ 7169 0 0 10 Battle of Radzymin (1920)
+ 5629 0 0 12 United States Assay Commission
+ 5731 0 0 6 Abdul Karim (the Munshi)
+ 6466 0 0 13 Yogo sapphire
+ 3925 0 0 2 Poppy Meadow
+ 2117 0 0 3 Ray Farquharson
+ 3418 0 0 2 Super Mario All-Stars
+ 5202 0 0 2 Is This It
+ 4168 0 0 3 Zero Escape: Virtue's Last Reward
+ 3545 0 0 1 Mereka Bilang, Saya Monyet!
+ 7665 0 0 12 Piano music of Gabriel Fauré
+ 5003 0 0 6 Gas metal arc welding
+ 5425 0 0 4 Bill McCann
+ 1867 0 0 2 Typhoon Gay (1992)
+ 12165 0 0 18 2012–13 Michigan Wolverines men's basketball team
+ 9171 0 0 7 D'Oliveira affair
+ 3484 0 0 7 Blakeney Chapel
+ 4599 0 0 6 1980–81 Ipswich Town F.C. season
+ 6325 0 0 4 South Park: The Stick of Truth
+ 5077 0 0 5 Doc Adams
+ 9353 0 0 3 Mathew Charles Lamb
+ 6875 0 0 7 The Last of Us
+ 1887 0 0 2 Malkin Tower
+ 3072 0 0 3 Formula, Vol. 1
+ 3080 0 0 4 2012 Budweiser Shootout
+ 4738 0 0 7 Natchez revolt
+ 6561 0 0 6 Amir Hamzah
+ 3332 0 0 4 The Thrill Book
+ 2950 0 0 9 Southampton Cenotaph
+ 5941 0 0 9 Lost operas by Claudio Monteverdi
+ 4217 0 0 5 1998 Football League First Division play-off Final
+ 4145 0 0 15 Virgin and Child with Canon van der Paele
+ 10485 0 0 14 Smith Act trials of Communist Party leaders
+ 1162 0 0 0 Missing My Baby
+ 2599 0 0 6 We Can Do It!
+ 6052 0 0 11 North Norfolk Coast Site of Special Scientific Interest
+ 6354 0 0 9 Assassination of Spencer Perceval
+ 3919 0 0 4 History of Liverpool F.C. (1892–1959)
+ 11516 0 0 16 William Jennings Bryan 1896 presidential campaign
+ 5682 0 0 11 Madonna in the Church
+ 3094 0 0 2 Washington v. Texas
+ 5545 0 0 16 Crucifixion and Last Judgement diptych
+ 4457 0 0 4 The Concert in Central Park
+ 1606 0 0 3 Gravity Bone
+ 2347 0 0 3 The American Bible Challenge
+ 4256 0 0 5 Abbasid invasion of Asia Minor (806)
+ 2903 0 0 9 Léal Souvenir
+ 5619 0 0 4 Themes in Maya Angelou's autobiographies
+ 5503 0 0 5 The Bread-Winners
+ 2638 0 0 0 Roger Norreis
+ 4563 0 0 3 2009 Women's Cricket World Cup Final
+ 3318 0 0 5 Uncle David
+ 8958 0 0 4 God of War: Ascension
+ 2586 0 0 2 Hugh de Neville
+ 7619 0 0 10 McDonnell Douglas F/A-18 Hornet in Australian service
+ 3854 0 0 17 Ichthyovenator
+ 9974 0 0 19 Olmec colossal heads
+ 4898 0 0 3 Oerip Soemohardjo
+ 3433 0 0 2 Ruma Maida
+ 2571 0 0 4 Look Mickey
+ 3522 0 0 5 Drowning Girl
+ 6389 0 0 4 1860 Boden Professor of Sanskrit election
+ 2804 0 0 3 Battle of Azaz (1030)
+ 3355 0 0 4 Bronwyn Oliver
+ 8578 0 0 66 Hurricane Andrew
+ 6518 0 0 8 Douglas MacArthur's escape from the Philippines
+ 9266 0 0 15 Sudirman
+ 1729 0 0 3 Inocybe saliceticola
+ 8364 0 0 2 Debora Green
+ 3933 0 0 6 Siege of Lilybaeum (250–241 BC)
+ 6555 0 0 10 1898 United States Senate elections in Ohio
+ 4253 0 0 9 Cley Marshes
+ 6941 0 0 5 Albertus Soegijapranata
+ 7908 0 0 9 Bougainville counterattack
+ 4682 0 0 8 History of Liverpool F.C. (1959–1985)
+ 2874 0 0 4 Fakih Usman
+ 2698 0 0 4 McDonnell Douglas F-4 Phantom II in Australian service
+ 13009 0 0 17 RKO Pictures
+ 9383 0 0 6 George Headley
+ 7284 0 0 6 Bernard Bosanquet (cricketer)
+ 5959 0 0 10 Stone Mountain Memorial half dollar
+ 9435 0 0 7 Rhodesian mission in Lisbon
+ 1306 0 0 5 Abuwtiyuw
+ 2501 0 0 0 Mike Capel
+ 5550 0 0 5 D. Djajakusuma
+ 3310 0 0 2 Andjar Asmara
+ 2657 0 0 3 Terang Boelan
+ 3863 0 0 5 Roekiah
+ 3071 0 0 3 Frank's Cock
+ 3812 0 0 4 Rhythm Killers
+ 2254 0 0 2 BioShock 2: Minerva's Den
+ 5463 0 0 6 History of Liverpool F.C. (1985–present)
+ 8351 0 0 13 Jovan Vladimir
+ 4810 0 0 4 Eraserhead
+ 2227 0 0 6 Hurricane Nadine
+ 2541 0 0 3 Constance Stokes
+ 4092 0 0 7 Oliver Bosbyshell
+ 4196 0 0 7 Battle of Calais
+ 3160 0 0 3 Sair Tjerita Siti Akbari
+ 2817 0 0 7 WestJet Encore
+ 4711 0 0 6 Lie Kim Hok
+ 6569 0 0 12 Joaquim José Inácio, Viscount of Inhaúma
+ 3196 0 0 4 Harvey Kurtzman's Jungle Book
+ 14193 0 0 26 Muhammad Ali Jinnah
+ 6219 0 0 6 Gudovac massacre
+ 3032 0 0 3 Music for a Time of War
+ 3965 0 0 7 Pitfour estate
+ 3938 0 0 6 Goodman Beaver
+ 2816 0 0 4 Freedom for the Thought That We Hate
+ 2585 0 0 6 Calostoma cinnabarinum
+ 1731 0 0 4 Rochdale Cenotaph
+ 20339 0 0 14 Spanish conquest of Petén
+ 7876 0 0 6 British military intervention in the Sierra Leone Civil War
+ 5842 0 0 6 Fort Dobbs (North Carolina)
+ 2699 0 0 3 Leningrad première of Shostakovich's Symphony No. 7
+ 5227 0 0 12 Three-cent nickel
+ 4497 0 0 7 Three-cent silver
+ 2512 0 0 0 Kellie Loder
+ 5905 0 0 3 Death of Jimi Hendrix
+ 1955 0 0 3 Thirty Flights of Loving
+ 9883 0 0 12 Political career of John C. Breckinridge
+ 1613 0 0 3 Pah Wongso Pendekar Boediman
+ 5978 0 0 4 Pengkhianatan G30S/PKI
+ 7590 0 0 9 The Grand Budapest Hotel
+ 2501 0 0 2 Midland Railway War Memorial
+ 5585 0 0 6 Resurrectionists in the United Kingdom
+ 4010 0 0 7 Nefarious: Merchant of Souls
+ 2870 0 0 3 Marcus Ward Lyon Jr.
+ 2574 0 0 3 James Hogun
+ 3788 0 0 7 History of Lithuania (1219–95)
+ 4541 0 0 6 Boeing C-17 Globemaster III in Australian service
+ 2182 0 0 2 Nauru reed warbler
+ 3620 0 0 6 Elcor, Minnesota
+ 9287 0 0 20 Australia women's national wheelchair basketball team at the 2012 Summer Paralympics
+ 7617 0 0 15 Exhumation and reburial of Richard III of England
+ 1635 0 0 2 Kedok Ketawa
+ 6129 0 0 8 1969 Curaçao uprising
+ 5436 0 0 9 Norman Selfe
+ 3398 0 0 7 Monroe Doctrine Centennial half dollar
+ 4767 0 0 0 Throffer
+ 4741 0 0 4 Jane Cobden
+ 1357 0 0 2 Gagak Item
+ 1668 0 0 2 Fantastic Novels
+ 1932 0 0 3 Marvel Science Stories
+ 13331 0 0 15 Southern Rhodesia in World War I
+ 2729 0 0 8 Lewis and Clark Exposition gold dollar
+ 3660 0 0 4 When God Writes Your Love Story
+ 3358 0 0 7 Wordless novel
+ 1720 0 0 1 Imperator torosus
+ 3145 0 0 3 No. 1 Aircraft Depot RAAF
+ 2788 0 0 4 Gods' Man
+ 2833 0 0 5 Hasan al-Kharrat
+ 4830 0 0 10 McDonnell Douglas A-4G Skyhawk
+ 5741 0 0 3 Good Girl Gone Bad: Reloaded
+ 4278 0 0 6 Knap Hill
+ 6376 0 0 6 Lockheed C-130 Hercules in Australian service
+ 1704 0 0 3 No. 90 Wing RAAF
+ 3502 0 0 3 Evelyn Mase
+ 5292 0 0 6 Military service of Ian Smith
+ 2120 0 0 2 Chris Gragg
+ 1230 0 0 0 Si Ronda
+ 6905 0 0 15 2015 Formula One World Championship
+ 7779 0 0 21 Planar transmission line
+ 4860 0 0 6 Alan McNicoll
+ 3964 0 0 7 Bazy Tankersley
+ 4018 0 0 9 Sunbeam Tiger
+ 1644 0 0 2 Weather Machine
+ 2405 0 0 4 Bonshō
+ 3433 0 0 12 Hi-Level
+ 4620 0 0 2 Oxbow (horse)
+ 2135 0 0 3 Air Mata Iboe
+ 1814 0 0 2 Panggilan Darah
+ 4229 0 0 2 Mom & Me & Mom
+ 2507 0 0 4 Hu Zhengyan
+ 3981 0 0 3 Shorwell helmet
+ 3297 0 0 6 William Hely
+ 1411 0 0 1 Si Tjonat
+ 1924 0 0 1 Sorga Ka Toedjoe
+ 1471 0 0 2 Fuck: Word Taboo and Protecting Our First Amendment Liberties
+ 2164 0 0 4 Falcon's Fury
+ 4158 0 0 2 An Introduction to Animals and Political Theory
+ 1646 0 0 2 Pirates of the Caribbean: Armada of the Damned
+ 3928 0 0 2 New Rochelle 250th Anniversary half dollar
+ 3651 0 0 4 Elgin, Illinois, Centennial half dollar
+ 2375 0 0 3 Djaoeh Dimata
+ 1908 0 0 3 Madman's Drum
+ 3722 0 0 9 Louisiana Purchase Exposition gold dollar
+ 10930 0 0 20 Jin–Song Wars
+ 3843 0 0 5 William Harper (Rhodesian politician)
+ 2060 0 0 3 Asmara Moerni
+ 3548 0 0 7 Allah jang Palsoe
+ 4540 0 0 6 Margaret (singer)
+ 2347 0 0 3 The Million Second Quiz
+ 5943 0 0 13 Not My Life
+ 6511 0 0 8 The Negro Motorist Green Book
+ 1658 0 0 3 2013 Rosario gas explosion
+ 5927 0 0 9 Liberty Head double eagle
+ 4809 0 0 5 Grace Sherwood
+ 2354 0 0 2 Murder of Dwayne Jones
+ 3356 0 0 5 2014 U.S. Open Cup Final
+ 14205 0 0 21 John Sherman
+ 2962 0 0 5 Frank Headlam
+ 4243 0 0 4 Operation Mascot
+ 7681 0 0 15 Grand Duchess Olga Nikolaevna of Russia
+ 3383 0 0 4 John Plagis
+ 1385 0 0 4 Samuel Merrill Woodbridge
+ 3513 0 0 6 Frank Jenner
+ 2231 0 0 12 Portrait of Mariana of Austria
+ 10519 0 0 23 4th Army (Kingdom of Yugoslavia)
+ 8077 0 0 29 7th Army (Kingdom of Yugoslavia)
+ 3545 0 0 10 Milorad Petrović
+ 1912 0 0 2 A Cure for Pokeritis
+ 1669 0 0 4 Geology Hall, New Brunswick, New Jersey
+ 6631 0 0 17 2014 Japanese Grand Prix
+ 5874 0 0 14 History of Chincoteague, Virginia
+ 9446 0 0 1 Orel Hershiser's scoreless innings streak
+ 3233 0 0 6 A Song for Simeon
+ 1789 0 0 2 Family Trade
+ 6719 0 0 12 First Horizon Park
+ 3006 0 0 6 The Demi-Virgin
+ 2296 0 0 5 Capture of Wakefield
+ 5826 0 0 18 Flora of Madagascar
+ 2908 0 0 3 Finn M. W. Caspersen
+ 4064 0 0 6 Florence Fuller
+ 2111 0 0 4 Cyclone Joy
+ 9998 0 0 13 Franklin Peale
+ 3796 0 0 11 Lythronax
+ 1405 0 0 2 The Carpet from Bagdad
+ 5438 0 0 5 William Beach Thomas
+ 3063 0 0 5 Nine Stones, Winterbourne Abbas
+ 862 0 0 2 How Brown Saw the Baseball Game
+ 2450 0 0 3 Clackline Bridge
+ 5443 0 0 13 1880 Greenback National Convention
+ 2694 0 0 1 Adelaide Anne Procter
+ 4793 0 0 4 Poetry of Maya Angelou
+ 3629 0 0 8 Head VI
+ 4438 0 0 9 JC's Girls
+ 1857 0 0 2 Kona Lanes
+ 4287 0 0 4 Sultanate of Singora
+ 7372 0 0 29 James P. Hagerstrom
+ 4827 0 0 4 Valley View (Romney, West Virginia)
+ 4856 0 0 8 Lafayette dollar
+ 1431 0 0 2 Tropical Storm Zelda (1991)
+ 2969 0 0 2 Drama dari Krakatau
+ 1351 0 0 4 Subway Sadie
+ 3327 0 0 7 Caesar Hull
+ 3621 0 0 6 Thunder (mascot)
+ 1694 0 0 2 Tjioeng Wanara
+ 4857 0 0 7 The FP
+ 3467 0 0 4 Fôrça Bruta
+ 4110 0 0 4 Canadian drug charges and trial of Jimi Hendrix
+ 3240 0 0 5 Streatham portrait
+ 3397 0 0 4 A Quiet Night In
+ 7949 0 0 10 British contribution to the Manhattan Project
+ 3719 0 0 5 Old Pine Church
+ 3999 0 0 7 Capon Lake Whipple Truss Bridge
+ 2581 0 0 3 Zimbabwe women's national field hockey team at the 1980 Summer Olympics
+ 2146 0 0 2 Israel the Grammarian
+ 4175 0 0 5 Margarita with a Straw
+ 2907 0 0 4 Joehana
+ 7336 0 0 7 Hilda Rix Nicholas
+ 13438 0 0 26 California Chrome
+ 2268 0 0 5 The Boat Race 2003
+ 2540 0 0 4 Przevalski's nuthatch
+ 2041 0 0 6 The Boat Race 2012
+ 8792 0 0 4 Thorpe affair
+ 2419 0 0 4 2003 Sri Lanka cyclone
+ 2265 0 0 5 Union Films
+ 9103 0 0 7 Rhine campaign of 1796
+ 7371 0 0 11 June 1941 uprising in eastern Herzegovina
+ 5108 0 0 18 Beringian wolf
+ 3030 0 0 3 Jean Bellette
+ 3931 0 0 4 Harriet Leveson-Gower, Countess Granville
+ 1850 0 0 2 Sonic: After the Sequel
+ 1807 0 0 2 Harta Berdarah
+ 3773 0 0 5 German–Yugoslav Partisan negotiations
+ 7596 0 0 19 Ford Island
+ 1582 0 0 3 Soeara Berbisa
+ 2768 0 0 3 Paul Palaiologos Tagaris
+ 1688 0 0 2 Blue men of the Minch
+ 4051 0 0 8 The Founding Ceremony of the Nation
+ 4141 0 0 5 Freedom Planet
+ 2480 0 0 1 1850 Atlantic hurricane season
+ 5083 0 0 5 Operation Goodwood (naval)
+ 5370 0 0 6 Henry Hoʻolulu Pitman
+ 16665 0 0 24 AI Mk. IV radar
+ 2360 0 0 12 Three Beauties of the Present Day
+ 2038 0 0 5 The Boat Race 1993
+ 4926 0 0 4 Meghan Trainor
+ 2856 0 0 3 Barry Voight
+ 1999 0 0 4 James Wood Bush
+ 3344 0 0 1 Æthelstan A
+ 3381 0 0 9 Elliott Fitch Shepard
+ 2501 0 0 5 Oriental Film
+ 5335 0 0 8 Wrestle Kingdom 9
+ 3203 0 0 5 Cleveland Centennial half dollar
+ 2621 0 0 4 California Diamond Jubilee half dollar
+ 2829 0 0 5 McKinley Birthplace Memorial gold dollar
+ 2543 0 0 3 Stanley Price Weir
+ 2440 0 0 3 Hurricane Marie (2014)
+ 4057 0 0 8 2017–18 Bergen County eruv controversy
+ 2948 0 0 7 United States Sesquicentennial coinage
+ 2757 0 0 3 Mind Meld
+ 3086 0 0 2 Sisters at Heart
+ 2269 0 0 3 Jacobus Anthonie Meessen
+ 8229 0 0 7 English Benedictine Reform
+ 3166 0 0 2 Royal Naval Division War Memorial
+ 3849 0 0 7 Maria Rundell
+ 7118 0 0 5 Hugh Beadle
+ 3791 0 0 3 Florence Nagle
+ 1983 0 0 4 Hurricane Fay
+ 2462 0 0 2 No. 91 Wing RAAF
+ 4245 0 0 4 Operation Pamphlet
+ 3898 0 0 2 Hermeneutic style
+ 5540 0 0 4 The Pale Emperor
+ 2040 0 0 3 From the Doctor to My Son Thomas
+ 8061 0 0 12 Cretaceous–Paleogene extinction event
+ 2081 0 0 3 Scientific Detective Monthly
+ 6698 0 0 10 Lilias Armstrong
+ 4402 0 0 28 The Boat Races 2015
+ 2699 0 0 8 Sci-Fi Dine-In Theater Restaurant
+ 2578 0 0 1 The Breeders Tour 2014
+ 9650 0 0 15 Battle of Malvern Hill
+ 3722 0 0 19 2006 UAW-Ford 500
+ 4090 0 0 6 Suicide of Leelah Alcorn
+ 2706 0 0 2 Monroe Edwards
+ 5393 0 0 5 Girl Pat
+ 8020 0 0 12 Irataba
+ 5298 0 0 18 2006 Subway 500
+ 1876 0 0 4 Life's Shop Window
+ 8834 0 0 29 2015 Vuelta a España
+ 7137 0 0 7 Baby Driver
+ 3562 0 0 3 Bill Denny
+ 8427 0 0 6 American Pharoah
+ 3272 0 0 7 Cincinnati Musical Center half dollar
+ 1868 0 0 0 Lazarus Aaronson
+ 2543 0 0 3 Cyclone Raja
+ 10195 0 0 17 Nike-X
+ 4846 0 0 1 Hebron Church (Intermont, West Virginia)
+ 1918 0 0 5 The Sirens and Ulysses
+ 1740 0 0 3 Earth-grazing meteoroid of 13 October 1990
+ 6060 0 0 15 1804 dollar
+ 5893 0 0 13 Susan B. Anthony dollar
+ 7726 0 0 9 William Henry Harrison 1840 presidential campaign
+ 1692 0 0 2 Pacific blue-eye
+ 2753 0 0 4 Mary Margaret O'Reilly
+ 2228 0 0 3 Black American Sign Language
+ 5651 0 0 12 Panama–Pacific commemorative coins
+ 2846 0 0 7 The Destroying Angel and Daemons of Evil Interrupting the Orgies of the Vicious and Intemperate
+ 7065 0 0 28 250t-class torpedo boat
+ 4242 0 0 4 Denbies
+ 4011 0 0 4 Teresa Sampsonia
+ 4941 0 0 5 Cliff Clinkscales
+ 5021 0 0 8 Romney Literary Society
+ 16676 0 0 46 Heavy metals
+ 5497 0 0 8 27th Infantry Division Savska
+ 2303 0 0 3 Civil Service Rifles War Memorial
+ 19715 0 0 41 Palmyra
+ 7858 0 0 8 August Meyszner
+ 4144 0 0 5 Tyrone Garland
+ 2410 0 0 4 Candaules, King of Lydia, Shews his Wife by Stealth to Gyges, One of his Ministers, as She Goes to Bed
+ 2769 0 0 6 Youth on the Prow, and Pleasure at the Helm
+ 4744 0 0 5 1951 Philadelphia municipal election
+ 8111 0 0 7 Sexuality after spinal cord injury
+ 2449 0 0 7 Preparing for a Fancy Dress Ball
+ 2809 0 0 7 Musidora: The Bather 'At the Doubtful Breeze Alarmed'
+ 3769 0 0 1 Rare Replay
+ 2998 0 0 6 The World Before the Flood
+ 3452 0 0 4 Mary van Kleeck
+ 2913 0 0 8 The Combat: Woman Pleading for the Vanquished
+ 1717 0 0 5 Perijá tapaculo
+ 3164 0 0 11 Hogwarts Express (Universal Orlando Resort)
+ 2687 0 0 3 Western Area Command (RAAF)
+ 3064 0 0 8 RAAF area commands
+ 2673 0 0 7 The Triumph of Cleopatra
+ 4588 0 0 12 North-Western Area Command (RAAF)
+ 2348 0 0 3 Killer Instinct Gold
+ 2145 0 0 2 J. R. Kealoha
+ 2324 0 0 5 Britomart Redeems Faire Amoret
+ 7728 0 0 11 Slavery in ancient Greece
+ 4344 0 0 6 Gabriel Pleydell
+ 3101 0 0 6 Huguenot-Walloon half dollar
+ 3041 0 0 3 Hawaii Sesquicentennial half dollar
+ 2560 0 0 3 Imleria badia
+ 2288 0 0 5 St Botolph's Church, Quarrington
+ 2583 0 0 6 Hurricane Fred (2015)
+ 3420 0 0 8 Lexington–Concord Sesquicentennial half dollar
+ 3023 0 0 4 Norse-American medal
+ 6064 0 0 6 First Battle of Dernancourt
+ 4905 0 0 4 Christgau's Record Guide: Rock Albums of the Seventies
+ 4091 0 0 4 Cracker Barrel
+ 1593 0 0 2 It Is the Law
+ 4581 0 0 6 History of York City F.C. (1980–present)
+ 2785 0 0 5 Cyclone Chapala
+ 3928 0 0 3 Brothers Poem
+ 1530 0 0 4 Persoonia terminalis
+ 1628 0 0 1 Archie vs. Predator
+ 5204 0 0 4 Der 100. Psalm
+ 4910 0 0 5 Handel's lost Hamburg operas
+ 4965 0 0 8 Cento Vergilianus de laudibus Christi
+ 3968 0 0 25 The Boat Races 2016
+ 4115 0 0 2 Death of Ms Dhu
+ 2776 0 0 4 1st Cavalry Division (Kingdom of Yugoslavia)
+ 4314 0 0 3 Waterloo Bay massacre
+ 5888 0 0 6 2017 World Snooker Championship
+ 3932 0 0 14 Arch of Remembrance
+ 9762 0 0 14 William McKinley 1896 presidential campaign
+ 5266 0 0 3 Van Diemen's Land v Port Phillip, 1851
+ 2058 0 0 10 Hurricane Alex (2016)
+ 3447 0 0 3 Oxenfree
+ 3231 0 0 3 Oran fatwa
+ 1844 0 0 3 Devon County War Memorial
+ 2768 0 0 4 Nil Battey Sannata
+ 10847 0 0 10 Planet Nine
+ 2774 0 0 12 Spalding War Memorial
+ 1480 0 0 4 Bud Dunn
+ 2019 0 0 6 Portrait of Maria Portinari
+ 1970 0 0 5 Northampton War Memorial
+ 3263 0 0 7 Meteorological history of Hurricane Patricia
+ 2362 0 0 3 Norwich War Memorial
+ 1804 0 0 2 Mells War Memorial
+ 2190 0 0 2 York City War Memorial
+ 2394 0 0 4 North Eastern Railway War Memorial
+ 2419 0 0 3 More Hall Annex
+ 6401 0 0 20 2006 Bank of America 500
+ 8756 0 0 12 Coropuna
+ 3025 0 0 2 Seri Rambai
+ 3580 0 0 3 Heffernan v. City of Paterson
+ 3865 0 0 7 Sabrina Sidney
+ 3592 0 0 7 Pilgrim Tercentenary half dollar
+ 12199 0 0 20 History of US science fiction and fantasy magazines to 1950
+ 1567 0 0 3 Amazing Stories Quarterly
+ 1968 0 0 2 Prince Romerson
+ 4257 0 0 5 Political Animals and Animal Politics
+ 4088 0 0 4 Commander Keen in Invasion of the Vorticons
+ 2093 0 0 2 The Fade Out
+ 2954 0 0 4 Fallout 4: Far Harbor
+ 2439 0 0 2 Did You Hear What Happened to Charlotte King?
+ 5337 0 0 8 Boeing CH-47 Chinook in Australian service
+ 15010 0 0 26 Project Y
+ 15073 0 0 19 Allied logistics in the Kokoda Track campaign
+ 5615 0 0 2 Jacob Gens
+ 3981 0 0 9 The Boat Races 2017
+ 4766 0 0 3 San Junipero
+ 2350 0 0 4 Lancashire Fusiliers War Memorial
+ 8390 0 0 12 William Matthews (priest)
+ 2686 0 0 5 Maine Centennial half dollar
+ 2744 0 0 5 Missouri Centennial half dollar
+ 2764 0 0 4 Fort Vancouver Centennial half dollar
+ 4175 0 0 4 Vermont Sesquicentennial half dollar
+ 2237 0 0 5 Maryland Tercentenary half dollar
+ 2562 0 0 6 Connecticut Tercentenary half dollar
+ 2738 0 0 2 Hudson Sesquicentennial half dollar
+ 2870 0 0 7 California Pacific International Exposition half dollar
+ 3012 0 0 6 Old Spanish Trail half dollar
+ 2811 0 0 2 Rhode Island Tercentenary half dollar
+ 2960 0 0 6 Long Island Tercentenary half dollar
+ 2429 0 0 3 Lynchburg Sesquicentennial half dollar
+ 2949 0 0 6 San Francisco–Oakland Bay Bridge half dollar
+ 2601 0 0 3 Norfolk, Virginia, Bicentennial half dollar
+ 6630 0 0 16 Baltimore railroad strike of 1877
+ 4327 0 0 12 Hawker Hurricane in Yugoslav service
+ 2753 0 0 5 Illinois Centennial half dollar
+ 5704 0 0 4 Hellraiser: Judgment
+ 12117 0 0 16 1966 New York City smog
+ 5241 0 0 0 Dick Cresswell
+ 20934 0 0 11 Herbert Maryon
+ 6852 0 0 3 1257 Samalas eruption
+ 8823 0 0 13 British hydrogen bomb programme
+ 8065 0 0 9 Early history of Gowa and Talloq
+ 6069 0 0 2 Jean Bolikango
+ 9825 0 0 12 Operation Grandslam
+ 2131 0 0 1 Crackdown
+ 1891 0 0 1 A Rugrats Kwanzaa
+ 10315 0 0 12 High Explosive Research
+ 9964 0 0 14 Kalākaua's 1881 world tour
+ 3919 0 0 1 Avenue Range Station massacre
+ 4305 0 0 3 Nigel Williams (conservator)
+ 4710 0 0 4 Marcel Lihau
+ 6569 0 0 11 15th Tank Corps
+ 6508 0 0 9 South China Sea raid
+ 4545 0 0 2 Paradises Lost
+ 3355 0 0 4 Loev
+ 2481 0 0 3 Racer's hurricane
+ 2480 0 0 4 Porlock Stone Circle
+ 2081 0 0 5 Withypool Stone Circle
+ 6489 0 0 13 1896 Cedar Keys hurricane
+ 3451 0 0 7 Roosevelt dime
+ 4388 0 0 21 Gothic boxwood miniature
+ 3540 0 0 8 Kalākaua coinage
+ 1580 0 0 2 Fantasy Book
+ 5667 0 0 2 1998 NFC Championship Game
+ 3039 0 0 5 Cyclone Althea
+ 3009 0 0 5 Albany Charter half dollar
+ 5138 0 0 4 Vultee Vengeance in Australian service
+ 3234 0 0 1 Worcestershire v Somerset, 1979
+ 2809 0 0 6 Equestrian statue of Edward Horner
+ 5084 0 0 1 Birthday-number effect
+ 2516 0 0 3 Cyclone Ada
+ 3813 0 0 12 1678 Kediri campaign
+ 6939 0 0 8 2018 World Snooker Championship
+ 3069 0 0 2 Peter van Geersdaele
+ 2911 0 0 2 2017 EFL Championship play-off Final
+ 2923 0 0 2 Henry W. Sawyer
+ 2720 0 0 2 Louisiana Purchase Sesquicentennial half dollar
+ 3744 0 0 4 2010 Twenty20 Cup Final
+ 4894 0 0 9 6th Massachusetts Militia Regiment
+ 4259 0 0 6 Guilden Morden boar
+ 3412 0 0 3 Gevninge helmet fragment
+ 2604 0 0 4 Waterloo Medal (Pistrucci)
+ 3626 0 0 39 Mosaics of Delos
+ 8230 0 0 21 Ethiopian historiography
+ 4232 0 0 14 The Boat Race 2018
+ 15108 0 0 15 Ice drilling
+ 6884 0 0 5 John Doubleday (restorer)
+ 2454 0 0 10 The Princesse de Broglie
+ 4602 0 0 4 Caroline Brady (philologist)
+ 1539 0 0 5 Helicopter 66
+ 7809 0 0 4 Second Australian Imperial Force in the United Kingdom
+ 7252 0 0 16 History of aluminium
+ 15530 0 0 16 Construction of Rockefeller Center
+ 9189 0 0 17 Dali (goddess)
+ 3682 0 0 6 Emesa helmet
+ 2486 0 0 2 IFF Mark II
+ 2821 0 0 6 Cadaver Tomb of René of Chalon
+ 10280 0 0 17 British logistics in the Normandy campaign
+ 4658 0 0 24 2007 AT&T 250
+ 4121 0 0 8 Herman Vandenburg Ames
+ 9861 0 0 16 Cooperative pulling paradigm
+ 7715 0 0 28 Pyramid of Nyuserre
+ 12855 0 0 8 Parliament of 1327
+ 3444 0 0 2 Razing of Friesoythe
+ 2051 0 0 4 Sutton Hoo Helmet (sculpture)
+ 4779 0 0 11 Apollo 11 50th Anniversary commemorative coins
+ 2462 0 0 4 Horncastle boar's head
+ 11239 0 0 21 INTERFET logistics
+ 9272 0 0 12 Yeomanry Cavalry
+ 2218 0 0 3 Tutupaca
+ 8825 0 0 10 Bombing of Tokyo (10 March 1945)
+ 5983 0 0 13 Distributed-element circuit
+ 8718 0 0 8 2019 World Snooker Championship
+ 3601 0 0 4 Russian occupations of Beirut
+ 10511 0 0 18 History of the Nashville Sounds
+ 1409 0 0 2 Drake Would Love Me
+ 4889 0 0 4 Ubinas
+ 4935 0 0 9 1927 Chicago mayoral election
+ 1513 0 0 5 Tropical Storm Carlotta (2018)
+ 3992 0 0 6 Wōdejebato
+ 2439 0 0 6 Packers sweep
+ 2795 0 0 1 Vance Drummond
+ 3110 0 0 3 Limalok
+ 3984 0 0 13 The Boat Race 2019
+ 4146 0 0 13 Siege of Berwick (1333)
+ 3203 0 0 4 Operation Boomerang
+ 4680 0 0 5 Siegfried Lederer's escape from Auschwitz
+ 3452 0 0 5 Hurricane Lane (2018)
+ 4475 0 0 8 History of the Office of the Inspector General of the United States Army
+ 7333 0 0 5 Loveday, 1458
+ 8303 0 0 5 Coterel gang
+ 3018 0 0 5 Tropical Depression Nineteen-E (2018)
+ 2075 0 0 5 Hurricane Rosa (2018)
+ 11064 0 0 17 The Holocaust in Slovakia
+ 2800 0 0 1 Lou Spence
+ 3522 0 0 5 Resolution Guyot
+ 3622 0 0 2 Horizon Guyot
+ 2861 0 0 4 2019 Tour Championship
+ 3385 0 0 3 Allison Guyot
+ 6747 0 0 5 John FitzWalter, 2nd Baron FitzWalter
+ 4936 0 0 14 Gascon campaign of 1345
+ 2335 0 0 5 Hurricane Sergio (2018)
+ 2240 0 0 8 Georgetown Car Barn
+ 2463 0 0 4 Tropical Storm Vicente (2018)
+ 3440 0 0 11 Siege of Aiguillon
+ 4922 0 0 4 Hurricane Willa
+ 7568 0 0 14 Crécy campaign
+ 2239 0 0 4 Bernard A. Maguire
+ 1335 0 0 3 Tropical Storm Ileana (2018)
+ 4246 0 0 9 Thomas F. Mulledy
+ 4648 0 0 10 A History of the Birds of Europe
+ 3479 0 0 5 James A. Ryder
+ 8509 0 0 9 Duke and Duchess of Windsor's 1937 tour of Germany
+ 2387 0 0 7 SOLRAD 1
+ 2042 0 0 6 SOLRAD 2
+ 5094 0 0 6 Adele Spitzeder
+ 4558 0 0 5 Digital media use and mental health
+ 3247 0 0 7 Charles H. Stonestreet
+ 3560 0 0 8 2020 Masters (snooker)
+ 2180 0 0 4 William McSherry
+ 6426 0 0 23 Inter-Allied Women's Conference
+ 1730 0 0 2 Joseph A. Lopez
+ 3188 0 0 2 Keldholme Priory election dispute
+ 1993 0 0 2 John W. Beschter
+ 2811 0 0 3 Gadsden Purchase half dollar
+ 2868 0 0 6 The Boat Race 2020
+ 11074 0 0 20 Ceilings of the Natural History Museum, London
+ 3720 0 0 8 Grant Memorial coinage
+ 5440 0 0 4 Hyborian War
+ 2976 0 0 2 2019 Champion of Champions
+ 1414 0 0 2 Fir Clump Stone Circle
+ 4439 0 0 4 Littlemore Priory scandals
+ 2047 0 0 2 Samuel Mulledy
+ 4257 0 0 3 Margaret Macpherson Grant
+ 3097 0 0 5 David Hillhouse Buel (priest)
+ 2661 0 0 7 Meteorological history of Hurricane Dorian
+ 4178 0 0 6 Roman temple of Bziza
+ 2998 0 0 5 Hurricane Humberto (2019)
+ 2120 0 0 4 Battle of Babylon Hill
+ 6085 0 0 6 James Humphreys (pornographer)
+ 8906 0 0 5 Fatimid conquest of Egypt
+ 6214 0 0 4 Murder of William de Cantilupe
+ 3270 0 0 5 Bombing of Obersalzberg
+ 2371 0 0 3 Stucky (fandom)
+ 5309 0 0 11 Portraits of Odaenathus
+ 1997 0 0 3 Battle of Marshall's Elm
+ 9423 0 0 3 History of the Wales national football team (1876–1976)
+ 5082 0 0 9 History of the Jews in Dęblin and Irena during World War II
+ 3101 0 0 9 The Minute Man
+ 1817 0 0 3 James Thompson (surveyor)
+ 7221 0 0 12 Elizabeth Willing Powel
+ 5504 0 0 9 Partisan Congress riots
+ 2669 0 0 5 2020 Tour Championship
+ 2244 0 0 5 1940 Mandatory Palestine v Lebanon football match
+ 3326 0 0 2 Cardiff City F.C. 2–1 Leeds United F.C. (2002)
+ 4722 0 0 3 Five Go Down to the Sea?
+ 9045 0 0 11 Discovery of nuclear fission
+ 3634 0 0 4 Landis' Missouri Battery
