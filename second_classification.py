@@ -13,14 +13,14 @@ nf_list = []
 with open('flist.txt','r') as myFile:
     for line in myFile:
         line = line.split(' ')
-        count = int(line[1]) + int(line[2]) + int(line[3]) + int(line[4])
+        count = int(line[0]) + int(line[1]) + int(line[2]) + int(line[3]) + int(line[4])
         f_list.append(['FA', count])
 
 count = 0
 with open('nflist.txt','r') as myFile:
     for line in myFile:
         line = line.split(' ')
-        count = int(line[1]) + int(line[2]) + int(line[3]) + int(line[4])
+        count = int(line[0]) + int(line[1]) + int(line[2]) + int(line[3]) + int(line[4])
         nf_list.append(['NF', count])
         
         if count == 11547:
@@ -74,13 +74,13 @@ nf_total = 0
 #total = 0
 
 for article_id in test_set:
-    if isinstance(article_id, int):
+    if article_id[0] == 'NF':
         nf_total += 1
-        if article_id > 2500:
+        if article_id[1] > 2000:
             nf_error += 1
     else:
         f_total += 1
-        if int(article_id[0]) < 2500:
+        if article_id[1] < 2000:
             f_error += 1
                      
 
